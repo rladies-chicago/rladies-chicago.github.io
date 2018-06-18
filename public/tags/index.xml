@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on R-Ladies Chicago</title>
+    <link>/users/katherinesimeon/Documents/R_Programming/R-Ladies/rladieschicago_website/tags/</link>
+    <description>Recent content in Tags on R-Ladies Chicago</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/users/katherinesimeon/Documents/R_Programming/R-Ladies/rladieschicago_website/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>/users/katherinesimeon/Documents/R_Programming/R-Ladies/rladieschicago_website/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/users/katherinesimeon/Documents/R_Programming/R-Ladies/rladieschicago_website/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>Astrostatistics</title>
+      <link>/users/katherinesimeon/Documents/R_Programming/R-Ladies/rladieschicago_website/tags/astrostatistics/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/users/katherinesimeon/Documents/R_Programming/R-Ladies/rladieschicago_website/tags/astrostatistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nlp</title>
+      <link>/users/katherinesimeon/Documents/R_Programming/R-Ladies/rladieschicago_website/tags/nlp/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/users/katherinesimeon/Documents/R_Programming/R-Ladies/rladieschicago_website/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study-groups</title>
+      <link>/users/katherinesimeon/Documents/R_Programming/R-Ladies/rladieschicago_website/tags/study-groups/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/users/katherinesimeon/Documents/R_Programming/R-Ladies/rladieschicago_website/tags/study-groups/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
