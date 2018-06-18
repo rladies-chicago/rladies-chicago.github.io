@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Data Visualization</title>
+      <link>/project/dataviz/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/dataviz/</guid>
+      <description>This study group meets to discuss different ways to visualize data in R. Members are encouraged to suggest data sets to use. The study group also works on monthly data viz challenges such as r/DataIsBeautiful. Join the #sg-dataviz channel on Slack or contact Abhinaya, the DataViz study group coordinator.</description>
+    </item>
+    
+    <item>
       <title>Natural Language Processing</title>
       <link>/project/nlp/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
