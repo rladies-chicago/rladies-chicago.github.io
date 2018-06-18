@@ -8,6 +8,6 @@ title = "Tags"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 85
+weight = 95
 
 +++

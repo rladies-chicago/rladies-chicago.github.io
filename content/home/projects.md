@@ -8,7 +8,7 @@ title = "Study Groups"
 subtitle = "Study groups meet separately from our monthly meetups to talk about specific topics in R."
 
 # Order that this section will appear in.
-weight = 50
+weight = 60
 
 # Content.
 # Display content from the following folder.

@@ -1,7 +1,7 @@
 +++
 title = "Leadership Team"
 menu = "main"
-weight = 70
+weight = 80
 +++
 
 

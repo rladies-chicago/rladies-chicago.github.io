@@ -2,7 +2,7 @@
 title = "Welcome to <br/>R-Ladies Chicago!"
 subtitle = " [Meetup](https://www.meetup.com/rladies-chicago/) <br/> [Twitter](https://twitter.com/RLadiesChicago) <br/> [Github](https://github.com/rladies-chicago) "
 date = "2018-05-09"
-weight = 10
+weight = 30
 +++
 
 

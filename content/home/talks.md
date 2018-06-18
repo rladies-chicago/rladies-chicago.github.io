@@ -8,7 +8,7 @@ title = "Events"
 subtitle = "See our [Meetup Page](https://www.meetup.com/rladies-chicago/) for the most up-to-date info about our upcoming events!"
 
 # Order that this section will appear in.
-weight = 30
+weight = 50
 
 # Number of talks to list.
 count = 3
