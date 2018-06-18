@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study-groups on R-Ladies Chicago</title>
-    <link>/users/katherinesimeon/Documents/R_Programming/R-Ladies/rladieschicago_website/tags/study-groups/</link>
+    <link>/tags/study-groups/</link>
     <description>Recent content in Study-groups on R-Ladies Chicago</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 18 Jun 2018 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/users/katherinesimeon/Documents/R_Programming/R-Ladies/rladieschicago_website/tags/study-groups/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/study-groups/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Astrostatistics</title>
-      <link>/users/katherinesimeon/Documents/R_Programming/R-Ladies/rladieschicago_website/project/astrostatistics/</link>
+      <link>/project/astrostatistics/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
       
-      <guid>/users/katherinesimeon/Documents/R_Programming/R-Ladies/rladieschicago_website/project/astrostatistics/</guid>
+      <guid>/project/astrostatistics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natural Language Processing</title>
-      <link>/users/katherinesimeon/Documents/R_Programming/R-Ladies/rladieschicago_website/project/nlp/</link>
+      <link>/project/nlp/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
       
-      <guid>/users/katherinesimeon/Documents/R_Programming/R-Ladies/rladieschicago_website/project/nlp/</guid>
+      <guid>/project/nlp/</guid>
       <description></description>
     </item>
     
