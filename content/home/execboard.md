@@ -12,7 +12,7 @@ weight = 80
 ### Anne Corinne Carroll  
 <img src="/img/exec/Anne.jpg" align="left" style="margin: 5px 10px" alt="">  
   
-**Anne Corinne Carroll** currently works at Rush Medical Center on the Assessment & Evaluation Team while pursuing a PhD in Occupational Health Psychology at East Carolina University. Previously she worked as a Content Analyst at Hanover Research where she focused on using surveys for program evaluation and school climate assessment.  Anne uses R utilizes her background in psychometrics and structural equation modeling to analyze a variety of survey data. In her free time, she enjoys yoga, kayaking, and exploring Chicago.  
+**Anne Corinne Carroll** currently works at Rush Medical Center on the Assessment & Evaluation Team while pursuing a PhD in Occupational Health Psychology at East Carolina University. Previously she worked as a Content Analyst at Hanover Research where she focused on using surveys for program evaluation and school climate assessment.  Anne uses R and her background in psychometrics and structural equation modeling to analyze a variety of survey data. In her free time, she enjoys yoga, kayaking, and exploring Chicago.  
    
    
   

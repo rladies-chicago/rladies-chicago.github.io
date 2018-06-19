@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R-Ladies Chicago on R-Ladies Chicago</title>
-    <link>https://rladies-chicago.github.io/</link>
+    <link>/</link>
     <description>Recent content in R-Ladies Chicago on R-Ladies Chicago</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,37 +12,37 @@
     
     <item>
       <title>Astrostatistics</title>
-      <link>https://rladies-chicago.github.io/project/astrostatistics/</link>
+      <link>/project/astrostatistics/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://rladies-chicago.github.io/project/astrostatistics/</guid>
+      <guid>/project/astrostatistics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natural Language Processing</title>
-      <link>https://rladies-chicago.github.io/project/nlp/</link>
+      <link>/project/nlp/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://rladies-chicago.github.io/project/nlp/</guid>
+      <guid>/project/nlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DataCamp &amp; DataViz</title>
-      <link>https://rladies-chicago.github.io/talk/2018-05-meetup/</link>
+      <link>/talk/2018-05-meetup/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
-      <guid>https://rladies-chicago.github.io/talk/2018-05-meetup/</guid>
+      <guid>/talk/2018-05-meetup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NLP Study Group Kick-Off Meeting</title>
-      <link>https://rladies-chicago.github.io/talk/2018-06-26_nlp/</link>
+      <link>/talk/2018-06-26_nlp/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
-      <guid>https://rladies-chicago.github.io/talk/2018-06-26_nlp/</guid>
+      <guid>/talk/2018-06-26_nlp/</guid>
       <description>&lt;p&gt;The NLP Study Group is starting their summer book club! Join us as we start discussing the first two chapters of &lt;a href=&#34;https://www.tidytextmining.com/&#34; target=&#34;_blank&#34;&gt;Text Mining with R&lt;/a&gt;. All are welcome! Please email study group coordinator Katherine [at] rladies dot org with any questions.&lt;/p&gt;
 </description>
     </item>

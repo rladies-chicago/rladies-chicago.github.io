@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Astrostatistics on R-Ladies Chicago</title>
-    <link>https://rladies-chicago.github.io/tags/astrostatistics/</link>
+    <link>/tags/astrostatistics/</link>
     <description>Recent content in Astrostatistics on R-Ladies Chicago</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 18 Jun 2018 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://rladies-chicago.github.io/tags/astrostatistics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/astrostatistics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Astrostatistics</title>
-      <link>https://rladies-chicago.github.io/project/astrostatistics/</link>
+      <link>/project/astrostatistics/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://rladies-chicago.github.io/project/astrostatistics/</guid>
+      <guid>/project/astrostatistics/</guid>
       <description></description>
     </item>
     
