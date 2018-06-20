@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Study-groups on R-Ladies Chicago</title>
-    <link>/tags/study-groups/</link>
-    <description>Recent content in Study-groups on R-Ladies Chicago</description>
+    <title>Dataviz on R-Ladies Chicago</title>
+    <link>/tags/dataviz/</link>
+    <description>Recent content in Dataviz on R-Ladies Chicago</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Jun 2018 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/study-groups/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/dataviz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,24 +19,6 @@
       
       <guid>/project/dataviz/</guid>
       <description>The data viz study group discusses different ways to visualize data in R. Currently, members are taking on the monthly r/DataIsBeautiful challenge. Participants can also suggest a data set to work with. Join us on our slack channel #sg-dataviz or contact Abhinaya, the study group coordinator.</description>
-    </item>
-    
-    <item>
-      <title>Astrostatistics</title>
-      <link>/project/astrostatistics/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/project/astrostatistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natural Language Processing</title>
-      <link>/project/nlp/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/project/nlp/</guid>
-      <description></description>
     </item>
     
   </channel>

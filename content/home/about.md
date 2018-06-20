@@ -18,6 +18,10 @@ Our goal is to make the R programming language more popular and accessible espec
     
 *All events are intended for all women who are interested in attending. We are emphatically queer and trans friendly.*  
   
-To see our upcoming meetings, check out our **[Meetup Page](https://www.meetup.com/rladies-chicago/).**  
+To see our upcoming meetings, check out our **[Meetup Page](https://www.meetup.com/rladies-chicago/).** Email us at **[chicago@rladies.org](mailto:chicago@rladies.org).** 
   
-To see other chapters of R-Ladies, visit the website of **[R-Ladies Global](https://rladies.org/).**  
+To see other chapters of R-Ladies, visit the website of **[R-Ladies Global](https://rladies.org/).**    
+  
+R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. We follow the **[R-Ladies International Code of Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct).**
+
+
