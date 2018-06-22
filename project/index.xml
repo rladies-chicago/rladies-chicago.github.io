@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 18 Jun 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jun 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>/project/dataviz/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/dataviz/</guid>
+      <description>The data viz study group discusses different ways to visualize data in R. Currently, members are taking on the monthly r/DataIsBeautiful challenge. Participants can also suggest a data set to work with. Join us on our slack channel #sg-dataviz or contact Abhinaya, the study group coordinator.</description>
+    </item>
     
     <item>
       <title>Astrostatistics</title>
