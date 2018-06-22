@@ -22,21 +22,22 @@
     </item>
     
     <item>
-      <title>July Meetup (details TBA!)</title>
-      <link>/talk/2018-07-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
-      
-      <guid>/talk/2018-07-meetup/</guid>
-      <description>Mark your calendars for Monday, July 2! More details about this meetup will be announced soon.</description>
-    </item>
-    
-    <item>
       <title>NLP Study Group Kick-Off Meeting</title>
       <link>/talk/2018-06-26_nlp/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-06-26_nlp/</guid>
       <description>The NLP Study Group is starting their summer book club! Join us as we start discussing the first two chapters of Text Mining with R. All are welcome! Please email study group coordinator Katherine [at] rladies dot org with any questions.</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Summer Social: Sip &amp; Code</title>
+      <link>/talk/2018-07-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-07-meetup/</guid>
+      <description>We will taste some wines (and non-alcoholic drinks too!) and rate them based on the winemag.com scoring system. Then, we will work together in small groups to analyze and visualize the wine preferences of R-Ladies in R! Wine is absolutely optional &amp;ndash;we&amp;rsquo;ll have non-alcoholic beverages &amp;amp; food too.
+We&amp;rsquo;ll also be introducing some R-Ladies Chicago outreach initiatives, including our new website: rladieschicago.org and kicking-off our Random Acts of Coffee program!</description>
     </item>
     
   </channel>
