@@ -251,16 +251,11 @@ enableGitInfo = false
   name = "Leadership Team"
   url = "#execboard"
   weight = 4
-
-[[menu.main]]
-  name = "Meetup"
-  url = "https://www.meetup.com/rladies-chicago/"
-  weight = 5
-
+ 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Taxonomies.
 [taxonomies]
