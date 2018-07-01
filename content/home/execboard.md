@@ -18,6 +18,15 @@ weight = 80
   
   
   
+### Melinda Conners  
+<img src="/img/exec/Melinda.jpg" align="left" style="margin: 5px 10px" alt="">  
+  
+**Melinda Conners, PhD** is a research associate/postdoctoral fellow with the Marine Sustainability Ecology Lab at Old Dominion University. Melinda’s science focuses on understanding the causes and consequences of animal movements and migrations, with research questions that are particularly relevant to conserving wildlife. She has worked with animal bio-logging technology and remotely-sensed environmental data for over 10 years and has fully converted to R for all her science and data analysis needs. She is particularly fond of the open-source nature of R and the strong community behind it. Melinda is a California transplant to Chicago and when not behind her computer in Fulton Market, you can find her covered in mud and lost in the woods with her german shepherd Tuk.   
+   
+   
+  
+  
+  
 ### Abhinaya Konduru
 <img src="/img/exec/Abhinaya.jpg" align="left" style="margin: 5px 10px" alt="">  
   
@@ -60,4 +69,4 @@ weight = 80
 ![We are grateful to R-Ladies Chicago Founding Board Members: Angela Li, Kaelen Medeiros, & Amanda Dobbyn](/img/exec/Founders.jpg)  
   
   
-R-Ladies Chicago was founded in July 2017 by Angela Li. We are grateful to the founding members who have brought our community to life: **Angela Li**, **Kaelen Medeiros**, & **Amanda Dobbyn**.
+R-Ladies Chicago was founded in July 2017 by Angela Li. We are grateful to the founding members who have brought our community to life: **Angela Li**, **Amanda Dobbyn**, & **Kaelen Medeiros**.
