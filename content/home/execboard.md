@@ -22,6 +22,15 @@ weight = 80
 <img src="/img/exec/Melinda.jpg" align="left" style="margin: 5px 10px" alt="">  
   
 **Melinda Conners, PhD** is a research associate/postdoctoral fellow with the Marine Sustainability Ecology Lab at Old Dominion University. Melinda’s science focuses on understanding the causes and consequences of animal movements and migrations, with research questions that are particularly relevant to conserving wildlife. She has worked with animal bio-logging technology and remotely-sensed environmental data for over 10 years and has fully converted to R for all her science and data analysis needs. She is particularly fond of the open-source nature of R and the strong community behind it. Melinda is a California transplant to Chicago and when not behind her computer in Fulton Market, you can find her covered in mud and lost in the woods with her german shepherd Tuk.   
+      
+   
+  
+  
+  
+### Zaynaib Giwa
+<img src="/img/exec/Ola.jpg" align="left" style="margin: 5px 10px" alt="">  
+  
+**Zaynaib Giwa** is a Clinical Data Analyst at the University of Illinois at Chicago. Zaynaib Giwa is a self-taught programmer who uses her talents as a consultant of small businesses and startups. Zaynaib has redesigned and maintains a website for the City of Champaign- Urbana Regional Planning Commission, the Illinois Sustainable Technology Center, and Performers Music. She is a graduate of the University of Illinois with a Bachelor’s Degree in Statistics and a Masters Degree in Library and Information Sciences. You can read about her latest projects on her blog, [zenagiwa.wordpress.com](https://zenagiwa.wordpress.com/).  
    
    
   

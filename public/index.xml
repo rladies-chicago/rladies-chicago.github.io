@@ -11,6 +11,27 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Call Blog Posts</title>
+      <link>/post/2018-07-16_blog_info/</link>
+      <pubDate>Mon, 16 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2018-07-16_blog_info/</guid>
+      <description>&lt;p&gt;R-Ladies Chicago is excited to start this blog to showcase the perspectives of different members in the R-Ladies Chicago community!&lt;/p&gt;
+&lt;p&gt;We are looking for individuals who are interested in contributing to this blog. Whether you just want to write a single blog post or contribute regularly, we want to hear from you!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sample Blog Post</title>
+      <link>/post/2018-07-01_samplepost/</link>
+      <pubDate>Sun, 01 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2018-07-01_samplepost/</guid>
+      <description>&lt;p&gt;Hello! This is a sample blog post&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Data Visualization</title>
       <link>/project/dataviz/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>

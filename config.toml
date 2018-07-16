@@ -246,16 +246,21 @@ enableGitInfo = false
   name = "Study Groups"
   url = "#projects"
   weight = 3
+ 
+[[menu.main]]
+  name = "Blog"
+  url = "#posts"
+  weight = 4
   
 [[menu.main]]
   name = "Leadership Team"
   url = "#execboard"
-  weight = 4
+  weight = 5
  
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 6
 
 # Taxonomies.
 [taxonomies]
