@@ -18,7 +18,18 @@
       <pubDate>Sun, 01 Jul 2018 21:13:14 -0500</pubDate>
       
       <guid>/post/2018-07-01_samplepost/</guid>
-      <description>Hello! This is a sample blog post</description>
+      <description>Hello! This is a sample blog post. Be sure to update the header and use the following naming convention when submitting your file:
+YYYY-MM-DD-LASTNAME.Rmd</description>
+    </item>
+    
+    <item>
+      <title>Sample Blog Post</title>
+      <link>/post/blog_post_template/</link>
+      <pubDate>Sun, 01 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/blog_post_template/</guid>
+      <description>Hello! This is a sample blog post. Be sure to update the header and use the following naming convention when submitting your file:
+YYYY-MM-DD-LASTNAME.Rmd</description>
     </item>
     
   </channel>
