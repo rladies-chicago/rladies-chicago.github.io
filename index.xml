@@ -11,6 +11,27 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Call for Blog Posts</title>
+      <link>/post/2018-07-16_blog_info/</link>
+      <pubDate>Mon, 16 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2018-07-16_blog_info/</guid>
+      <description>&lt;p&gt;R-Ladies Chicago is excited to start this blog to showcase the perspectives of different members in the R-Ladies Chicago community!&lt;/p&gt;
+&lt;p&gt;We are looking for individuals who are interested in contributing to this blog. Whether you just want to write a single blog post or contribute regularly, we want to hear from you!&lt;/p&gt;
+&lt;p&gt;We’re hoping to have two new posts each month on this blog. Blog posts could consist of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Event Recaps (either an R-Ladies Meetup or Study Group Meeting or another R-related event)&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Learning something new in R (introducing a package or function in R)&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Member profiles (we would love to spotlight members of the R-Ladies Chicago Community)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For more details about contributing, please visit our &lt;a href=&#34;https://github.com/rladies-chicago/blog&#34;&gt;github repo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you have any questions, please email us at &lt;a href=&#34;mailto:chicago@rladies.org&#34;&gt;chicago@rladies.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Data Visualization</title>
       <link>/project/dataviz/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
