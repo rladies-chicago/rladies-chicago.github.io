@@ -30,7 +30,7 @@ weight = 80
 ### Zaynaib Giwa
 <img src="/img/exec/Ola.jpg" align="left" style="margin: 5px 10px" alt="">  
   
-**Zaynaib Giwa** is a Clinical Data Analyst at the University of Illinois at Chicago. Zaynaib Giwa is a self-taught programmer who uses her talents as a consultant of small businesses and startups. Zaynaib has redesigned and maintains a website for the City of Champaign- Urbana Regional Planning Commission, the Illinois Sustainable Technology Center, and Performers Music. She is a graduate of the University of Illinois with a Bachelor’s Degree in Statistics and a Masters Degree in Library and Information Sciences. You can read about her latest projects on her blog, [zenagiwa.wordpress.com](https://zenagiwa.wordpress.com/).  
+**Zaynaib (Ola) Giwa** is a Clinical Data Analyst at the University of Illinois at Chicago. Zaynaib Giwa is a self-taught programmer who uses her talents as a consultant of small businesses and startups. Zaynaib has redesigned and maintains a website for the City of Champaign- Urbana Regional Planning Commission, the Illinois Sustainable Technology Center, and Performers Music. She is a graduate of the University of Illinois with a Bachelor’s Degree in Statistics and a Masters Degree in Library and Information Sciences. You can read about her latest projects on her blog, [zenagiwa.wordpress.com](https://zenagiwa.wordpress.com/).  
    
    
   

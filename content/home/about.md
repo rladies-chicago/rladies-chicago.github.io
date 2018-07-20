@@ -1,6 +1,6 @@
 +++
 title = "Welcome to <br/>R-Ladies Chicago!"
-subtitle = " [Meetup](https://www.meetup.com/rladies-chicago/) <br/> [Twitter](https://twitter.com/RLadiesChicago) <br/> [Github](https://github.com/rladies-chicago) <br/> [Slack](https://rladies-chicago.slack.com)"
+subtitle = " [Meetup](https://www.meetup.com/rladies-chicago/) <br/> [Twitter](https://twitter.com/RLadiesChicago) <br/> [Github](https://github.com/rladies-chicago) <br/> [Slack](https://rladies-chicago.slack.com) <br/> [Sponsors](#sponsors)"
 date = "2018-05-09"
 weight = 30
 +++
