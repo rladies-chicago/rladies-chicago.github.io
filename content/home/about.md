@@ -14,9 +14,11 @@ weight = 30
     
 **We are the Chicago Chapter of R-Ladies!**  
   
-Our goal is to make the R programming language more popular and accessible especially among women. Anyone with an interest in R is welcome. You can be an R expert or novice. We will promote R, exchange ideas and knowledge and create a friendly network among women who use R!  
+R-Ladies is a global organization whose mission is to promote gender diversity in the R community. Our goal is to encourage, inspire, and empower people of genders currently underrepresented in the R community.
+  
+Anyone with an interest in R is welcome--beginners, experts and everyone in between. We exchange ideas, share knowledge, and create a friendly network among women who use R!   
     
-*All events are intended for all women who are interested in attending. We are emphatically queer and trans friendly.*  
+*All events are intended for all women and minority genders who are interested in attending. This includes, but is not limited to, cis/trans women, trans men, non-binary, genderqueer, agender. We are emphatically queer and trans friendly.*  
   
 To see our upcoming meetings, check out our **[Meetup Page](https://www.meetup.com/rladies-chicago/).** Email us at **[chicago@rladies.org](mailto:chicago@rladies.org).** 
   

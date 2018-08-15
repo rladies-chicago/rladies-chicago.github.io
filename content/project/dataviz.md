@@ -23,4 +23,4 @@ math = false
 
 +++
 
-The data viz study group discusses different ways to visualize data in R. Currently, members are taking on the monthly [r/DataIsBeautiful](http://reddit.com/r/dataisbeautiful) challenge. Participants can also suggest a data set to work with. Join us on our [slack](https://rladies-chicago.slack.com) channel **#sg-dataviz** or contact Abhinaya, the study group coordinator.
+The data viz study group discusses different ways to visualize data in R. Currently, members are taking on the monthly [r/DataIsBeautiful](http://reddit.com/r/dataisbeautiful) challenge. Participants can also suggest a data set to work with. Join us on our [slack](https://rladies-chicago.slack.com) channel **#sg-dataviz** or email study group coordinator Ola [at] rladies dot org.

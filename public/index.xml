@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Data Viz Study Group Meeting</title>
+      <link>/talk/2018-09-10_dataviz/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/2018-09-10_dataviz/</guid>
+      <description>&lt;p&gt;Join the Data Viz study group for their first meeting! All are welcome! Please email study group coordinator Ola [at] rladies dot org or join our &lt;strong&gt;#sg-dataviz&lt;/strong&gt; slack channel with any questions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Call for Blog Posts</title>
       <link>/post/2018-07-16_blog_info/</link>
       <pubDate>Mon, 16 Jul 2018 21:13:14 -0500</pubDate>
@@ -37,7 +47,7 @@
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/dataviz/</guid>
-      <description>&lt;p&gt;The data viz study group discusses different ways to visualize data in R. Currently, members are taking on the monthly &lt;a href=&#34;http://reddit.com/r/dataisbeautiful&#34; target=&#34;_blank&#34;&gt;r/DataIsBeautiful&lt;/a&gt; challenge. Participants can also suggest a data set to work with. Join us on our &lt;a href=&#34;https://rladies-chicago.slack.com&#34; target=&#34;_blank&#34;&gt;slack&lt;/a&gt; channel &lt;strong&gt;#sg-dataviz&lt;/strong&gt; or contact Abhinaya, the study group coordinator.&lt;/p&gt;
+      <description>&lt;p&gt;The data viz study group discusses different ways to visualize data in R. Currently, members are taking on the monthly &lt;a href=&#34;http://reddit.com/r/dataisbeautiful&#34; target=&#34;_blank&#34;&gt;r/DataIsBeautiful&lt;/a&gt; challenge. Participants can also suggest a data set to work with. Join us on our &lt;a href=&#34;https://rladies-chicago.slack.com&#34; target=&#34;_blank&#34;&gt;slack&lt;/a&gt; channel &lt;strong&gt;#sg-dataviz&lt;/strong&gt; or email study group coordinator Ola [at] rladies dot org.&lt;/p&gt;
 </description>
     </item>
     
@@ -115,6 +125,16 @@
       
       <guid>/talk/2018-08-13_nlp/</guid>
       <description>&lt;p&gt;The NLP Study Group is working through their summer book club! Join us as we discuss the third chapter of &lt;a href=&#34;https://www.tidytextmining.com/&#34; target=&#34;_blank&#34;&gt;Text Mining with R&lt;/a&gt; on &lt;strong&gt;tf-idf&lt;/strong&gt;. We will also have a lightning talk about a package related to working with text data. All are welcome! Please email study group coordinator Katherine [at] rladies dot org or join our &lt;strong&gt;#sg-nlp&lt;/strong&gt; slack channel with any questions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Chicago August Meetup</title>
+      <link>/talk/2018-08-27-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-08-27-meetup/</guid>
+      <description>&lt;p&gt;More information coming soon!&lt;/p&gt;
 </description>
     </item>
     
