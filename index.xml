@@ -16,7 +16,9 @@
       <pubDate>Sun, 26 Aug 2018 00:00:00 -0500</pubDate>
       
       <guid>/talk/2018-09-10_dataviz/</guid>
-      <description>&lt;p&gt;Join the Data Viz study group for their first meeting! All are welcome! Please email study group coordinator Ola [at] rladies dot org or join our &lt;strong&gt;#sg-dataviz&lt;/strong&gt; slack channel with any questions.&lt;/p&gt;
+      <description>&lt;p&gt;Join the Data Viz study group for their first meeting!  We&amp;rsquo;ll be exploring the grammar of graphics with R. There will also be an introduction to ggplot2. All are welcome!&lt;/p&gt;
+
+&lt;p&gt;Please email study group coordinator Ola [at] rladies dot org or join our &lt;strong&gt;#sg-dataviz&lt;/strong&gt; slack channel with any questions.&lt;/p&gt;
 </description>
     </item>
     
@@ -47,7 +49,12 @@
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/dataviz/</guid>
-      <description>&lt;p&gt;The data viz study group discusses different ways to visualize data in R. Currently, members are taking on the monthly &lt;a href=&#34;http://reddit.com/r/dataisbeautiful&#34; target=&#34;_blank&#34;&gt;r/DataIsBeautiful&lt;/a&gt; challenge. Participants can also suggest a data set to work with. Join us on our &lt;a href=&#34;https://rladies-chicago.slack.com&#34; target=&#34;_blank&#34;&gt;slack&lt;/a&gt; channel &lt;strong&gt;#sg-dataviz&lt;/strong&gt; or email study group coordinator Ola [at] rladies dot org.&lt;/p&gt;
+      <description>&lt;p&gt;The data viz study group discusses different ways to visualize data in R. Activities that we&amp;rsquo;ve done include:&lt;br /&gt;
+&amp;gt; Taking on the monthly &lt;a href=&#34;http://reddit.com/r/dataisbeautiful&#34; target=&#34;_blank&#34;&gt;r/DataIsBeautiful&lt;/a&gt; challenge.&lt;br /&gt;
+&amp;gt; Exploring functionalities of ggplot2&lt;br /&gt;
+&amp;gt; Visualizing specific data sets&lt;/p&gt;
+
+&lt;p&gt;Join us on our &lt;a href=&#34;https://rladies-chicago.slack.com&#34; target=&#34;_blank&#34;&gt;slack&lt;/a&gt; channel &lt;strong&gt;#sg-dataviz&lt;/strong&gt; or email study group coordinator Ola [at] rladies dot org.&lt;/p&gt;
 </description>
     </item>
     
