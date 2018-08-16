@@ -23,4 +23,10 @@ math = false
 
 +++
 
-The data viz study group discusses different ways to visualize data in R. Currently, members are taking on the monthly [r/DataIsBeautiful](http://reddit.com/r/dataisbeautiful) challenge. Participants can also suggest a data set to work with. Join us on our [slack](https://rladies-chicago.slack.com) channel **#sg-dataviz** or email study group coordinator Ola [at] rladies dot org.
+The data viz study group discusses different ways to visualize data in R. Activities that we've done include:  
+> Taking on the monthly [r/DataIsBeautiful](http://reddit.com/r/dataisbeautiful) challenge.  
+> Exploring functionalities of ggplot2   
+> Visualizing specific data sets   
+  
+  
+Join us on our [slack](https://rladies-chicago.slack.com) channel **#sg-dataviz** or email study group coordinator Ola [at] rladies dot org.
