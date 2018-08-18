@@ -77,6 +77,24 @@
     </item>
     
     <item>
+      <title>Astrostatistics in R: Predicting Solar Flares</title>
+      <link>/talk/2018-08-27-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-08-27-meetup/</guid>
+      <description>&lt;p&gt;For our August meetup, the Astrostatistics Study Group (ASG) will talk about their ongoing project in predicting solar flares.&lt;/p&gt;
+
+&lt;p&gt;R-Ladies board member and founder of the ASG, Caroline K. Williams will introduce the Astrostatistics study group and NASA Datanauts program she recently joined. She will also present the basic principles of Deep Learning that will be applied to the project.&lt;/p&gt;
+
+&lt;p&gt;Josh Goldberg, a member of the ASG will present on a topic in data science that is often overlooked or does not get much coverage but is required to move any project forward: data exploration.&lt;/p&gt;
+
+&lt;p&gt;The ASG adviser, Troy Hernandez will discuss how he got involved in the Solar Flare project as a mentor for the Space Weather Team of the 2017 NASA Frontier Development Lab. He will also talk about the progress of the analysis, and what he envisions for the ASG to achieve in this project.&lt;/p&gt;
+
+&lt;p&gt;Be sure to RSVP on our &lt;a href=&#34;https://www.meetup.com/rladies-chicago/events/253881898/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>DataCamp &amp; DataViz</title>
       <link>/talk/2018-05-meetup/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
@@ -132,16 +150,6 @@
       
       <guid>/talk/2018-08-13_nlp/</guid>
       <description>&lt;p&gt;The NLP Study Group is working through their summer book club! Join us as we discuss the third chapter of &lt;a href=&#34;https://www.tidytextmining.com/&#34; target=&#34;_blank&#34;&gt;Text Mining with R&lt;/a&gt; on &lt;strong&gt;tf-idf&lt;/strong&gt;. We will also have a lightning talk about a package related to working with text data. All are welcome! Please email study group coordinator Katherine [at] rladies dot org or join our &lt;strong&gt;#sg-nlp&lt;/strong&gt; slack channel with any questions.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>R-Ladies Chicago August Meetup</title>
-      <link>/talk/2018-08-27-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
-      
-      <guid>/talk/2018-08-27-meetup/</guid>
-      <description>&lt;p&gt;More information coming soon!&lt;/p&gt;
 </description>
     </item>
     
