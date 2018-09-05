@@ -13,12 +13,14 @@
     <item>
       <title>Data Viz Study Group Meeting</title>
       <link>/talk/2018-09-10_dataviz/</link>
-      <pubDate>Sun, 26 Aug 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 -0400</pubDate>
       
       <guid>/talk/2018-09-10_dataviz/</guid>
       <description>&lt;p&gt;Join the Data Viz study group for their first meeting!  We&amp;rsquo;ll be exploring the grammar of graphics with R. There will also be an introduction to ggplot2. All are welcome!&lt;/p&gt;
 
 &lt;p&gt;Please email study group coordinator Ola [at] rladies dot org or join our &lt;strong&gt;#sg-dataviz&lt;/strong&gt; slack channel with any questions.&lt;/p&gt;
+
+&lt;p&gt;Please RSVP: &lt;a href=&#34;https://www.meetup.com/rladies-chicago/events/254251305/&#34; target=&#34;_blank&#34;&gt;https://www.meetup.com/rladies-chicago/events/254251305/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -46,7 +48,7 @@
     <item>
       <title>Data Visualization</title>
       <link>/project/dataviz/</link>
-      <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/dataviz/</guid>
       <description>&lt;p&gt;The data viz study group discusses different ways to visualize data in R. Activities that we&amp;rsquo;ve done include:&lt;br /&gt;
@@ -61,7 +63,7 @@
     <item>
       <title>Astrostatistics</title>
       <link>/project/astrostatistics/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/astrostatistics/</guid>
       <description></description>
@@ -70,7 +72,7 @@
     <item>
       <title>Natural Language Processing</title>
       <link>/project/nlp/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/nlp/</guid>
       <description></description>
@@ -79,7 +81,7 @@
     <item>
       <title>Astrostatistics in R: Predicting Solar Flares</title>
       <link>/talk/2018-08-27-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>/talk/2018-08-27-meetup/</guid>
       <description>&lt;p&gt;For our August meetup, the Astrostatistics Study Group (ASG) will talk about their ongoing project in predicting solar flares.&lt;/p&gt;
@@ -97,7 +99,7 @@
     <item>
       <title>DataCamp &amp; DataViz</title>
       <link>/talk/2018-05-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>/talk/2018-05-meetup/</guid>
       <description></description>
@@ -106,7 +108,7 @@
     <item>
       <title>Game Time! R in Minecraft with the &#39;miner&#39; package</title>
       <link>/talk/2018-07-19-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>/talk/2018-07-19-meetup/</guid>
       <description>&lt;p&gt;David Smith will talk about the &amp;lsquo;miner&amp;rsquo; package, how to set up your own Minecraft server, and how to use and extend the package. He&amp;rsquo;ll also provide a few examples of the package in action in a live Minecraft session! Fun!&lt;/p&gt;
@@ -124,7 +126,7 @@
     <item>
       <title>NLP Study Group Kick-Off Meeting</title>
       <link>/talk/2018-06-26_nlp/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>/talk/2018-06-26_nlp/</guid>
       <description>&lt;p&gt;The NLP Study Group is starting their summer book club! Join us as we start discussing the first two chapters of &lt;a href=&#34;https://www.tidytextmining.com/&#34; target=&#34;_blank&#34;&gt;Text Mining with R&lt;/a&gt;. All are welcome! Please email study group coordinator Katherine [at] rladies dot org with any questions.&lt;/p&gt;
@@ -134,7 +136,7 @@
     <item>
       <title>NLP Study Group Meeting</title>
       <link>/talk/2018-07-09_nlp/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>/talk/2018-07-09_nlp/</guid>
       <description>&lt;p&gt;&lt;em&gt;Please note this meeting has been rescheduled to &lt;strong&gt;6pm on Tuesday, July 10&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -146,7 +148,7 @@
     <item>
       <title>NLP Study Group Meeting</title>
       <link>/talk/2018-08-13_nlp/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>/talk/2018-08-13_nlp/</guid>
       <description>&lt;p&gt;The NLP Study Group is working through their summer book club! Join us as we discuss the third chapter of &lt;a href=&#34;https://www.tidytextmining.com/&#34; target=&#34;_blank&#34;&gt;Text Mining with R&lt;/a&gt; on &lt;strong&gt;tf-idf&lt;/strong&gt;. We will also have a lightning talk about a package related to working with text data. All are welcome! Please email study group coordinator Katherine [at] rladies dot org or join our &lt;strong&gt;#sg-nlp&lt;/strong&gt; slack channel with any questions.&lt;/p&gt;
@@ -154,9 +156,19 @@
     </item>
     
     <item>
+      <title>NLP Study Group Meeting</title>
+      <link>/talk/2018-09-17_nlp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/2018-09-17_nlp/</guid>
+      <description>&lt;p&gt;Join us as we discuss the fourth chapter of &lt;a href=&#34;https://www.tidytextmining.com/&#34; target=&#34;_blank&#34;&gt;Text Mining with R&lt;/a&gt; on &lt;strong&gt;n-grams&lt;/strong&gt;. We will also have a lightning talk about a package related to working with text data. All are welcome! Please email study group coordinator Katherine [at] rladies dot org or join our &lt;strong&gt;#sg-nlp&lt;/strong&gt; slack channel with any questions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>R-Ladies Summer Social: Sip &amp; Code</title>
       <link>/talk/2018-07-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>/talk/2018-07-meetup/</guid>
       <description>&lt;p&gt;We will taste some wines (and non-alcoholic drinks too!) and rate them based on the winemag.com scoring system. Then, we will work together in small groups to analyze and visualize the wine preferences of R-Ladies in R! Wine is absolutely optional &amp;ndash;we&amp;rsquo;ll have non-alcoholic beverages &amp;amp; food too.&lt;/p&gt;
