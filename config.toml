@@ -233,11 +233,6 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Home"
-  url = "#about"
-  weight = 1
-
-[[menu.main]]
   name = "Events"
   url = "#talks"
   weight = 2
