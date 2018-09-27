@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Data Viz Study Group Meeting</title>
       <link>/talk/2018-09-10_dataviz/</link>
-      <pubDate>Sun, 26 Aug 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 -0500</pubDate>
       
       <guid>/talk/2018-09-10_dataviz/</guid>
       <description>Join the Data Viz study group for their first meeting! We&amp;rsquo;ll be exploring the grammar of graphics with R. There will also be an introduction to ggplot2. All are welcome!
@@ -26,7 +26,7 @@ Please RSVP: https://www.meetup.com/rladies-chicago/events/254251305/</descripti
     <item>
       <title>Astrostatistics in R: Predicting Solar Flares</title>
       <link>/talk/2018-08-27-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-08-27-meetup/</guid>
       <description>For our August meetup, the Astrostatistics Study Group (ASG) will talk about their ongoing project in predicting solar flares.
@@ -37,7 +37,7 @@ Josh Goldberg, a member of the ASG will present on a topic in data science that 
     <item>
       <title>DataCamp &amp; DataViz</title>
       <link>/talk/2018-05-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-05-meetup/</guid>
       <description></description>
@@ -46,7 +46,7 @@ Josh Goldberg, a member of the ASG will present on a topic in data science that 
     <item>
       <title>Game Time! R in Minecraft with the &#39;miner&#39; package</title>
       <link>/talk/2018-07-19-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-07-19-meetup/</guid>
       <description>David Smith will talk about the &amp;lsquo;miner&amp;rsquo; package, how to set up your own Minecraft server, and how to use and extend the package. He&amp;rsquo;ll also provide a few examples of the package in action in a live Minecraft session! Fun!
@@ -56,7 +56,7 @@ The miner package is intended mainly for kids, to inspire them to learn R while 
     <item>
       <title>NLP Study Group Kick-Off Meeting</title>
       <link>/talk/2018-06-26_nlp/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-06-26_nlp/</guid>
       <description>The NLP Study Group is starting their summer book club! Join us as we start discussing the first two chapters of Text Mining with R. All are welcome! Please email study group coordinator Katherine [at] rladies dot org with any questions.</description>
@@ -65,7 +65,7 @@ The miner package is intended mainly for kids, to inspire them to learn R while 
     <item>
       <title>NLP Study Group Meeting</title>
       <link>/talk/2018-07-09_nlp/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-07-09_nlp/</guid>
       <description>Please note this meeting has been rescheduled to 6pm on Tuesday, July 10
@@ -75,7 +75,7 @@ The NLP Study Group is working through their summer book club! Join us as we sta
     <item>
       <title>NLP Study Group Meeting</title>
       <link>/talk/2018-08-13_nlp/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-08-13_nlp/</guid>
       <description>The NLP Study Group is working through their summer book club! Join us as we discuss the third chapter of Text Mining with R on tf-idf. We will also have a lightning talk about a package related to working with text data. All are welcome! Please email study group coordinator Katherine [at] rladies dot org or join our #sg-nlp slack channel with any questions.</description>
@@ -84,16 +84,27 @@ The NLP Study Group is working through their summer book club! Join us as we sta
     <item>
       <title>NLP Study Group Meeting</title>
       <link>/talk/2018-09-17_nlp/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-09-17_nlp/</guid>
       <description>Join us as we discuss the fourth chapter of Text Mining with R on n-grams. We will also have a lightning talk about a package related to working with text data. All are welcome! Please email study group coordinator Katherine [at] rladies dot org or join our #sg-nlp slack channel with any questions.</description>
     </item>
     
     <item>
+      <title>Pro tips: how to start/advance your data science career</title>
+      <link>/talk/2018-09-27-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-09-27-meetup/</guid>
+      <description>We have teamed up with Metis and invited Ashley Purdy (Career Advisor) to talk about everything you need to know about Data science job search!
+Ashley will discuss some strategies for how to put your best foot forward in the data science job search covering topics ranging from networking, interviews, and salary negotiations.
+Following by Monique, who will give a short talk on develop a LinkedIn profile that stands out above the rest.</description>
+    </item>
+    
+    <item>
       <title>R-Ladies Summer Social: Sip &amp; Code</title>
       <link>/talk/2018-07-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-07-meetup/</guid>
       <description>We will taste some wines (and non-alcoholic drinks too!) and rate them based on the winemag.com scoring system. Then, we will work together in small groups to analyze and visualize the wine preferences of R-Ladies in R! Wine is absolutely optional &amp;ndash;we&amp;rsquo;ll have non-alcoholic beverages &amp;amp; food too.

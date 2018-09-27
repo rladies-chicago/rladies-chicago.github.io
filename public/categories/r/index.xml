@@ -7,29 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jul 2018 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 27 Sep 2018 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Sample Blog Post</title>
-      <link>/post/2018-07-01_samplepost/</link>
-      <pubDate>Sun, 01 Jul 2018 21:13:14 -0500</pubDate>
+      <title>Trying out R Tours</title>
+      <link>/post/2018-09-rtours/</link>
+      <pubDate>Thu, 27 Sep 2018 21:13:14 -0500</pubDate>
       
-      <guid>/post/2018-07-01_samplepost/</guid>
-      <description>Hello! This is a sample blog post. Be sure to update the header and use the following naming convention when submitting your file:
-YYYY-MM-DD-LASTNAME.Rmd</description>
-    </item>
-    
-    <item>
-      <title>Sample Blog Post</title>
-      <link>/post/blog_post_template/</link>
-      <pubDate>Sun, 01 Jul 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/blog_post_template/</guid>
-      <description>Hello! This is a sample blog post. Be sure to update the header and use the following naming convention when submitting your file:
-YYYY-MM-DD-LASTNAME.Rmd</description>
+      <guid>/post/2018-09-rtours/</guid>
+      <description>At R-Ladies, we want everyone to feel welcome, especially women and minority genders. Our favorite part of R-Ladies is cultivating an inclusive learning community–it is a challenge, but well worth it. As an R Community, where we are passionate about what we do in R, accessibility and inclusivity also means cultivating a welcoming environment for R users of all levels–from beginner to expert to everyone in between.
+The Chicago organizing team works hard to plan our events intentionally where there is a combination of tutorials, talks about specific topics, and social events that showcase the strengths and address the interests of the local R-Ladies community.</description>
     </item>
     
   </channel>

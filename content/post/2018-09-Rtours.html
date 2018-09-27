@@ -1,0 +1,49 @@
+---
+title: "Trying out R Tours"
+author: "Katherine & Ola"
+date: 2018-09-27T21:13:14-05:00
+categories: ["R"]
+tags: ["meetups","beginners"]
+---
+
+
+
+<p>At R-Ladies, we want everyone to feel welcome, especially women and minority genders. Our favorite part of R-Ladies is cultivating an inclusive learning community–it is a challenge, but well worth it. As an R Community, where we are passionate about what we do in R, accessibility and inclusivity also means cultivating a welcoming environment for R users of all levels–from beginner to expert to everyone in between.</p>
+<p>The Chicago organizing team works hard to plan our events intentionally where there is a combination of tutorials, talks about specific topics, and social events that showcase the strengths and address the interests of the local R-Ladies community. Some of these events will be better for beginners than others, but we hope that people will join us regardless of their R proficiency. We also hope our members will give us feedback on what they want to learn about in the future. In order to make our meetups more accessible, regardless of the topic, we’ll be piloting a new initiative: <strong>R Tours</strong>! R Tours will be a 15-minute orientation on R essentials that immediately precede in person meetups.</p>
+<div id="why-tours" class="section level2">
+<h2>Why Tours?</h2>
+<p>At a couple events this past summer, a number of attendees said they had never even seen RStudio before or had just downloaded R on their computer before coming to the meetup. The purpose of R Tours is to provide a super-quick overview to complete beginners before (ideally, each) meetup. Somethings we are considering when developing this initiative:</p>
+<ol style="list-style-type: decimal">
+<li><p>What do beginners need to get the most out of that day’s meetup? We’ll open RStudio and introduce each window. We’ll install and load any packages that are necessary for the talk. The goal is for beginners to know where to look when someone live codes. We also don’t want them to be discouraged from following along on their own computers because they had trouble installing things.</p></li>
+<li><p>This isn’t an in-depth tutorial or class that will provide all the information one needs. Also, we want attendees to download the script and run with it. So we used base R with no other packages or files necessary (other than what might be necessary for that day’s meetup). However, we will point attendees to resources where they can learn more about R!</p></li>
+<li><p>We hope that this will be a sustainable, recurring activity that we can do before every meetup to help beginners get more out of each meetup. We also hope it will facilitate community building within our R-Ladies Chapter, where other R-Ladies members can lead this 15-minute tour. It is a great opportunity to contribute to R-Ladies while practicing R teaching skills (and it’s not a big time commitment either!).</p></li>
+</ol>
+<p>We’re including a draft of what our R tour might consist of. Check out this <a href="https://github.com/rladies-chicago/beginners-r">repo</a>, where we’ll be updating our R tour for each meetup. This is still a work-in-progress and feedback is greatly appreciated! :)</p>
+</div>
+<div id="an-example-of-an-r-tour" class="section level2">
+<h2>An Example of an R Tour</h2>
+<pre class="r"><code>### R-Ladies Chicago R TOUR
+
+# Load Data into workspace. Here, we&#39;re loading a sample dataset that is already in R
+data(&quot;iris&quot;) 
+
+# See the first six rows of the dataset
+head(iris) 
+
+# See how large the dataset is
+dim(iris) # output shows number of rows then number of columns
+
+# What is this dataset about? You can use ? for other functions to get more info
+?iris 
+
+# See a subset of your data
+# Show data where petal length is greater than 2 cm
+subset(iris,iris$Petal.Length &gt; 2)
+
+# Save the data as a file in your working directory
+write.csv(iris,file=&quot;my_iris_data.csv&quot;) 
+
+# Read a file into R from your working directory
+my_iris_data &lt;- read.csv(&quot;my_iris_data.csv&quot;) 
+</code></pre>
+</div>
