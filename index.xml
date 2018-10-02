@@ -172,6 +172,16 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     </item>
     
     <item>
+      <title>HacktobeRfest at Haymarket Brewery!</title>
+      <link>/talk/2018-10-16-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-10-16-meetup/</guid>
+      <description>&lt;p&gt;R-Ladies Chicago and Chicago R User Group (CRUG) teamed up this month to bring you a joint meetup worth toasting to: HacktobeRfest at Haymarket Brewery! More information coming soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>NLP Study Group Kick-Off Meeting</title>
       <link>/talk/2018-06-26_nlp/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
@@ -214,38 +224,12 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     </item>
     
     <item>
-      <title>Pro tips: how to start/advance your data science career</title>
-      <link>/talk/2018-09-27-meetup/</link>
+      <title>NLP Study Group Meeting</title>
+      <link>/talk/2018-10-15_nlp/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
-      <guid>/talk/2018-09-27-meetup/</guid>
-      <description>&lt;p&gt;We have teamed up with Metis and invited Ashley Purdy (Career Advisor) to talk about everything you need to know about Data science job search!&lt;/p&gt;
-
-&lt;p&gt;Ashley will discuss some strategies for how to put your best foot forward in the data science job search covering topics ranging from networking, interviews, and salary negotiations.&lt;/p&gt;
-
-&lt;p&gt;Following by Monique, who will give a short talk on develop a LinkedIn profile that stands out above the rest. Let’s tackle LinkedIn together and learn how to maximize your account.&lt;/p&gt;
-
-&lt;p&gt;Several recruiters from different industry will also be present and introduce the openings at their companies!&lt;/p&gt;
-
-&lt;p&gt;If you are in the job market or considering a career change, you don&amp;rsquo;t want to miss out this event!&lt;/p&gt;
-
-&lt;p&gt;Be sure to RSVP on our &lt;a href=&#34;https://www.meetup.com/rladies-chicago/events/254621401/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>R-Ladies Summer Social: Sip &amp; Code</title>
-      <link>/talk/2018-07-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
-      
-      <guid>/talk/2018-07-meetup/</guid>
-      <description>&lt;p&gt;We will taste some wines (and non-alcoholic drinks too!) and rate them based on the winemag.com scoring system. Then, we will work together in small groups to analyze and visualize the wine preferences of R-Ladies in R! Wine is absolutely optional &amp;ndash;we&amp;rsquo;ll have non-alcoholic beverages &amp;amp; food too.&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;ll also be introducing some R-Ladies Chicago outreach initiatives, including our new website: rladieschicago.org and kicking-off our Random Acts of Coffee program!&lt;/p&gt;
-
-&lt;p&gt;There will be no formal technical talk at this meeting; rather, a time to network with fellow R-Ladies while doing a collaborative coding activity. This is part of our “social” Meetups, focused on networking and idea exchange.&lt;/p&gt;
-
-&lt;p&gt;Please RSVP on the Meetup page and let us know if you have any questions!&lt;/p&gt;
+      <guid>/talk/2018-10-15_nlp/</guid>
+      <description>&lt;p&gt;Join us as we discuss chapters 4-5 of &lt;a href=&#34;https://www.tidytextmining.com/&#34; target=&#34;_blank&#34;&gt;Text Mining with R&lt;/a&gt; on &lt;strong&gt;n-grams&lt;/strong&gt;. We will also have a lightning talk about a package related to working with text data. All are welcome! Please email study group coordinator Katherine [at] rladies dot org or join our &lt;strong&gt;#sg-nlp&lt;/strong&gt; slack channel with any questions.&lt;/p&gt;
 </description>
     </item>
     
