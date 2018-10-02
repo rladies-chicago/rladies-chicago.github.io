@@ -66,7 +66,8 @@ weight = 80
 ### Amy Yang  
 <img src="/img/exec/Amy.jpg" align="left" style="margin: 5px 10px" alt="">  
   
-**Amy Yang** is currently a research Biostatistician at Northwestern University Feinberg School of Medicine. She began using R for simulation and statistical analysis during her study at the University of Pennsylvania in 2011 where she received her MS degree in Biostatistics. At work, Amy uses R to do hypothesis testing, build statistical models, generate reports and graphs for publications. She also teaches R and statistical courses for graduate and medical students. During her free time, Amy enjoys playing board games with friends, skiing, and WERQ dance.  
+**Amy Yang** is a Sr. Data Scientist at Uptake where she conducts industrial analytics and build prediction models to major industries and help them increase productivity, security, safety and reliability.She began using R for simulation and statistical analysis during her study at the University of Pennsylvania where she received her MS degree in Biostatistics. She also teaches R programming and statistical courses for graduate students. During her free time, Amy enjoys playing board games with friends, skiing, and WERQ dance.  
+  
   
   
     
