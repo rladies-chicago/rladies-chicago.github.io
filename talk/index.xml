@@ -19,7 +19,8 @@
       
       <guid>/talk/2018-09-10_dataviz/</guid>
       <description>Join the Data Viz study group for their first meeting! We&amp;rsquo;ll be exploring the grammar of graphics with R. There will also be an introduction to ggplot2. All are welcome!
-Please email study group coordinator Ola [at] rladies dot org or join our #sg-dataviz slack channel with any questions.</description>
+Please email study group coordinator Ola [at] rladies dot org or join our #sg-dataviz slack channel with any questions.
+Please RSVP: https://www.meetup.com/rladies-chicago/events/254251305/</description>
     </item>
     
     <item>
@@ -53,6 +54,16 @@ The miner package is intended mainly for kids, to inspire them to learn R while 
     </item>
     
     <item>
+      <title>HacktobeRfest at Haymarket Brewery!</title>
+      <link>/talk/2018-10-16-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-10-16-meetup/</guid>
+      <description>R-Ladies Chicago and Chicago R User Group (CRUG) teamed up this month to bring you a joint meetup worth toasting to: HacktobeRfest at Haymarket Brewery! Listen to some beer-related talks and participate in our Beer Data Hack-a-thon!
+Please RSVP on our Meetup page!</description>
+    </item>
+    
+    <item>
       <title>NLP Study Group Kick-Off Meeting</title>
       <link>/talk/2018-06-26_nlp/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
@@ -78,6 +89,35 @@ The NLP Study Group is working through their summer book club! Join us as we sta
       
       <guid>/talk/2018-08-13_nlp/</guid>
       <description>The NLP Study Group is working through their summer book club! Join us as we discuss the third chapter of Text Mining with R on tf-idf. We will also have a lightning talk about a package related to working with text data. All are welcome! Please email study group coordinator Katherine [at] rladies dot org or join our #sg-nlp slack channel with any questions.</description>
+    </item>
+    
+    <item>
+      <title>NLP Study Group Meeting</title>
+      <link>/talk/2018-09-17_nlp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-09-17_nlp/</guid>
+      <description>Join us as we discuss the fourth chapter of Text Mining with R on n-grams. We will also have a lightning talk about a package related to working with text data. All are welcome! Please email study group coordinator Katherine [at] rladies dot org or join our #sg-nlp slack channel with any questions.</description>
+    </item>
+    
+    <item>
+      <title>NLP Study Group Meeting</title>
+      <link>/talk/2018-10-15_nlp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-10-15_nlp/</guid>
+      <description>Join us as we discuss chapters 4-5 of Text Mining with R on n-grams. We will also have a lightning talk about a package related to working with text data. All are welcome! Please email study group coordinator Katherine [at] rladies dot org or join our #sg-nlp slack channel with any questions.</description>
+    </item>
+    
+    <item>
+      <title>Pro tips: how to start/advance your data science career</title>
+      <link>/talk/2018-09-27-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-09-27-meetup/</guid>
+      <description>We have teamed up with Metis and invited Ashley Purdy (Career Advisor) to talk about everything you need to know about Data science job search!
+Ashley will discuss some strategies for how to put your best foot forward in the data science job search covering topics ranging from networking, interviews, and salary negotiations.
+Following by Monique, who will give a short talk on develop a LinkedIn profile that stands out above the rest.</description>
     </item>
     
     <item>

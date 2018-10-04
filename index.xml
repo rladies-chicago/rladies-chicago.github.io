@@ -177,7 +177,9 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-10-16-meetup/</guid>
-      <description>&lt;p&gt;R-Ladies Chicago and Chicago R User Group (CRUG) teamed up this month to bring you a joint meetup worth toasting to: HacktobeRfest at Haymarket Brewery! More information coming soon!&lt;/p&gt;
+      <description>&lt;p&gt;R-Ladies Chicago and Chicago R User Group (CRUG) teamed up this month to bring you a joint meetup worth toasting to: HacktobeRfest at Haymarket Brewery! Listen to some beer-related talks and participate in our Beer Data Hack-a-thon!&lt;/p&gt;
+
+&lt;p&gt;Please RSVP on our &lt;a href=&#34;https://www.meetup.com/rladies-chicago/events/255245435/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     
