@@ -226,12 +226,22 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     </item>
     
     <item>
-      <title>NLP Study Group Meeting</title>
-      <link>/talk/2018-10-15_nlp/</link>
+      <title>Pro tips: how to start/advance your data science career</title>
+      <link>/talk/2018-09-27-meetup/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
-      <guid>/talk/2018-10-15_nlp/</guid>
-      <description>&lt;p&gt;Join us as we discuss chapters 4-5 of &lt;a href=&#34;https://www.tidytextmining.com/&#34; target=&#34;_blank&#34;&gt;Text Mining with R&lt;/a&gt; on &lt;strong&gt;n-grams&lt;/strong&gt;. We will also have a lightning talk about a package related to working with text data. All are welcome! Please email study group coordinator Katherine [at] rladies dot org or join our &lt;strong&gt;#sg-nlp&lt;/strong&gt; slack channel with any questions.&lt;/p&gt;
+      <guid>/talk/2018-09-27-meetup/</guid>
+      <description>&lt;p&gt;We have teamed up with Metis and invited Ashley Purdy (Career Advisor) to talk about everything you need to know about Data science job search!&lt;/p&gt;
+
+&lt;p&gt;Ashley will discuss some strategies for how to put your best foot forward in the data science job search covering topics ranging from networking, interviews, and salary negotiations.&lt;/p&gt;
+
+&lt;p&gt;Following by Monique, who will give a short talk on develop a LinkedIn profile that stands out above the rest. Let’s tackle LinkedIn together and learn how to maximize your account.&lt;/p&gt;
+
+&lt;p&gt;Several recruiters from different industry will also be present and introduce the openings at their companies!&lt;/p&gt;
+
+&lt;p&gt;If you are in the job market or considering a career change, you don&amp;rsquo;t want to miss out this event!&lt;/p&gt;
+
+&lt;p&gt;Be sure to RSVP on our &lt;a href=&#34;https://www.meetup.com/rladies-chicago/events/254621401/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     
