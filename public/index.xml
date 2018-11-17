@@ -175,6 +175,27 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     </item>
     
     <item>
+      <title>DecembeR Holiday Party &amp; Collaborative Planning</title>
+      <link>/talk/2018-12-05-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-12-05-meetup/</guid>
+      <description>&lt;p&gt;Join R-Ladies Chicago to celebrate the holidays! Socialize with fellow R-Ladies and help us plan for 2019!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BEFORE THE EVENT:&lt;/strong&gt; Please fill out our survey to provide feedback on our past and future R-Ladies Chicago programs. We are looking for as many Chicago-area R-Ladies as possible to fill out this survey, even if you cannot attend this Meetup or have not attended one in the past. We would love your input! &lt;strong&gt;See the survey here: &lt;a href=&#34;https://tinyurl.com/rladies-survey&#34; target=&#34;_blank&#34;&gt;https://tinyurl.com/rladies-survey&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What we&amp;rsquo;ll do:&lt;/strong&gt;
+We&amp;rsquo;ll discuss best practices for working with survey data of all forms (e.g. numerical, strings, closed set, open response, etc.) in R. Then, we&amp;rsquo;ll work together in small groups to analyze data from our End of the Year Survey in R. By the end of the Meetup, we hope to have developed a data-driven list of R-Ladies Chicago events &amp;amp; goals for 2019!&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll also socialize with fellow R-Ladies over holiday-themed treats :)&lt;/p&gt;
+
+&lt;p&gt;There will be no formal technical talk at this meeting; rather, this will be a time to network with fellow R-Ladies while doing a collaborative coding activity. This is part of our “social” Meetups, focused on networking and idea exchange.&lt;/p&gt;
+
+&lt;p&gt;Be sure to RSVP on our &lt;a href=&#34;https://www.meetup.com/rladies-chicago/events/256428023/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Game Time! R in Minecraft with the &#39;miner&#39; package</title>
       <link>/talk/2018-07-19-meetup/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
@@ -233,16 +254,6 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
       
       <guid>/talk/2018-08-13_nlp/</guid>
       <description>&lt;p&gt;The NLP Study Group is working through their summer book club! Join us as we discuss the third chapter of &lt;a href=&#34;https://www.tidytextmining.com/&#34; target=&#34;_blank&#34;&gt;Text Mining with R&lt;/a&gt; on &lt;strong&gt;tf-idf&lt;/strong&gt;. We will also have a lightning talk about a package related to working with text data. All are welcome! Please email study group coordinator Katherine [at] rladies dot org or join our &lt;strong&gt;#sg-nlp&lt;/strong&gt; slack channel with any questions.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>NLP Study Group Meeting</title>
-      <link>/talk/2018-09-17_nlp/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
-      
-      <guid>/talk/2018-09-17_nlp/</guid>
-      <description>&lt;p&gt;Join us as we discuss the fourth chapter of &lt;a href=&#34;https://www.tidytextmining.com/&#34; target=&#34;_blank&#34;&gt;Text Mining with R&lt;/a&gt; on &lt;strong&gt;n-grams&lt;/strong&gt;. We will also have a lightning talk about a package related to working with text data. All are welcome! Please email study group coordinator Katherine [at] rladies dot org or join our &lt;strong&gt;#sg-nlp&lt;/strong&gt; slack channel with any questions.&lt;/p&gt;
 </description>
     </item>
     
