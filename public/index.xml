@@ -61,7 +61,7 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     <item>
       <title>Data Viz Study Group Meeting</title>
       <link>/talk/2018-09-10_dataviz/</link>
-      <pubDate>Sun, 26 Aug 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 -0500</pubDate>
       
       <guid>/talk/2018-09-10_dataviz/</guid>
       <description>&lt;p&gt;Join the Data Viz study group for their first meeting!  We&amp;rsquo;ll be exploring the grammar of graphics with R. There will also be an introduction to ggplot2. All are welcome!&lt;/p&gt;
@@ -96,7 +96,7 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     <item>
       <title>Data Visualization</title>
       <link>/project/dataviz/</link>
-      <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/dataviz/</guid>
       <description>&lt;p&gt;The data viz study group discusses different ways to visualize data in R. Activities that we&amp;rsquo;ve done include:&lt;br /&gt;
@@ -111,7 +111,7 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     <item>
       <title>Astrostatistics</title>
       <link>/project/astrostatistics/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/astrostatistics/</guid>
       <description></description>
@@ -120,7 +120,7 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     <item>
       <title>Natural Language Processing</title>
       <link>/project/nlp/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/nlp/</guid>
       <description></description>
@@ -129,7 +129,7 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     <item>
       <title>&#39;Git&#39; down with Git &#43; R (Workshop &amp; Tutorial)</title>
       <link>/talk/2018-11-13-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-11-13-meetup/</guid>
       <description>&lt;p&gt;Learn about using Git &amp;amp; R at our November Meetup! R-Ladies Board Member Ola Giwa will lead a tutorial and workshop to get you up and running with Github and using Git in your workflow. This session will discuss:&lt;/p&gt;
@@ -150,7 +150,7 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     <item>
       <title>Astrostatistics in R: Predicting Solar Flares</title>
       <link>/talk/2018-08-27-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-08-27-meetup/</guid>
       <description>&lt;p&gt;For our August meetup, the Astrostatistics Study Group (ASG) will talk about their ongoing project in predicting solar flares.&lt;/p&gt;
@@ -168,7 +168,7 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     <item>
       <title>DataCamp &amp; DataViz</title>
       <link>/talk/2018-05-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-05-meetup/</guid>
       <description></description>
@@ -177,7 +177,7 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     <item>
       <title>DecembeR Holiday Party &amp; Collaborative Planning</title>
       <link>/talk/2018-12-05-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-12-05-meetup/</guid>
       <description>&lt;p&gt;Join R-Ladies Chicago to celebrate the holidays! Socialize with fellow R-Ladies and help us plan for 2019!&lt;/p&gt;
@@ -198,7 +198,7 @@ We&amp;rsquo;ll discuss best practices for working with survey data of all forms
     <item>
       <title>Game Time! R in Minecraft with the &#39;miner&#39; package</title>
       <link>/talk/2018-07-19-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-07-19-meetup/</guid>
       <description>&lt;p&gt;David Smith will talk about the &amp;lsquo;miner&amp;rsquo; package, how to set up your own Minecraft server, and how to use and extend the package. He&amp;rsquo;ll also provide a few examples of the package in action in a live Minecraft session! Fun!&lt;/p&gt;
@@ -216,7 +216,7 @@ We&amp;rsquo;ll discuss best practices for working with survey data of all forms
     <item>
       <title>HacktobeRfest at Haymarket Brewery!</title>
       <link>/talk/2018-10-16-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-10-16-meetup/</guid>
       <description>&lt;p&gt;R-Ladies Chicago and Chicago R User Group (CRUG) teamed up this month to bring you a joint meetup worth toasting to: HacktobeRfest at Haymarket Brewery! Listen to some beer-related talks and participate in our Beer Data Hack-a-thon!&lt;/p&gt;
@@ -228,7 +228,7 @@ We&amp;rsquo;ll discuss best practices for working with survey data of all forms
     <item>
       <title>NLP Study Group Kick-Off Meeting</title>
       <link>/talk/2018-06-26_nlp/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-06-26_nlp/</guid>
       <description>&lt;p&gt;The NLP Study Group is starting their summer book club! Join us as we start discussing the first two chapters of &lt;a href=&#34;https://www.tidytextmining.com/&#34; target=&#34;_blank&#34;&gt;Text Mining with R&lt;/a&gt;. All are welcome! Please email study group coordinator Katherine [at] rladies dot org with any questions.&lt;/p&gt;
@@ -238,7 +238,7 @@ We&amp;rsquo;ll discuss best practices for working with survey data of all forms
     <item>
       <title>NLP Study Group Meeting</title>
       <link>/talk/2018-07-09_nlp/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-07-09_nlp/</guid>
       <description>&lt;p&gt;&lt;em&gt;Please note this meeting has been rescheduled to &lt;strong&gt;6pm on Tuesday, July 10&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -250,7 +250,7 @@ We&amp;rsquo;ll discuss best practices for working with survey data of all forms
     <item>
       <title>NLP Study Group Meeting</title>
       <link>/talk/2018-08-13_nlp/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-08-13_nlp/</guid>
       <description>&lt;p&gt;The NLP Study Group is working through their summer book club! Join us as we discuss the third chapter of &lt;a href=&#34;https://www.tidytextmining.com/&#34; target=&#34;_blank&#34;&gt;Text Mining with R&lt;/a&gt; on &lt;strong&gt;tf-idf&lt;/strong&gt;. We will also have a lightning talk about a package related to working with text data. All are welcome! Please email study group coordinator Katherine [at] rladies dot org or join our &lt;strong&gt;#sg-nlp&lt;/strong&gt; slack channel with any questions.&lt;/p&gt;
