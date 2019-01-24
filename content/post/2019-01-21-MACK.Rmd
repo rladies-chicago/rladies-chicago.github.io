@@ -1,5 +1,5 @@
 ---
-title: "Introducing a Dataset to R"
+title: "Introducing Chicago Schools Enrollment Data to R"
 author: "Charlotte Mack"
 date: "`r format(Sys.Date())`"
 output: html_document
