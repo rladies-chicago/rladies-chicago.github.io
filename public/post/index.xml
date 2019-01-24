@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Introducing a Dataset to R</title>
+      <link>/post/2019-01-21-mack/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-01-21-mack/</guid>
+      <description>The City of Chicago and Chicago Public Schools (CPS) have made data on annual enrollments, school locations, and other school features available to the public. After a bit of wrangling (frankly maybe more than just a bit) these data can be used in R to get key visualizations.
+My own interest in the schools data began with a desire to understand more about the spread of charter schools in the city, and also more about the sharp enrollment declines that some regular public high schools have experienced since the early ’00s.</description>
+    </item>
+    
+    <item>
       <title>Trying out R Tours</title>
       <link>/post/2018-09-rtours/</link>
       <pubDate>Thu, 27 Sep 2018 21:13:14 -0500</pubDate>
