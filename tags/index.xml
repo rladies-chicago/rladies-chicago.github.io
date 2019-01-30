@@ -40,11 +40,29 @@
     </item>
     
     <item>
+      <title>Chicago</title>
+      <link>/tags/chicago/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/chicago/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Community</title>
       <link>/tags/community/</link>
-      <pubDate>Mon, 16 Jul 2018 21:13:14 -0500</pubDate>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>/tags/data/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data/</guid>
       <description></description>
     </item>
     
@@ -78,7 +96,7 @@
     <item>
       <title>Rladies</title>
       <link>/tags/rladies/</link>
-      <pubDate>Mon, 16 Jul 2018 21:13:14 -0500</pubDate>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/rladies/</guid>
       <description></description>
