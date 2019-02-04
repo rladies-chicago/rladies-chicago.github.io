@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meetups on R-Ladies Chicago</title>
-    <link>/tags/meetups/</link>
+    <link>/categories/meetups/</link>
     <description>Recent content in Meetups on R-Ladies Chicago</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 04 Feb 2019 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/tags/meetups/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <guid>/post/2019-02-04-lightningtalk-recap/</guid>
       <description>Our first 2019 Meetup was a series of lightning talks based on what we learned at rstudio::conf2019. This year, six R-Ladies Chicago members were at rstudio::conf (and we met even more attendees from Chicago!). Overall, the conference was inspiring and we are excited to use what we learned to host great events for R-Ladies Chicago in 2019!
 Florencia Mangini wrote a great blog post recapping our meetup. Be sure to check it out!</description>
-    </item>
-    
-    <item>
-      <title>Trying out R Tours</title>
-      <link>/post/2018-09-rtours/</link>
-      <pubDate>Thu, 27 Sep 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2018-09-rtours/</guid>
-      <description>At R-Ladies, we want everyone to feel welcome, especially women and minority genders. Our favorite part of R-Ladies is cultivating an inclusive learning community–it is a challenge, but well worth it. As an R Community, where we are passionate about what we do in R, accessibility and inclusivity also means cultivating a welcoming environment for R users of all levels–from beginner to expert to everyone in between.
-The Chicago organizing team works hard to plan our events intentionally where there is a combination of tutorials, talks about specific topics, and social events that showcase the strengths and address the interests of the local R-Ladies community.</description>
     </item>
     
   </channel>

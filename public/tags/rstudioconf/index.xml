@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rstudioconf on R-Ladies Chicago</title>
+    <link>/tags/rstudioconf/</link>
+    <description>Recent content in Rstudioconf on R-Ladies Chicago</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 04 Feb 2019 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/rstudioconf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recap: rstudio::conf 2019 lightning talks</title>
+      <link>/post/2019-02-04-lightningtalk-recap/</link>
+      <pubDate>Mon, 04 Feb 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2019-02-04-lightningtalk-recap/</guid>
+      <description>Our first 2019 Meetup was a series of lightning talks based on what we learned at rstudio::conf2019. This year, six R-Ladies Chicago members were at rstudio::conf (and we met even more attendees from Chicago!). Overall, the conference was inspiring and we are excited to use what we learned to host great events for R-Ladies Chicago in 2019!
+Florencia Mangini wrote a great blog post recapping our meetup. Be sure to check it out!</description>
+    </item>
+    
+  </channel>
+</rss>

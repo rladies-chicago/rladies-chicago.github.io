@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/2019-02-04-lightningtalk-recap/</loc>
+      <lastmod>2019-02-04T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/2019-01-21-mack/</loc>
       <lastmod>2019-01-24T00:00:00+00:00</lastmod>
     </url>
@@ -281,7 +290,7 @@
     <url>
     
       <loc>/tags/community/</loc>
-      <lastmod>2019-01-24T00:00:00+00:00</lastmod>
+      <lastmod>2019-02-04T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -311,7 +320,17 @@
     <url>
     
       <loc>/tags/meetups/</loc>
-      <lastmod>2018-09-27T21:13:14-05:00</lastmod>
+      <lastmod>2019-02-04T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/meetups/</loc>
+      <lastmod>2019-02-04T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -341,7 +360,7 @@
     <url>
     
       <loc>/categories/r/</loc>
-      <lastmod>2019-01-24T00:00:00+00:00</lastmod>
+      <lastmod>2019-02-04T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -361,7 +380,17 @@
     <url>
     
       <loc>/tags/rladies/</loc>
-      <lastmod>2019-01-24T00:00:00+00:00</lastmod>
+      <lastmod>2019-02-04T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/rstudioconf/</loc>
+      <lastmod>2019-02-04T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
