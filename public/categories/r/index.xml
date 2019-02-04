@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Feb 2019 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recap: rstudio::conf 2019 lightning talks</title>
+      <link>/post/2019-02-04-lightningtalk-recap/</link>
+      <pubDate>Mon, 04 Feb 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2019-02-04-lightningtalk-recap/</guid>
+      <description>Our first 2019 Meetup was a series of lightning talks based on what we learned at rstudio::conf2019. This year, six R-Ladies Chicago members were at rstudio::conf (and we met even more attendees from Chicago!). Overall, the conference was inspiring and we are excited to use what we learned to host great events for R-Ladies Chicago in 2019!
+Florencia Mangini wrote a great blog post recapping our meetup. Be sure to check it out!</description>
+    </item>
     
     <item>
       <title>Introducing Chicago Schools Enrollment Data to R</title>
