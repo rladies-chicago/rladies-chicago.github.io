@@ -40,4 +40,7 @@ I thought the lightning talk format where each person spoke for 5-10 minutes was
 
 ## Additional Reading
 
-- [Florencia Mangini](https://twitter.com/manginiflor) put together a lovely detailed recap of the event with more links to things we mentioned in our presentations, which you can read at [her blog](http://www.thinkingondata.com/r-ladies-chicago-what-we-learned-at-rstudioconf-2019-lightning-talks/)!
+- [Florencia Mangini](https://twitter.com/manginiflor) put together a lovely detailed recap of the event with more links to things we mentioned in our presentations, which you can read at [her blog](http://www.thinkingondata.com/r-ladies-chicago-what-we-learned-at-rstudioconf-2019-lightning-talks/)!  
+    
+- Organizer [Ola Giwa](http://amazingspecialist.coolcatscoding.com/) wrote a blog post on her experience at rstudio::conf [here](https://medium.com/@zaynaibg/rstudio-conf-8768c9b07345).  
+  

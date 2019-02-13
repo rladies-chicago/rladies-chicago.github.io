@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/chicago/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>January Meetup Recap: What We Learned at rstudio::conf</title>
+      <link>/post/2019-02-04-jan-recap/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-02-04-jan-recap/</guid>
+      <description>For our January R-Ladies Chicago Meetup, five Chicago R-Ladies presented lightning talks on topics they learned about at rstudio::conf 2019. Three of our organizers attended workshops on diversity scholarships, so we were especially excited to hear what they learned. Natalie Jorion also volunteered to speak, and we ended up having a total of five speakers! Each person spoke for 10 minutes on a subject they thought was interesting.
+Topics of the night included deep learning, improving data project organization, tips for Shiny applications, reproducible research, and contributing to open source.</description>
+    </item>
     
     <item>
       <title>Introducing Chicago Schools Enrollment Data to R</title>

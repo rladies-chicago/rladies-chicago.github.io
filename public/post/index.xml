@@ -13,13 +13,13 @@
     
     
     <item>
-      <title>Recap: rstudio::conf 2019 lightning talks</title>
-      <link>/post/2019-02-04-lightningtalk-recap/</link>
-      <pubDate>Mon, 04 Feb 2019 21:13:14 -0500</pubDate>
+      <title>January Meetup Recap: What We Learned at rstudio::conf</title>
+      <link>/post/2019-02-04-jan-recap/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019-02-04-lightningtalk-recap/</guid>
-      <description>Our first 2019 Meetup was a series of lightning talks based on what we learned at rstudio::conf2019. This year, six R-Ladies Chicago members were at rstudio::conf (and we met even more attendees from Chicago!). Overall, the conference was inspiring and we are excited to use what we learned to host great events for R-Ladies Chicago in 2019!
-Florencia Mangini wrote a great blog post recapping our meetup. Be sure to check it out!</description>
+      <guid>/post/2019-02-04-jan-recap/</guid>
+      <description>For our January R-Ladies Chicago Meetup, five Chicago R-Ladies presented lightning talks on topics they learned about at rstudio::conf 2019. Three of our organizers attended workshops on diversity scholarships, so we were especially excited to hear what they learned. Natalie Jorion also volunteered to speak, and we ended up having a total of five speakers! Each person spoke for 10 minutes on a subject they thought was interesting.
+Topics of the night included deep learning, improving data project organization, tips for Shiny applications, reproducible research, and contributing to open source.</description>
     </item>
     
     <item>
