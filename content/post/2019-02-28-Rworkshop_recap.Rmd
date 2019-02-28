@@ -1,0 +1,105 @@
+---
+title: " R Forwards Package Workshop Recap"
+author: "Florencia Mangini"
+date: 2019-02-26
+categories: ["R"]
+tags: ["community", "rladies","rforwards","workshop","package-development"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Last Saturday, February 23, 2019, took place the R Forwards Women's Package Workshop in Chicago at Center for Spatial Data Science, where Angela Li ([CivicAngela](https://twitter.com/CivicAngela)) and Stephanie Kirmer ([data_stephanie](https://twitter.com/data_stephanie)) conducted the workshop. 40 R-Ladies attended from different parts of the Chicago area to increase their abilities with R.    
+  
+![*Image Caption: Women's Package Development Workshop Attendees*](https://pbs.twimg.com/media/D0HzZViWkAAv-za.jpg)
+
+## What do we learn?  
+  
+We learned about packages, which are the fundamental units of reproducible R code. Also, we worked on how to create our package, the documentation associated and how to include a unit test to the process.  
+  
+We saw a variety of subjects in a friendly and collaborative environment. This course was very hands on, and both instructors solved many questions, or for the person sitting next to you. Both Angela and Stephanie presented each subject, and after that, we learned by doing simple exercises about the matter, and if eventually, you can not have any idea about how to continue you can ask for help about how to solve the problem. Just keep going and keep learning.    
+
+### Material for this workshop    
+  
+You can find all the material of the course in this link: [Chicago 2019 Forwards Workshop](https://github.com/forwards/workshops/tree/master/Chicago2019).  
+  
+  
+Allow me to introduce the 5 decks presented during the workshop:  
+  
+  
+## First Deck: Package Development  
+  
+Check the presentation [here](https://docs.google.com/presentation/d/1DhOqaIumkwzbdglnyugoe53f63pFkQdQwgIdZpmEOok/edit#slide=id.p4):   
+  
+This presentation is about R packages, Angela suggested to check how many R packages have already installed on our computer (you can't believe the numbers :) ), the most common sources for R packages (Cran and Github), and an explanation of the difference (and similarities) between developing a package and developing a script.   
+    
+#### Takeaways:    
+  
+* A review for R package from the theory    
+* Use of several commands like: `R.home()`, `list.files(R.home())`, `R.version`      
+  
+## Second Deck: Packages & R Code  
+  
+During this second part, Angela revisited the definition of a package. Also, she analyzed the reasons to use RStudio projects. After this introduction, we started with the process of building a simple package.   
+  
+Later Stephanie took over explaining what git and GitHub are, and also she spent a moment speaking about version control, ending this second part making a project in RStudio from our repo.  
+  
+Check the presentation [here](https://docs.google.com/presentation/d/1zFSArrDtVKNKvu5ZNZ6E4v64f-P7xy8x4-9c4c_B_cY/edit#slide=id.p1)  
+  
+#### Takeaways:    
+  
+* We learned more about the package [usethis](https://github.com/r-lib/usethis) (for example `usethis::create_package("~/Desktop/mypackage")`)    
+* How to create our first package   
+* How to make a project in RStudio from our repo   
+* Useful resource: [Happy Git with R](https://happygitwithr.com)   
+* Useful resource II: [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159/)  
+  
+## Third Deck: Unit Test  
+  
+During this third part, we reviewed the reason-why is a great idea to use unit test: because it is an excellent way to be sure that our functionalities continue working after each change.   
+We also tested the coverage for our package. As a final recommendation, we should include checking our work as a regular part of the iterative process to develop a package (or in any development).     
+  
+Check the presentation [here](https://docs.google.com/presentation/d/1-UfFgts0RXOw8VOtEvGv3iMC8rcI7g2QDRhL1MJFk6A/edit#slide=id.p1):   
+  
+#### Takeaways:    
+  
+* Theory and practice about how to include unit test in your code  
+* Useful resource: [Testing](http://r-pkgs.had.co.nz/tests.html)   
+  
+## Fourth Deck: Documentation  
+  
+During this fourth part, Stephanie spoke about documentation and why it is always a good idea to include it in your development process: because documentation is the way to preserve the information about the tools.  She reviews Markdown and Roxygen, and also we opened up some function in R to check the Roxygen header and read the documentation, later we included a header in some of the functions created along the workshop. Also, we used Vignettes, Read.me and news to explain how our packages work.  
+  
+Check the presentation: [here](https://docs.google.com/presentation/d/1f_uW09RVRF-Bu0kkVCHtB9OYYWxSjngtxcZ8ZvTquSU/edit#slide=id.p1)      
+  
+#### Takeaways:    
+  
+* How to document [data objects](http://r-pkgs.had.co.nz/data.html#documenting-data)     
+* How to document [classes and methods objects](http://r-pkgs.had.co.nz/man.html#man-classes)     
+* How to document [packages objects](http://r-pkgs.had.co.nz/man.html#man-packages)    
+* Information about [Vignettes](http://r-pkgs.had.co.nz/vignettes.html)    
+  
+## Fifth Deck: Share  
+  
+During this fifth part, we revisited the concept of licenses and the three main open source licenses (CC0, MIT, and GPL). We learned how to use helper to set up the type of license. We got about dependencies and the three types of dependencies (imports, suggests, and depends). We also saw how to access functions in imported packages. We spoke about the reasons to use depends instead on imports. Another concept presented was Automated checking to run automated checks for common problems in R packages. Moreover, also we saw something about how to make a submission to CRAN.    
+  
+Check the presentation: [here](https://docs.google.com/presentation/d/17kkDKmcR8BiEo-5aoOkVHcfmOzqp87dR8gy3BwygkD4/edit#slide=id.p1)    
+  
+#### Takeaways:    
+  
+* [Automated Checking](http://r-pkgs.had.co.nz/check.html)  
+  
+## Additional Materials:  
+  
+There are a lot of resources to continue digging into all the concept presented, some of them are:    
+  
+* [Advanced R](https://adv-r.hadley.nz)    
+* [R packages](http://r-pkgs.had.co.nz)  
+* [R for data science](https://r4ds.had.co.nz)    
+  
+  
+### About the Author:  
+  
+**Florencia Mangini** is a software engineer interested in using data to make a positive impact on society. She enjoys learning and using R, with a focus on data visualization and data mining.
+She loves to write about business analytics, project management and data science in her blog: [www.thinkingondata.com](http://www.thinkingondata.com/). 
