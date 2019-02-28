@@ -51,7 +51,7 @@
     <item>
       <title>Community</title>
       <link>/tags/community/</link>
-      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/community/</guid>
       <description></description>
@@ -94,9 +94,27 @@
     </item>
     
     <item>
+      <title>Package-development</title>
+      <link>/tags/package-development/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/package-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rforwards</title>
+      <link>/tags/rforwards/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rforwards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rladies</title>
       <link>/tags/rladies/</link>
-      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/rladies/</guid>
       <description></description>
@@ -108,6 +126,15 @@
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/tags/study-groups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop</title>
+      <link>/tags/workshop/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/workshop/</guid>
       <description></description>
     </item>
     
