@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
       <link>/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>Astrostatistics</title>
       <link>/tags/astrostatistics/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/tags/astrostatistics/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Dataviz</title>
       <link>/tags/dataviz/</link>
-      <pubDate>Wed, 20 Jun 2018 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/tags/dataviz/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>Nlp</title>
       <link>/tags/nlp/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/tags/nlp/</guid>
       <description></description>
@@ -123,7 +123,7 @@
     <item>
       <title>Study-groups</title>
       <link>/tags/study-groups/</link>
-      <pubDate>Wed, 20 Jun 2018 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/tags/study-groups/</guid>
       <description></description>

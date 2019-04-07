@@ -291,7 +291,7 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     <item>
       <title>Data Viz Study Group Meeting</title>
       <link>/talk/2018-09-10_dataviz/</link>
-      <pubDate>Sun, 26 Aug 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 -0500</pubDate>
       
       <guid>/talk/2018-09-10_dataviz/</guid>
       <description>&lt;p&gt;Join the Data Viz study group for their first meeting!  We&amp;rsquo;ll be exploring the grammar of graphics with R. There will also be an introduction to ggplot2. All are welcome!&lt;/p&gt;
@@ -326,7 +326,7 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     <item>
       <title>Data Visualization</title>
       <link>/project/dataviz/</link>
-      <pubDate>Wed, 20 Jun 2018 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/dataviz/</guid>
       <description>&lt;p&gt;The data viz study group discusses different ways to visualize data in R. Activities that we&amp;rsquo;ve done include:&lt;br /&gt;
@@ -341,7 +341,7 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     <item>
       <title>Astrostatistics</title>
       <link>/project/astrostatistics/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/astrostatistics/</guid>
       <description></description>
@@ -350,7 +350,7 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     <item>
       <title>Natural Language Processing</title>
       <link>/project/nlp/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/nlp/</guid>
       <description></description>
@@ -359,7 +359,7 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     <item>
       <title>&#39;Git&#39; down with Git &#43; R (Workshop &amp; Tutorial)</title>
       <link>/talk/2018-11-13-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-11-13-meetup/</guid>
       <description>&lt;p&gt;Learn about using Git &amp;amp; R at our November Meetup! R-Ladies Board Member Ola Giwa will lead a tutorial and workshop to get you up and running with Github and using Git in your workflow. This session will discuss:&lt;/p&gt;
@@ -380,7 +380,7 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     <item>
       <title>Astrostatistics in R: Predicting Solar Flares</title>
       <link>/talk/2018-08-27-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-08-27-meetup/</guid>
       <description>&lt;p&gt;For our August meetup, the Astrostatistics Study Group (ASG) will talk about their ongoing project in predicting solar flares.&lt;/p&gt;
@@ -396,9 +396,40 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     </item>
     
     <item>
+      <title>Data Visualization with Maps Shiny Workshop</title>
+      <link>/talk/2019-4-18-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2019-4-18-meetup/</guid>
+      <description>&lt;p&gt;Learn how to make your first Shiny app with spatial data! We&amp;rsquo;ll build a simple interactive map application and teach you how to use Shiny apps to interpret and visualize your data.&lt;/p&gt;
+
+&lt;p&gt;What you&amp;rsquo;ll learn:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Why build a Shiny app?&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;How a Shiny app is structured&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;How to incorporate interactivity in your Shiny app&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;How to deploy your Shiny app
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Prerequisites:&lt;/p&gt;
+
+&lt;p&gt;William Blair has a strict firewall, so please follow the instructions here prior to the Meetup so that you are able to get the most out of this workshop: &lt;a href=&#34;https://github.com/rladies-chicago/2019-04-18-shiny-workshop/blob/master/README.md&#34; target=&#34;_blank&#34;&gt;https://github.com/rladies-chicago/2019-04-18-shiny-workshop/blob/master/README.md&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Please note:&lt;/strong&gt;&lt;br /&gt;
+Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. &lt;em&gt;As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor, as spots may be limited. Please contact chicago@rladies.org if you have questions.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Please RSVP through &lt;a href=&#34;https://www.meetup.com/rladies-chicago/events/260316086/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>DataCamp &amp; DataViz</title>
       <link>/talk/2018-05-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-05-meetup/</guid>
       <description></description>
@@ -407,7 +438,7 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     <item>
       <title>DecembeR Holiday Party &amp; Collaborative Planning</title>
       <link>/talk/2018-12-05-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-12-05-meetup/</guid>
       <description>&lt;p&gt;Join R-Ladies Chicago to celebrate the holidays! Socialize with fellow R-Ladies and help us plan for 2019!&lt;/p&gt;
@@ -428,7 +459,7 @@ We&amp;rsquo;ll discuss best practices for working with survey data of all forms
     <item>
       <title>Game Time! R in Minecraft with the &#39;miner&#39; package</title>
       <link>/talk/2018-07-19-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-07-19-meetup/</guid>
       <description>&lt;p&gt;David Smith will talk about the &amp;lsquo;miner&amp;rsquo; package, how to set up your own Minecraft server, and how to use and extend the package. He&amp;rsquo;ll also provide a few examples of the package in action in a live Minecraft session! Fun!&lt;/p&gt;
@@ -440,18 +471,6 @@ We&amp;rsquo;ll discuss best practices for working with survey data of all forms
 &lt;p&gt;About the speaker: David Smith is a developer advocate at Microsoft, with a focus on data science and the R community. He has been a long time facilitator and a good ally for R-Ladies Chicago.&lt;/p&gt;
 
 &lt;p&gt;Please RSVP on the Meetup page and let us know if you have any questions!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>HacktobeRfest at Haymarket Brewery!</title>
-      <link>/talk/2018-10-16-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
-      
-      <guid>/talk/2018-10-16-meetup/</guid>
-      <description>&lt;p&gt;R-Ladies Chicago and Chicago R User Group (CRUG) teamed up this month to bring you a joint meetup worth toasting to: HacktobeRfest at Haymarket Brewery! Listen to some beer-related talks and participate in our Beer Data Hack-a-thon!&lt;/p&gt;
-
-&lt;p&gt;Please RSVP on our &lt;a href=&#34;https://www.meetup.com/rladies-chicago/events/255245435/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     
