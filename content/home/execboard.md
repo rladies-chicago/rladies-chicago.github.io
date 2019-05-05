@@ -75,9 +75,9 @@ weight = 80
   
 \  
   
-## Founders of R-Ladies Chicago 
+## Board Alumni 
 
-![We are grateful to R-Ladies Chicago Founding Board Members: Angela Li, Kaelen Medeiros, & Amanda Dobbyn](/img/exec/Founders.jpg)  
+*We are grateful to former R-Ladies Chicago Board Members:*  
   
-  
-R-Ladies Chicago was founded in July 2017 by Angela Li. We are grateful to the founding members who have brought our community to life: **Angela Li**, **Amanda Dobbyn**, & **Kaelen Medeiros**.
+**Amanda Dobbyn** (2017-2018)   
+**Kaelen Medeiros** (2017-2018) 

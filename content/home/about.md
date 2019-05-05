@@ -12,17 +12,14 @@ weight = 30
      
 \  
     
-**We are the Chicago Chapter of R-Ladies!**  
   
-R-Ladies is a global organization whose mission is to promote gender diversity in the R community. Our goal is to encourage, inspire, and empower people of genders currently underrepresented in the R community.
+R-Ladies Chicago was founded in July 2017 with the goal of supporting women and gender minorities who use R. Anyone with an interest in R is welcome - our group includes data scientists, career transitioners, academic researchers, industry experts, students, interested individuals, and others. Whether you're a beginner or an expert, we encourage you to attend a monthly Meetup!  
   
-Anyone with an interest in R is welcome--beginners, experts and everyone in between. We exchange ideas, share knowledge, and create a friendly network among women who use R!   
-    
-*All events are intended for all women and minority genders who are interested in attending. This includes, but is not limited to, cis/trans women, trans men, non-binary, genderqueer, agender. We are emphatically queer and trans friendly.*  
+Past R-Ladies events have included R workshops, career panels, networking events, and talks from package developers. If you're interested in sharing your work at a R-Ladies event, we encourage you to reach out to **[chicago@rladies.org](mailto:chicago@rladies.org).**    
   
-To see our upcoming meetings, check out our **[Meetup Page](https://www.meetup.com/rladies-chicago/).** Email us at **[chicago@rladies.org](mailto:chicago@rladies.org).** 
+To see our upcoming meetings, check out our **[Meetup Page](https://www.meetup.com/rladies-chicago/).**   
   
-To see other chapters of R-Ladies, visit the website of **[R-Ladies Global](https://rladies.org/).**    
+R-Ladies is a global community! Check out **[R-Ladies Global](https://rladies.org/).**    
   
 R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. We follow the **[R-Ladies International Code of Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct).**
 
