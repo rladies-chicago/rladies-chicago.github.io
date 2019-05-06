@@ -75,8 +75,15 @@ weight = 80
   
 \  
   
-## Board Alumni 
-
+  
+  
+  
+## Board Alumni  
+   
+<img src="/img/exec/board_archive.png" align="center" style="margin: 5px 10px" alt=""> 
+   
+  \  
+  
 *We are grateful to former R-Ladies Chicago Board Members:*  
   
 **Amanda Dobbyn** (2017-2018)   

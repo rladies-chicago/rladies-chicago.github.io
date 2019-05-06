@@ -238,7 +238,7 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Study Groups"
+  name = "Info"
   url = "#projects"
   weight = 3
  

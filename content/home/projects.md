@@ -4,8 +4,8 @@ widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Study Groups"
-subtitle = "Study groups meet separately from our monthly meetups to talk about specific topics in R."
+title = "Info"
+subtitle = "Learn more about how to get involved in R-Ladies."
 
 # Order that this section will appear in.
 weight = 60
