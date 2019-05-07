@@ -13,6 +13,19 @@
     
     
     <item>
+      <title>Join Us!</title>
+      <link>/project/join/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/project/join/</guid>
+      <description>R-Ladies is a worldwide organization that promotes gender diversity in the R community via meetups and mentorship in a friendly and safe environment.
+Join our Slack community at this link: https://rladiesinvite.herokuapp.com/
+Follow our Meetup age and join us at our in-person events: https://www.meetup.com/rladies-chicago/
+
+All are welcome to our events. However, our primary mission is to encourage more women and non-binary individuals to get involved in the R community. As such, we strongly encourage that all men who attend our events have a female or non-binary sponsor.</description>
+    </item>
+    
+    <item>
       <title>Support Us!</title>
       <link>/project/support/</link>
       <pubDate>Sat, 18 May 2019 00:00:00 -0500</pubDate>

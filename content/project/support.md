@@ -6,10 +6,10 @@ date = 2019-05-18T00:00:00
 title = "Support Us!"
 
 # Project summary to display on homepage.
-summary = "We appreciate your help!"
+summary = "R-Ladies relies on community support to host inclusive and informative events."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "microsoft.jpg"
+image_preview = "support.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
