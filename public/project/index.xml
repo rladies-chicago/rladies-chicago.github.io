@@ -21,8 +21,7 @@
       <description>R-Ladies is a worldwide organization that promotes gender diversity in the R community via meetups and mentorship in a friendly and safe environment.
 Join our Slack community at this link: https://rladiesinvite.herokuapp.com/
 Follow our Meetup age and join us at our in-person events: https://www.meetup.com/rladies-chicago/
-
-All are welcome to our events. However, our primary mission is to encourage more women and non-binary individuals to get involved in the R community. As such, we strongly encourage that all men who attend our events have a female or non-binary sponsor.</description>
+We are always looking for fellow R-Ladies who are interested in giving a talk, suggesting a Meetup topic, leading a study group, or writing a blog post. Please reach out!</description>
     </item>
     
     <item>
@@ -32,20 +31,7 @@ All are welcome to our events. However, our primary mission is to encourage more
       
       <guid>/project/support/</guid>
       <description>We are always looking for organizations to support our monthly Meetups! Specifically, we look for companies or organizations that can host us in their space and/or provide food and drink for Meetup attendees.
-If you are interested in potentially hosting R-Ladies, please fill out this Google Form. Also, please read our (Sponsor Space Requirements &amp;amp; Guidelines)[https://docs.google.com/document/d/1NhsM6x1HHaoxXAIYXmApc2lWDQqMTkLQaWuPOoQsaBM/edit?usp=sharing] for details about what a host space needs.</description>
-    </item>
-    
-    <item>
-      <title>Data Visualization</title>
-      <link>/project/dataviz/</link>
-      <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/project/dataviz/</guid>
-      <description>The data viz study group discusses different ways to visualize data in R. Activities that we&amp;rsquo;ve done include:
-&amp;gt; Taking on the monthly r/DataIsBeautiful challenge.
-&amp;gt; Exploring functionalities of ggplot2
-&amp;gt; Visualizing specific data sets
-Join us on our slack channel #sg-dataviz or email study group coordinator Ola [at] rladies dot org.</description>
+If you are interested in potentially hosting R-Ladies, please fill out this Google Form. Also, please read our Sponsor Space Requirements &amp;amp; Guidelines for details about what a host space needs.</description>
     </item>
     
     <item>
@@ -61,24 +47,6 @@ Visit https://asgchicago.github.io/ for more info
 Natural Language Processing
 There are many ways to look at text &amp;amp; language data. The NLP study group explores different aspects of text analysis in the R programming language.
 Visit our github at: https://github.</description>
-    </item>
-    
-    <item>
-      <title>Astrostatistics</title>
-      <link>/project/astrostatistics/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/project/astrostatistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natural Language Processing</title>
-      <link>/project/nlp/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/project/nlp/</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -37,15 +37,7 @@ weight = 80
   
   
   
-### Abhinaya Konduru
-<img src="/img/exec/Abhinaya.jpg" align="left" style="margin: 5px 10px" alt="">  
-  
-**Abhinaya Konduru** is a VC at M25 Group. She double majored in Finance and Mathematical Computer Science at Univeristy of Illinois at Chicago. While she was there, she led the finance student organization and co-founded the Portfolio Management Team which is now one of the largest organizations in the college. She was also a part of numerous programs to help increase digital literacy in the community by partnering with Google and Blue1647.
-   
-   
-  
-  
-  
+
 ### Katherine Simeon  
 <img src="/img/exec/Katherine.jpg" align="left" style="margin: 5px 10px" alt="">  
   
@@ -60,6 +52,14 @@ weight = 80
   
 **Caroline K. Williams** is an aspiring data scientist. She was introduced to R at Blue1647 in May 2017. Before she moved to the US, she worked for an Indonesian non-profit organization in the field of Physics outreach. She recruited volunteers to organized the first Asian Physics Olympiad. She was also appointed as the head organizer of the first Indonesian Physics Amusement Park festival that attracted hundreds of participants. As a result, she was awarded a full scholarship from her work to finish her Master's degree in Physics. While in colleges, she was elected as president of Society of Physics Students, attended the London International Youth Science Festival, and co-authored several Theoretical Physics papers published on Physical Review Journals. She also published articles in student newspaper and hiked mountains. She is passionate about science, environmental issues, and journalism. She enjoys volunteering, travelling, and outdoor activities.  
   
+   
+  
+  
+### Scarlett Winters
+<img src="/img/exec/Scarlett.jpg" align="left" style="margin: 5px 10px" alt="">  
+  
+**Scarlett Winters** is a Data Integration Analyst at Strata Decision Technology and a Master's student in Information Systems Management at Loyola Quinlan School of Business. She is interested in how to use R to explore inequalities toward the LGBTQ community, healthcare issues, as well as broader social-political topics. Scarlett has previous experience conducting analyses and visualizations within the telemedicine sector and academia. Presently, Scarlett is working with her Loyola colleagues to build an application based on emergency response data for Puerto Rican communities to use before, during, and after natural disasters. In her spare time, Scarlett enjoys running, traveling, cooking, and butch fashion.
+   
    
   
   
@@ -86,5 +86,7 @@ weight = 80
   
 *We are grateful to former R-Ladies Chicago Board Members:*  
   
-**Amanda Dobbyn** (2017-2018)   
+  
+**Abhinaya Konduru** (2018-2019)  
+**Amanda Dobbyn** (2017-2018)     
 **Kaelen Medeiros** (2017-2018) 

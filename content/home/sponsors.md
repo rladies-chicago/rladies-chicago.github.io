@@ -6,7 +6,7 @@ weight = 95
 
 We are grateful to the following sponsors for supporting R-Ladies Chicago: 
   
-![We are grateful to our sponsors for their essential contributions to R-Ladies Chicago](/img/rladies_sponsors.png)  
+![We are grateful to our sponsors for their essential contributions to R-Ladies Chicago](/img/rladies_sponsors_v2.jpg)  
 
 
   

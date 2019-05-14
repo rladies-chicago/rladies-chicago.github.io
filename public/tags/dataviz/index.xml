@@ -13,19 +13,6 @@
     
     
     <item>
-      <title>Data Visualization</title>
-      <link>/project/dataviz/</link>
-      <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/project/dataviz/</guid>
-      <description>The data viz study group discusses different ways to visualize data in R. Activities that we&amp;rsquo;ve done include:
-&amp;gt; Taking on the monthly r/DataIsBeautiful challenge.
-&amp;gt; Exploring functionalities of ggplot2
-&amp;gt; Visualizing specific data sets
-Join us on our slack channel #sg-dataviz or email study group coordinator Ola [at] rladies dot org.</description>
-    </item>
-    
-    <item>
       <title>Study Groups</title>
       <link>/project/studygroups/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>

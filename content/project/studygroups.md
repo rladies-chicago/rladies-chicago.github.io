@@ -55,5 +55,5 @@ Javascript
 Machine Learning  
 GIS/Spatial Data   
   
-Join via [slack](https://rladies-chicago.slack.com)!
+Join via [Slack](https://rladiesinvite.herokuapp.com/)!
   
