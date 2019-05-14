@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>/project/join/</loc>
+      <lastmod>2019-05-18T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/support/</loc>
+      <lastmod>2019-05-18T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/2019-02-28-rworkshop_recap/</loc>
       <lastmod>2019-02-26T00:00:00+00:00</lastmod>
     </url>
@@ -59,26 +77,8 @@
     
     <url>
     
-      <loc>/project/dataviz/</loc>
+      <loc>/project/studygroups/</loc>
       <lastmod>2018-06-20T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/astrostatistics/</loc>
-      <lastmod>2018-06-18T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/nlp/</loc>
-      <lastmod>2018-06-18T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -267,7 +267,7 @@
     <url>
     
       <loc>/tags/astrostatistics/</loc>
-      <lastmod>2018-06-18T00:00:00-05:00</lastmod>
+      <lastmod>2018-06-20T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -317,7 +317,7 @@
     <url>
     
       <loc>/tags/community/</loc>
-      <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+      <lastmod>2019-05-18T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -347,7 +347,7 @@
     <url>
     
       <loc>/tags/meetups/</loc>
-      <lastmod>2018-09-27T21:13:14-05:00</lastmod>
+      <lastmod>2019-05-18T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -357,7 +357,7 @@
     <url>
     
       <loc>/tags/nlp/</loc>
-      <lastmod>2018-06-18T00:00:00-05:00</lastmod>
+      <lastmod>2018-06-20T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -377,7 +377,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2018-06-20T00:00:00-05:00</lastmod>
+      <lastmod>2019-05-18T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -417,7 +417,7 @@
     <url>
     
       <loc>/tags/rladies/</loc>
-      <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+      <lastmod>2019-05-18T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

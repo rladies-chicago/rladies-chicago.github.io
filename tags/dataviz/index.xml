@@ -13,16 +13,18 @@
     
     
     <item>
-      <title>Data Visualization</title>
-      <link>/project/dataviz/</link>
+      <title>Study Groups</title>
+      <link>/project/studygroups/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
       
-      <guid>/project/dataviz/</guid>
-      <description>The data viz study group discusses different ways to visualize data in R. Activities that we&amp;rsquo;ve done include:
-&amp;gt; Taking on the monthly r/DataIsBeautiful challenge.
-&amp;gt; Exploring functionalities of ggplot2
-&amp;gt; Visualizing specific data sets
-Join us on our slack channel #sg-dataviz or email study group coordinator Ola [at] rladies dot org.</description>
+      <guid>/project/studygroups/</guid>
+      <description>Astrostatistics
+Astrostatistics is a new emerging field that combines Astrophysics and Statistics. Our Astrostatistics Study Group (ASG) will create opportunities for R people to join the fun in exploring the Universe!
+Visit https://asgchicago.github.io/ for more info
+
+Natural Language Processing
+There are many ways to look at text &amp;amp; language data. The NLP study group explores different aspects of text analysis in the R programming language.
+Visit our github at: https://github.</description>
     </item>
     
   </channel>

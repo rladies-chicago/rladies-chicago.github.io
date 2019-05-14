@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/rladies/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Join Us!</title>
+      <link>/project/join/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/project/join/</guid>
+      <description>R-Ladies is a worldwide organization that promotes gender diversity in the R community via meetups and mentorship in a friendly and safe environment.
+Join our Slack community at this link: https://rladiesinvite.herokuapp.com/
+Follow our Meetup age and join us at our in-person events: https://www.meetup.com/rladies-chicago/
+We are always looking for fellow R-Ladies who are interested in giving a talk, suggesting a Meetup topic, leading a study group, or writing a blog post. Please reach out!</description>
+    </item>
+    
+    <item>
+      <title>Support Us!</title>
+      <link>/project/support/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/project/support/</guid>
+      <description>We are always looking for organizations to support our monthly Meetups! Specifically, we look for companies or organizations that can host us in their space and/or provide food and drink for Meetup attendees.
+If you are interested in potentially hosting R-Ladies, please fill out this Google Form. Also, please read our Sponsor Space Requirements &amp;amp; Guidelines for details about what a host space needs.</description>
+    </item>
     
     <item>
       <title> R Forwards Package Workshop Recap</title>

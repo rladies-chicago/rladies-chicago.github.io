@@ -11,6 +11,44 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Join Us!</title>
+      <link>/project/join/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/project/join/</guid>
+      <description>&lt;p&gt;R-Ladies is a worldwide organization that  promotes gender diversity in the R community via meetups and mentorship in a friendly and safe environment.&lt;/p&gt;
+
+&lt;p&gt;Join our Slack community at this link: &lt;a href=&#34;https://rladiesinvite.herokuapp.com/&#34; target=&#34;_blank&#34;&gt;https://rladiesinvite.herokuapp.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Follow our Meetup age and join us at our in-person events: &lt;a href=&#34;https://www.meetup.com/rladies-chicago/&#34; target=&#34;_blank&#34;&gt;https://www.meetup.com/rladies-chicago/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We are always looking for fellow R-Ladies who are interested in giving a talk, suggesting a Meetup topic, leading a study group, or writing a &lt;a href=&#34;https://github.com/rladies-chicago/blog&#34; target=&#34;_blank&#34;&gt;blog post&lt;/a&gt;. Please reach out!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/join_us.png&#34; align=&#34;center&#34; style=&#34;margin: 5px 10px&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;All are welcome to our events. However, our primary mission is to encourage more women and non-binary individuals to get involved in the R community.  &lt;em&gt;As such, we strongly encourage that all men who attend our events have a female or non-binary sponsor. Please contact chicago@rladies.org if you have questions.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Support Us!</title>
+      <link>/project/support/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/project/support/</guid>
+      <description>&lt;p&gt;We are always looking for organizations to support our monthly Meetups! Specifically, we look for companies or organizations that can host us in their space and/or provide food and drink for Meetup attendees.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in potentially hosting R-Ladies, please fill out this &lt;a href=&#34;https://forms.gle/RP9KqV3x7QpymjgE7&#34; target=&#34;_blank&#34;&gt;Google Form&lt;/a&gt;. Also, please read our &lt;strong&gt;&lt;a href=&#34;https://docs.google.com/document/d/1NhsM6x1HHaoxXAIYXmApc2lWDQqMTkLQaWuPOoQsaBM/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Sponsor Space Requirements &amp;amp; Guidelines&lt;/a&gt;&lt;/strong&gt; for details about what a host space needs.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/rladies_sponsors_v2.jpg&#34; alt=&#34;We are grateful to our sponsors for their essential contributions to R-Ladies Chicago&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title> R Forwards Package Workshop Recap</title>
       <link>/post/2019-02-28-rworkshop_recap/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
@@ -324,36 +362,39 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     </item>
     
     <item>
-      <title>Data Visualization</title>
-      <link>/project/dataviz/</link>
+      <title>Study Groups</title>
+      <link>/project/studygroups/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
       
-      <guid>/project/dataviz/</guid>
-      <description>&lt;p&gt;The data viz study group discusses different ways to visualize data in R. Activities that we&amp;rsquo;ve done include:&lt;br /&gt;
-&amp;gt; Taking on the monthly &lt;a href=&#34;http://reddit.com/r/dataisbeautiful&#34; target=&#34;_blank&#34;&gt;r/DataIsBeautiful&lt;/a&gt; challenge.&lt;br /&gt;
-&amp;gt; Exploring functionalities of ggplot2&lt;br /&gt;
-&amp;gt; Visualizing specific data sets&lt;/p&gt;
+      <guid>/project/studygroups/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/Astrologo.jpg&#34; align=&#34;left&#34; style=&#34;margin: 5px 10px&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;Join us on our &lt;a href=&#34;https://rladies-chicago.slack.com&#34; target=&#34;_blank&#34;&gt;slack&lt;/a&gt; channel &lt;strong&gt;#sg-dataviz&lt;/strong&gt; or email study group coordinator Ola [at] rladies dot org.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Astrostatistics&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Astrostatistics is a new emerging field that combines Astrophysics and Statistics. Our Astrostatistics Study Group (ASG) will create opportunities for R people to join the fun in exploring the Universe!&lt;/p&gt;
+
+&lt;p&gt;Visit &lt;a href=&#34;https://asgchicago.github.io/&#34; target=&#34;_blank&#34;&gt;https://asgchicago.github.io/&lt;/a&gt; for more info&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/NLPlogo.jpg&#34; align=&#34;left&#34; style=&#34;margin: 5px 10px&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Natural Language Processing&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There are many ways to look at text &amp;amp; language data. The NLP study group explores different aspects of text analysis in the R programming language.&lt;/p&gt;
+
+&lt;p&gt;Visit our github at: &lt;a href=&#34;https://github.com/rladies-nlp&#34; target=&#34;_blank&#34;&gt;https://github.com/rladies-nlp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Other Study Groups&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Javascript&lt;br /&gt;
+Machine Learning&lt;br /&gt;
+GIS/Spatial Data&lt;/p&gt;
+
+&lt;p&gt;Join via &lt;a href=&#34;https://rladiesinvite.herokuapp.com/&#34; target=&#34;_blank&#34;&gt;Slack&lt;/a&gt;!&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Astrostatistics</title>
-      <link>/project/astrostatistics/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/project/astrostatistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natural Language Processing</title>
-      <link>/project/nlp/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/project/nlp/</guid>
-      <description></description>
     </item>
     
     <item>
