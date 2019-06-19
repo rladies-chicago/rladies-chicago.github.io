@@ -38,6 +38,16 @@ weight = 80
   
   
 
+### Sushmita Gopalan
+<img src="/img/exec/Sush.jpg" align="left" style="margin: 5px 10px" alt="">  
+  
+**Sushmita Gopalan** is a data scientist at the Northwestern Neighbourhood and Network Initiative at Northwestern University. She uses network and spatial analysis to understand the ways in which social ties, space and their intersection influence behaviour. She has a B.A./M.A. in Economics from the Indian Institute of Technology Madras and an M.A. in Computational Social Science from the University of Chicago. Sushmita uses R to wrangle data and make pretty maps and graphs.  
+   
+   
+  
+  
+  
+
 ### Katherine Simeon  
 <img src="/img/exec/Katherine.jpg" align="left" style="margin: 5px 10px" alt="">  
   
