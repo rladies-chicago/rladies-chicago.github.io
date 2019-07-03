@@ -1,7 +1,7 @@
 ---
 title: 'R-Ladies Wine Preferences: Sip and Code Recap and Tutorial'
 author: "Natalia Block"
-date: '2019-07-01'
+date: "`r format(Sys.Date())`"
 tags: ["community","rladies"]
 categories: ["R"]
 ---
