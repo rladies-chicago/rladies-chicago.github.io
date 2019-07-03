@@ -11,6 +11,119 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>R-Ladies Wine Preferences: Sip and Code Recap and Tutorial</title>
+      <link>/post/2019_07_01_block/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019_07_01_block/</guid>
+      <description>&lt;p&gt;Last Wednesday, June 26, 2019, the R-Ladies Chicago got together for a Summer Social Meetup over wine and coding. It was a great opportunity to meet people, socialize and, of course, have some drinks!&lt;/p&gt;
+&lt;p&gt;We were supposed to taste some beverages (wine tasting was optional, there were non-alcoholic drinks too) and rate them for a collaborative activity afterwards. So, what are the R-Ladies wine preferences? In this post I’ll present the data we produced in a simple tutorial.&lt;/p&gt;
+&lt;p&gt;For this activity I just used tidyverse to do some data wrangling and visualization, RCurl to upload the csv from the R-Ladies Github repository and lubridate to play a little bit with the Timestamp variable.&lt;/p&gt;
+&lt;p&gt;Let’s see how the data set looks like:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;#uploading packages
+library(tidyverse)
+library(lubridate) 
+library(RCurl)
+
+#uploading data from the R-Ladies repository (Here I&amp;#39;m using RCurl)
+wine&amp;lt;-read.csv(text=getURL(&amp;quot;https://raw.githubusercontent.com/rladies-chicago/2019-06-26-sip-and-code-round2/master/sipncode2019.csv&amp;quot;))
+
+#taking a look at the first lines
+head(wine)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##       Timestamp drink_category                drink_name drink_rating
+## 1 6/26/19 18:02  Non-Alcoholic Blood Orange Pellegrino&amp;#39;s           84
+## 2 6/26/19 18:03  Non-Alcoholic Blood Orange Pellegrino&amp;#39;s           85
+## 3 6/26/19 18:04  Non-Alcoholic Blood Orange Pellegrino&amp;#39;s           88
+## 4 6/26/19 18:10  Non-Alcoholic        Grapefruit LaCroix           90
+## 5 6/26/19 18:10  Non-Alcoholic        Grapefruit LaCroix           80
+## 6 6/26/19 18:11  Non-Alcoholic Blood Orange Pellegrino&amp;#39;s           98&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;We have four variables: 1) Timestamp, that is a factor with the time that the rate was entered in the data set; 2) drink_category categorizes the beverages as non-alcoholic or as Wine/Champagne; 3) drink_name, that is a factor; 4) drink_rating, an interger. Let’s see how many ratings each drink category received.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;wine%&amp;gt;%
+  count(drink_category)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## # A tibble: 2 x 2
+##   drink_category     n
+##   &amp;lt;fct&amp;gt;          &amp;lt;int&amp;gt;
+## 1 Non-Alcoholic     19
+## 2 Wine/Champagne    70&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The data set has 89 ratings, 19 for non-alcoholic and 70 for alcoholic beverages. I’ll focus this exploration on the alcoholic drinks. All the bottles were opened at the same time and we were free to choose whatever we wanted to try. It means that each participant had tried as many wines as they wanted, but rated each of them only once. Let’s take a look at the distribution of these ratings among our options.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;#setting the ggplot theme
+theme_set(theme_classic())
+
+#plotting
+wine%&amp;gt;%
+  filter(drink_category==&amp;quot;Wine/Champagne&amp;quot;)%&amp;gt;%
+  ggplot(aes(drink_name,drink_rating))+
+  geom_boxplot()+
+  geom_dotplot(binaxis=&amp;quot;y&amp;quot;,
+               stackdir=&amp;quot;center&amp;quot;,
+               dotsize = .8,
+               fill=&amp;quot;red&amp;quot;)+
+  theme(axis.text.x = element_text(angle=70, vjust=0.6))+
+  labs(title=&amp;quot;Distribution of ratings per alcoholic beverages&amp;quot;,
+        caption=&amp;quot;Source: R-Ladies Chicago&amp;quot;,
+        x=&amp;quot;&amp;quot;,
+        y=&amp;quot;Ratings&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2019_07_01_Block_files/figure-html/unnamed-chunk-3-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The red dots are each rating in the data set. The data is very unequally distributed and this can lead us to biased conclusions if we don’t analyze them carefully. For example, the Chardonnay - Kendall Jackson has the highest mean rate (89.5), but only two participants tasted it. In turn, Rose (La Vie Ferme) was tasted by 14 ladies and presented a lower mean rate (87).&lt;/p&gt;
+&lt;p&gt;So, I decided to reclassify the drinks in other three broader categories: 1) White Wine/Champagne, where I’ve put the Champagne - Brut, all the Chardonnays and the Sauvignon Blanc; 2) Light Red Wine, which are the Pinot Noir and Rose; 3) Red Wine, that are the Garnacha, Malbec and Red Blend. Then, I’ve plotted the distribution of the ratings in this new classification.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;#reclassifying 
+
+wine_new&amp;lt;-wine%&amp;gt;%
+  filter(drink_category==&amp;quot;Wine/Champagne&amp;quot;)%&amp;gt;%
+  mutate(new_category=as.factor(case_when(drink_name==&amp;quot;Chardonnay - La Crema&amp;quot; ~ &amp;quot;Champagne/White Wine&amp;quot;,
+                                          drink_name==&amp;quot;Chardonnay - Cambria&amp;quot; ~ &amp;quot;Champagne/White Wine&amp;quot;,
+                                          drink_name==&amp;quot;Pinot Noir&amp;quot; ~ &amp;quot;Light Red Wine&amp;quot;,
+                                          drink_name==&amp;quot;Garnacha (Vina Zorzal)&amp;quot; ~ &amp;quot;Red Wine&amp;quot;,
+                                          drink_name==&amp;quot;Malbec&amp;quot; ~ &amp;quot;Red Wine&amp;quot;,
+                                          drink_name==&amp;quot;Champagne - Brut&amp;quot; ~ &amp;quot;Champagne/White Wine&amp;quot;,
+                                          drink_name== &amp;quot;Red Blend&amp;quot; ~ &amp;quot;Red Wine&amp;quot;,
+                                          drink_name== &amp;quot;Sauvignon Blanc&amp;quot; ~ &amp;quot;Champagne/White Wine&amp;quot;,
+                                          drink_name==&amp;quot;Chardonnay&amp;quot; ~ &amp;quot;Champagne/White Wine&amp;quot;,
+                                          drink_name==&amp;quot;Rose (La Vieille Ferme)&amp;quot; ~ &amp;quot;Light Red Wine&amp;quot;,
+                                          drink_name==&amp;quot;Chardonnay - Butter&amp;quot; ~ &amp;quot;Champagne/White Wine&amp;quot;,
+                                          drink_name==&amp;quot;Chardonnay - Kendall Jackson&amp;quot; ~ &amp;quot;Champagne/White Wine&amp;quot;)))
+
+#plotting
+
+wine_new%&amp;gt;%
+  ggplot(aes(new_category,drink_rating))+
+  geom_boxplot()+
+  geom_dotplot(binaxis=&amp;quot;y&amp;quot;,
+               stackdir=&amp;quot;center&amp;quot;,
+               dotsize = .8,
+               fill=&amp;quot;red&amp;quot;)+
+  theme(axis.text.x = element_text(angle=45, vjust=0.6))+
+  labs(title=&amp;quot;Distribution of ratings per category&amp;quot;,
+       caption=&amp;quot;Source: R-Ladies Chicago&amp;quot;,
+       x=&amp;quot;&amp;quot;,
+       y=&amp;quot;Ratings&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2019_07_01_Block_files/figure-html/unnamed-chunk-4-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;If we look only at the mean of the ratings (Light Red Wine= 86.3; Champagne/White Wine= 85.8; Red Wine= 84.9) it seems that R-Ladies slightly prefered the Light Red Wines. However, there are some many outliers in all three categories that is hard to say if there was any preferred type.&lt;/p&gt;
+&lt;p&gt;The data set comprises ratings along one hour of the meeting, from around 6 to 7 pm. The meeting started at 5:45 and finished around 8 or 8:30 pm. The next plot shows how the ratings were distributed in this time frame.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;##transforming the time variable using lubridate  
+wine_new$Timestamp&amp;lt;-mdy_hm(wine_new$Timestamp)
+
+
+#ploting the count of alcoholic beverages tasted every 3 minutes
+wine_new%&amp;gt;%
+  ggplot(aes(Timestamp))+
+  geom_freqpoly(binwidth= 180)+
+  labs(title=&amp;quot;Count of alcoholic beverages tasted&amp;quot;,
+       subtitle=&amp;quot;at every three minutes&amp;quot;,
+       caption=&amp;quot;Source: R-Ladies Chicago&amp;quot;,
+       x= &amp;quot;&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2019_07_01_Block_files/figure-html/unnamed-chunk-5-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;This plot makes sense to me. People started to arrive in bigger numbers around 6pm and we were encouraged to start tasting the wines by the R-Ladies board by 6:15. Around 6:30 there was a general announcement about how to scan the bar code in order to rate the beverages. These may explain the higher numbers of ratings around 6:15 and 6:40. By 6:45 we had annoucenments and intros, what explains the lower count of ratings around this time.&lt;/p&gt;
+&lt;p&gt;So, what can we say about the R-Ladies wine preferences? Probably that a good wine is the one you drink with inspiring women while playing a bit with ggplot.&lt;/p&gt;
+&lt;p&gt;If you are new to R and got a bit lost in this tutorial I highly recommend to take a look at the R-Ladies Chicago &lt;a href=&#34;https://github.com/rladies-chicago/beginners-r&#34;&gt;Beginners’ Repository&lt;/a&gt; on Github.&lt;/p&gt;
+&lt;div id=&#34;about-the-author&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;About the Author:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/nataliablock/&#34;&gt;Natalia Block&lt;/a&gt; is a Research and Data Analyst. She has worked with R on research projects for political organizations, campaigns and in academia. When not coding, she is drawing (and vice-versa).&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Join Us!</title>
       <link>/project/join/</link>
       <pubDate>Sat, 18 May 2019 00:00:00 -0500</pubDate>
@@ -494,24 +607,6 @@ We&amp;rsquo;ll discuss best practices for working with survey data of all forms
 &lt;p&gt;There will be no formal technical talk at this meeting; rather, this will be a time to network with fellow R-Ladies while doing a collaborative coding activity. This is part of our “social” Meetups, focused on networking and idea exchange.&lt;/p&gt;
 
 &lt;p&gt;Be sure to RSVP on our &lt;a href=&#34;https://www.meetup.com/rladies-chicago/events/256428023/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Game Time! R in Minecraft with the &#39;miner&#39; package</title>
-      <link>/talk/2018-07-19-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
-      
-      <guid>/talk/2018-07-19-meetup/</guid>
-      <description>&lt;p&gt;David Smith will talk about the &amp;lsquo;miner&amp;rsquo; package, how to set up your own Minecraft server, and how to use and extend the package. He&amp;rsquo;ll also provide a few examples of the package in action in a live Minecraft session! Fun!&lt;/p&gt;
-
-&lt;p&gt;The miner package is intended mainly for kids, to inspire them to learn R while playing Minecraft. But the development of the package also provides some useful insights into how to build an R package to interface with a persistent API, and how to instruct others on its use.&lt;/p&gt;
-
-&lt;p&gt;This package is a collection of simple functions that allow you to connect with a Minecraft instance, manipulate the world within by creating blocks and controlling the player, and to detect events within the world and react accordingly.&lt;/p&gt;
-
-&lt;p&gt;About the speaker: David Smith is a developer advocate at Microsoft, with a focus on data science and the R community. He has been a long time facilitator and a good ally for R-Ladies Chicago.&lt;/p&gt;
-
-&lt;p&gt;Please RSVP on the Meetup page and let us know if you have any questions!&lt;/p&gt;
 </description>
     </item>
     
