@@ -1,0 +1,114 @@
+---
+title: 'R-Ladies Wine Preferences: Sip and Code Recap and Tutorial'
+author: "Natalia Block"
+date: '2019-07-01'
+tags: ["community","rladies"]
+categories: ["R"]
+---
+
+
+
+<p>Last Wednesday, June 26, 2019, the R-Ladies Chicago got together for a Summer Social Meetup over wine and coding. It was a great opportunity to meet people, socialize and, of course, have some drinks!</p>
+<p>We were supposed to taste some beverages (wine tasting was optional, there were non-alcoholic drinks too) and rate them for a collaborative activity afterwards. So, what are the R-Ladies wine preferences? In this post I’ll present the data we produced in a simple tutorial.</p>
+<p>For this activity I just used tidyverse to do some data wrangling and visualization, RCurl to upload the csv from the R-Ladies Github repository and lubridate to play a little bit with the Timestamp variable.</p>
+<p>Let’s see how the data set looks like:</p>
+<pre class="r"><code>#uploading packages
+library(tidyverse)
+library(lubridate) 
+library(RCurl)
+
+#uploading data from the R-Ladies repository (Here I&#39;m using RCurl)
+wine&lt;-read.csv(text=getURL(&quot;https://raw.githubusercontent.com/rladies-chicago/2019-06-26-sip-and-code-round2/master/sipncode2019.csv&quot;))
+
+#taking a look at the first lines
+head(wine)</code></pre>
+<pre><code>##       Timestamp drink_category                drink_name drink_rating
+## 1 6/26/19 18:02  Non-Alcoholic Blood Orange Pellegrino&#39;s           84
+## 2 6/26/19 18:03  Non-Alcoholic Blood Orange Pellegrino&#39;s           85
+## 3 6/26/19 18:04  Non-Alcoholic Blood Orange Pellegrino&#39;s           88
+## 4 6/26/19 18:10  Non-Alcoholic        Grapefruit LaCroix           90
+## 5 6/26/19 18:10  Non-Alcoholic        Grapefruit LaCroix           80
+## 6 6/26/19 18:11  Non-Alcoholic Blood Orange Pellegrino&#39;s           98</code></pre>
+<p>We have four variables: 1) Timestamp, that is a factor with the time that the rate was entered in the data set; 2) drink_category categorizes the beverages as non-alcoholic or as Wine/Champagne; 3) drink_name, that is a factor; 4) drink_rating, an interger. Let’s see how many ratings each drink category received.</p>
+<pre class="r"><code>wine%&gt;%
+  count(drink_category)</code></pre>
+<pre><code>## # A tibble: 2 x 2
+##   drink_category     n
+##   &lt;fct&gt;          &lt;int&gt;
+## 1 Non-Alcoholic     19
+## 2 Wine/Champagne    70</code></pre>
+<p>The data set has 89 ratings, 19 for non-alcoholic and 70 for alcoholic beverages. I’ll focus this exploration on the alcoholic drinks. All the bottles were opened at the same time and we were free to choose whatever we wanted to try. It means that each participant had tried as many wines as they wanted, but rated each of them only once. Let’s take a look at the distribution of these ratings among our options.</p>
+<pre class="r"><code>#setting the ggplot theme
+theme_set(theme_classic())
+
+#plotting
+wine%&gt;%
+  filter(drink_category==&quot;Wine/Champagne&quot;)%&gt;%
+  ggplot(aes(drink_name,drink_rating))+
+  geom_boxplot()+
+  geom_dotplot(binaxis=&quot;y&quot;,
+               stackdir=&quot;center&quot;,
+               dotsize = .8,
+               fill=&quot;red&quot;)+
+  theme(axis.text.x = element_text(angle=70, vjust=0.6))+
+  labs(title=&quot;Distribution of ratings per alcoholic beverages&quot;,
+        caption=&quot;Source: R-Ladies Chicago&quot;,
+        x=&quot;&quot;,
+        y=&quot;Ratings&quot;)</code></pre>
+<p><img src="/post/2019_07_01_Block_files/figure-html/unnamed-chunk-3-1.png" width="672" /></p>
+<p>The red dots are each rating in the data set. The data is very unequally distributed and this can lead us to biased conclusions if we don’t analyze them carefully. For example, the Chardonnay - Kendall Jackson has the highest mean rate (89.5), but only two participants tasted it. In turn, Rose (La Vie Ferme) was tasted by 14 ladies and presented a lower mean rate (87).</p>
+<p>So, I decided to reclassify the drinks in other three broader categories: 1) White Wine/Champagne, where I’ve put the Champagne - Brut, all the Chardonnays and the Sauvignon Blanc; 2) Light Red Wine, which are the Pinot Noir and Rose; 3) Red Wine, that are the Garnacha, Malbec and Red Blend. Then, I’ve plotted the distribution of the ratings in this new classification.</p>
+<pre class="r"><code>#reclassifying 
+
+wine_new&lt;-wine%&gt;%
+  filter(drink_category==&quot;Wine/Champagne&quot;)%&gt;%
+  mutate(new_category=as.factor(case_when(drink_name==&quot;Chardonnay - La Crema&quot; ~ &quot;Champagne/White Wine&quot;,
+                                          drink_name==&quot;Chardonnay - Cambria&quot; ~ &quot;Champagne/White Wine&quot;,
+                                          drink_name==&quot;Pinot Noir&quot; ~ &quot;Light Red Wine&quot;,
+                                          drink_name==&quot;Garnacha (Vina Zorzal)&quot; ~ &quot;Red Wine&quot;,
+                                          drink_name==&quot;Malbec&quot; ~ &quot;Red Wine&quot;,
+                                          drink_name==&quot;Champagne - Brut&quot; ~ &quot;Champagne/White Wine&quot;,
+                                          drink_name== &quot;Red Blend&quot; ~ &quot;Red Wine&quot;,
+                                          drink_name== &quot;Sauvignon Blanc&quot; ~ &quot;Champagne/White Wine&quot;,
+                                          drink_name==&quot;Chardonnay&quot; ~ &quot;Champagne/White Wine&quot;,
+                                          drink_name==&quot;Rose (La Vieille Ferme)&quot; ~ &quot;Light Red Wine&quot;,
+                                          drink_name==&quot;Chardonnay - Butter&quot; ~ &quot;Champagne/White Wine&quot;,
+                                          drink_name==&quot;Chardonnay - Kendall Jackson&quot; ~ &quot;Champagne/White Wine&quot;)))
+
+#plotting
+
+wine_new%&gt;%
+  ggplot(aes(new_category,drink_rating))+
+  geom_boxplot()+
+  geom_dotplot(binaxis=&quot;y&quot;,
+               stackdir=&quot;center&quot;,
+               dotsize = .8,
+               fill=&quot;red&quot;)+
+  theme(axis.text.x = element_text(angle=45, vjust=0.6))+
+  labs(title=&quot;Distribution of ratings per category&quot;,
+       caption=&quot;Source: R-Ladies Chicago&quot;,
+       x=&quot;&quot;,
+       y=&quot;Ratings&quot;)</code></pre>
+<p><img src="/post/2019_07_01_Block_files/figure-html/unnamed-chunk-4-1.png" width="672" /></p>
+<p>If we look only at the mean of the ratings (Light Red Wine= 86.3; Champagne/White Wine= 85.8; Red Wine= 84.9) it seems that R-Ladies slightly prefered the Light Red Wines. However, there are some many outliers in all three categories that is hard to say if there was any preferred type.</p>
+<p>The data set comprises ratings along one hour of the meeting, from around 6 to 7 pm. The meeting started at 5:45 and finished around 8 or 8:30 pm. The next plot shows how the ratings were distributed in this time frame.</p>
+<pre class="r"><code>##transforming the time variable using lubridate  
+wine_new$Timestamp&lt;-mdy_hm(wine_new$Timestamp)
+
+
+#ploting the count of alcoholic beverages tasted every 3 minutes
+wine_new%&gt;%
+  ggplot(aes(Timestamp))+
+  geom_freqpoly(binwidth= 180)+
+  labs(title=&quot;Count of alcoholic beverages tasted&quot;,
+       subtitle=&quot;at every three minutes&quot;,
+       caption=&quot;Source: R-Ladies Chicago&quot;,
+       x= &quot;&quot;)</code></pre>
+<p><img src="/post/2019_07_01_Block_files/figure-html/unnamed-chunk-5-1.png" width="672" /></p>
+<p>This plot makes sense to me. People started to arrive in bigger numbers around 6pm and we were encouraged to start tasting the wines by the R-Ladies board by 6:15. Around 6:30 there was a general announcement about how to scan the bar code in order to rate the beverages. These may explain the higher numbers of ratings around 6:15 and 6:40. By 6:45 we had annoucenments and intros, what explains the lower count of ratings around this time.</p>
+<p>So, what can we say about the R-Ladies wine preferences? Probably that a good wine is the one you drink with inspiring women while playing a bit with ggplot.</p>
+<p>If you are new to R and got a bit lost in this tutorial I highly recommend to take a look at the R-Ladies Chicago <a href="https://github.com/rladies-chicago/beginners-r">Beginners’ Repository</a> on Github.</p>
+<div id="about-the-author" class="section level4">
+<h4>About the Author:</h4>
+<p><a href="https://www.linkedin.com/in/nataliablock/">Natalia Block</a> is a Research and Data Analyst. She has worked with R on research projects for political organizations, campaigns and in academia. When not coding, she is drawing (and vice-versa).</p>
+</div>

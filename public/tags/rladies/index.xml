@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 18 May 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/rladies/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R-Ladies Wine Preferences: Sip and Code Recap and Tutorial</title>
+      <link>/post/2019_07_01_block/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019_07_01_block/</guid>
+      <description>Last Wednesday, June 26, 2019, the R-Ladies Chicago got together for a Summer Social Meetup over wine and coding. It was a great opportunity to meet people, socialize and, of course, have some drinks!
+We were supposed to taste some beverages (wine tasting was optional, there were non-alcoholic drinks too) and rate them for a collaborative activity afterwards. So, what are the R-Ladies wine preferences? In this post I’ll present the data we produced in a simple tutorial.</description>
+    </item>
     
     <item>
       <title>Join Us!</title>
