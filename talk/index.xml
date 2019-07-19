@@ -37,6 +37,15 @@ Please RSVP: https://www.meetup.com/rladies-chicago/events/254251305/</descripti
     </item>
     
     <item>
+      <title>Animation for Effective Data Visualization with R</title>
+      <link>/talk/2019-7-24-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2019-7-24-meetup/</guid>
+      <description>Adding animation to graphs can make visualizations eye-catching and effective for transmitting complex information to audiences. In this talk, attendees will learn about using animation in data visualizations in R using ggplot2 and gganimate. Topics will include: how to choose when an animation might (or might not) be an appropriate option for your use case, ways to make sure your visualization still communicates clearly and succinctly when animated, and a hands-on walk-through of how to turn a not-so-great static visualization into a great animated plot.</description>
+    </item>
+    
+    <item>
       <title>Astrostatistics in R: Predicting Solar Flares</title>
       <link>/talk/2018-08-27-meetup/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
