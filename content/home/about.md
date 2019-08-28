@@ -21,6 +21,9 @@ To see our upcoming meetings, check out our **[Meetup Page](https://www.meetup.c
   
 R-Ladies is a global community! Check out **[R-Ladies Global](https://rladies.org/).**    
   
-R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. We follow the **[R-Ladies International Code of Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct).**
+R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. We follow the **[R-Ladies International Code of Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct).**  
+  
+   
+*This website was made via [blogdown](https://github.com/rstudio/blogdown) using the Academic theme. If you find a typo, please feel free to submit an issue / PR to this [repo](https://github.com/rladies-chicago/rladies-chicago.github.io).* 
 
 
