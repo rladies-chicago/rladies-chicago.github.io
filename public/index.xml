@@ -126,7 +126,7 @@ wine_new%&amp;gt;%
     <item>
       <title>Join Us!</title>
       <link>/project/join/</link>
-      <pubDate>Sat, 18 May 2019 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 18 May 2019 00:00:00 -0500</pubDate>
       
       <guid>/project/join/</guid>
       <description>&lt;p&gt;R-Ladies is a worldwide organization that  promotes gender diversity in the R community via meetups and mentorship in a friendly and safe environment.&lt;/p&gt;
@@ -148,7 +148,7 @@ wine_new%&amp;gt;%
     <item>
       <title>Support Us!</title>
       <link>/project/support/</link>
-      <pubDate>Sat, 18 May 2019 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 18 May 2019 00:00:00 -0500</pubDate>
       
       <guid>/project/support/</guid>
       <description>&lt;p&gt;We are always looking for organizations to support our monthly Meetups! Specifically, we look for companies or organizations that can host us in their space and/or provide food and drink for Meetup attendees.&lt;/p&gt;
@@ -442,7 +442,7 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     <item>
       <title>Data Viz Study Group Meeting</title>
       <link>/talk/2018-09-10_dataviz/</link>
-      <pubDate>Sun, 26 Aug 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 -0500</pubDate>
       
       <guid>/talk/2018-09-10_dataviz/</guid>
       <description>&lt;p&gt;Join the Data Viz study group for their first meeting!  We&amp;rsquo;ll be exploring the grammar of graphics with R. There will also be an introduction to ggplot2. All are welcome!&lt;/p&gt;
@@ -477,7 +477,7 @@ my_iris_data &amp;lt;- read.csv(&amp;quot;my_iris_data.csv&amp;quot;)
     <item>
       <title>Study Groups</title>
       <link>/project/studygroups/</link>
-      <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/studygroups/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;/img/Astrologo.jpg&#34; align=&#34;left&#34; style=&#34;margin: 5px 10px&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -513,7 +513,7 @@ GIS/Spatial Data&lt;/p&gt;
     <item>
       <title>&#39;Git&#39; down with Git &#43; R (Workshop &amp; Tutorial)</title>
       <link>/talk/2018-11-13-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-11-13-meetup/</guid>
       <description>&lt;p&gt;Learn about using Git &amp;amp; R at our November Meetup! R-Ladies Board Member Ola Giwa will lead a tutorial and workshop to get you up and running with Github and using Git in your workflow. This session will discuss:&lt;/p&gt;
@@ -534,7 +534,7 @@ GIS/Spatial Data&lt;/p&gt;
     <item>
       <title>Animation for Effective Data Visualization with R</title>
       <link>/talk/2019-7-24-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2019-7-24-meetup/</guid>
       <description>&lt;p&gt;Adding animation to graphs can make visualizations eye-catching and effective for transmitting complex information to audiences. In this talk, attendees will learn about using animation in data visualizations in R using ggplot2 and gganimate. Topics will include: how to choose when an animation might (or might not) be an appropriate option for your use case, ways to make sure your visualization still communicates clearly and succinctly when animated, and a hands-on walk-through of how to turn a not-so-great static visualization into a great animated plot. The gganimate package will be the key tool discussed, and some familiarity with ggplot2 is recommended but not required.&lt;/p&gt;
@@ -549,7 +549,7 @@ Our primary mission is to encourage more women and non-binary individuals to get
     <item>
       <title>Astrostatistics in R: Predicting Solar Flares</title>
       <link>/talk/2018-08-27-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-08-27-meetup/</guid>
       <description>&lt;p&gt;For our August meetup, the Astrostatistics Study Group (ASG) will talk about their ongoing project in predicting solar flares.&lt;/p&gt;
@@ -567,7 +567,7 @@ Our primary mission is to encourage more women and non-binary individuals to get
     <item>
       <title>Data Visualization with Maps Shiny Workshop</title>
       <link>/talk/2019-4-18-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2019-4-18-meetup/</guid>
       <description>&lt;p&gt;Learn how to make your first Shiny app with spatial data! We&amp;rsquo;ll build a simple interactive map application and teach you how to use Shiny apps to interpret and visualize your data.&lt;/p&gt;
@@ -598,7 +598,7 @@ Our primary mission is to encourage more women and non-binary individuals to get
     <item>
       <title>DataCamp &amp; DataViz</title>
       <link>/talk/2018-05-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/2018-05-meetup/</guid>
       <description></description>
