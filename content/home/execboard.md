@@ -18,6 +18,17 @@ weight = 80
   
   
   
+  
+### Kristi Angel  
+<img src="/img/exec/Kristi.jpg" align="left" style="margin: 5px 10px" alt="">  
+  
+**Kristi Angel** is a Data Scientist on the experimentation platform team at [Groupon](https://www.builtinchicago.org/2017/08/29/spotlight-working-at-groupon). She has a meandering background that includes a brief stint in the Army and more than a decade in the food and beverage industry! Kristi earned her B.S. in Physics from the University of Washington and her M.S. in Statistics at Loyola University Chicago. She enjoys mentoring developing data scientists and members of marginalized groups navigating career pivots. Beyond utilizing R as a means to make sense from data, she feels connected to the R community's commitment to inclusion and diversity, and the opinionated application of programming best practices in the statistical and data sciences.  
+  
+   
+  
+  
+  
+  
 ### Anne Corinne Carroll  
 <img src="/img/exec/Anne.jpg" align="left" style="margin: 5px 10px" alt="">  
   
@@ -57,14 +68,6 @@ weight = 80
   
   
   
-### Caroline K. Williams  
-<img src="/img/exec/Caroline.jpg" align="left" style="margin: 5px 10px" alt="">  
-  
-**Caroline K. Williams** is an aspiring data scientist. She was introduced to R at Blue1647 in May 2017. Before she moved to the US, she worked for an Indonesian non-profit organization in the field of Physics outreach. She recruited volunteers to organized the first Asian Physics Olympiad. She was also appointed as the head organizer of the first Indonesian Physics Amusement Park festival that attracted hundreds of participants. As a result, she was awarded a full scholarship from her work to finish her Master's degree in Physics. While in colleges, she was elected as president of Society of Physics Students, attended the London International Youth Science Festival, and co-authored several Theoretical Physics papers published on Physical Review Journals. She also published articles in student newspaper and hiked mountains. She is passionate about science, environmental issues, and journalism. She enjoys volunteering, travelling, and outdoor activities.  
-  
-   
-  
-  
 ### Scarlett Winters
 <img src="/img/exec/Scarlett.jpg" align="left" style="margin: 5px 10px" alt="">  
   
@@ -98,5 +101,6 @@ weight = 80
   
   
 **Abhinaya Konduru** (2018-2019)  
+**Caroline K. Williams** (2018-2019)  
 **Amanda Dobbyn** (2017-2018)     
 **Kaelen Medeiros** (2017-2018) 

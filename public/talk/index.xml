@@ -195,6 +195,26 @@ Abstract: If a piece of open-source software is to survive its own success, it m
     </item>
     
     <item>
+      <title>R-Ladies Project Night</title>
+      <link>/talk/2020-02-10-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2020-02-10-meetup/</guid>
+      <description>About Hashtag TidyTuesday is a weekly social data project focused on using tidyverse packages to clean, wrangle, tidy, and plot a new dataset every Tuesday.
+We will be using a dataset from the TidyTuedsay Github that has been tamed, but does not always adhere to “tidy” data principles. Our goal is to have you take a look at the raw data, and generate either a copy of the original plot or a novel take on the data!</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Project Night on a Wednesday</title>
+      <link>/talk/2019-11-06-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2019-11-06-meetup/</guid>
+      <description>Hashtag TidyTuesday is a weekly social data project focused on using tidyverse packages to clean, wrangle, tidy, and plot a new dataset every Tuesday.
+We will be using a dataset from the TidyTuedsay Github that has been tamed, but does not always adhere to “tidy” data principles. Our goal is to have you take a look at the raw data, and generate either a copy of the original plot or a novel take on the data!</description>
+    </item>
+    
+    <item>
       <title>R-Ladies Summer Social: Sip &amp; Code</title>
       <link>/talk/2018-07-meetup/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
@@ -202,6 +222,17 @@ Abstract: If a piece of open-source software is to survive its own success, it m
       <guid>/talk/2018-07-meetup/</guid>
       <description>We will taste some wines (and non-alcoholic drinks too!) and rate them based on the winemag.com scoring system. Then, we will work together in small groups to analyze and visualize the wine preferences of R-Ladies in R! Wine is absolutely optional &amp;ndash;we&amp;rsquo;ll have non-alcoholic beverages &amp;amp; food too.
 We&amp;rsquo;ll also be introducing some R-Ladies Chicago outreach initiatives, including our new website: rladieschicago.org and kicking-off our Random Acts of Coffee program!</description>
+    </item>
+    
+    <item>
+      <title>Reproducible Workflows for Interactive Visualizations with htmlwidgets and Shiny</title>
+      <link>/talk/2019-12-4-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2019-12-4-meetup/</guid>
+      <description>Join us in welcoming Martin John Hadley (https://twitter.com/martinjhnhadley,dr pronouns they/them) for an interactive workshop on htmlwidgets, Shiny, and reproducibility!
+Please note:
+Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor, as spots may be limited. Please contact chicago@rladies.org if you have questions.</description>
     </item>
     
     <item>
