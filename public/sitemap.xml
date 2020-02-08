@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>/post/2020-02-07-career-series/</loc>
+      <lastmod>2020-02-07T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2019-02-04-jan-recap/</loc>
+      <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/2019_07_01_block/</loc>
       <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     </url>
@@ -34,15 +52,6 @@
     
       <loc>/post/2019-02-28-rworkshop_recap/</loc>
       <lastmod>2019-02-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/2019-02-04-jan-recap/</loc>
-      <lastmod>2019-02-13T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -114,6 +123,15 @@
     <url>
     
       <loc>/talk/2018-08-27-meetup/</loc>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/2020-02-26-meetup/</loc>
       <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
@@ -386,6 +404,16 @@
     
     <url>
     
+      <loc>/tags/career/</loc>
+      <lastmod>2020-02-07T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/</loc>
       <lastmod>2018-07-16T21:13:14-05:00</lastmod>
       <priority>0</priority>
@@ -397,7 +425,7 @@
     <url>
     
       <loc>/tags/chicago/</loc>
-      <lastmod>2019-02-13T00:00:00+00:00</lastmod>
+      <lastmod>2020-02-07T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -407,7 +435,7 @@
     <url>
     
       <loc>/tags/community/</loc>
-      <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+      <lastmod>2020-02-07T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -437,7 +465,17 @@
     <url>
     
       <loc>/tags/meetups/</loc>
-      <lastmod>2019-05-18T00:00:00-05:00</lastmod>
+      <lastmod>2020-02-07T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/meetups/</loc>
+      <lastmod>2020-02-07T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -477,7 +515,7 @@
     <url>
     
       <loc>/categories/r/</loc>
-      <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+      <lastmod>2020-02-07T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -507,7 +545,7 @@
     <url>
     
       <loc>/tags/rladies/</loc>
-      <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+      <lastmod>2020-02-07T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     

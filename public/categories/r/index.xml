@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>January Meetup Recap: What We Learned at rstudio::conf</title>
+      <link>/post/2019-02-04-jan-recap/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-02-04-jan-recap/</guid>
+      <description>For our January R-Ladies Chicago Meetup, five Chicago R-Ladies presented lightning talks on topics they learned about at rstudio::conf 2019. Three of our organizers attended workshops on diversity scholarships, so we were especially excited to hear what they learned. Natalie Jorion also volunteered to speak, and we ended up having a total of five speakers! Each person spoke for 10 minutes on a subject they thought was interesting.
+Topics of the night included deep learning, improving data project organization, tips for Shiny applications, reproducible research, and contributing to open source.</description>
+    </item>
     
     <item>
       <title>R-Ladies Wine Preferences: Sip and Code Recap and Tutorial</title>
@@ -31,16 +41,6 @@ We were supposed to taste some beverages (wine tasting was optional, there were 
       <description>Last Saturday, February 23, 2019, took place the R Forwards Women’s Package Workshop in Chicago at Center for Spatial Data Science, where Angela Li (CivicAngela) and Stephanie Kirmer (data_stephanie) conducted the workshop. 40 R-Ladies attended from different parts of the Chicago area to increase their abilities with R.
 Image Caption: Women’s Package Development Workshop Attendees
  What do we learn? We learned about packages, which are the fundamental units of reproducible R code.</description>
-    </item>
-    
-    <item>
-      <title>January Meetup Recap: What We Learned at rstudio::conf</title>
-      <link>/post/2019-02-04-jan-recap/</link>
-      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2019-02-04-jan-recap/</guid>
-      <description>For our January R-Ladies Chicago Meetup, five Chicago R-Ladies presented lightning talks on topics they learned about at rstudio::conf 2019. Three of our organizers attended workshops on diversity scholarships, so we were especially excited to hear what they learned. Natalie Jorion also volunteered to speak, and we ended up having a total of five speakers! Each person spoke for 10 minutes on a subject they thought was interesting.
-Topics of the night included deep learning, improving data project organization, tips for Shiny applications, reproducible research, and contributing to open source.</description>
     </item>
     
     <item>
