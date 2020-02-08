@@ -11,6 +11,100 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Introducing our 2020 Career Series!</title>
+      <link>/post/2020-02-07-career-series/</link>
+      <pubDate>Fri, 07 Feb 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2020-02-07-career-series/</guid>
+      <description>&lt;p&gt;R-Ladies Chicago is proud to host our three-part Career Series in February, March, and April. With hiring season on the horizon, our Career Series will empower R-Ladies with the skills necessary to succeed in the data field. Join us for any/all of these events!&lt;/p&gt;
+&lt;p&gt;Thank you to Groupon for hosting! All events will take place at &lt;a href=&#34;https://goo.gl/maps/BoaBY8Gn9fKDgqTBA&#34;&gt;Groupon Corporate Headquarters&lt;/a&gt; (600 W. Chicago Avenue; Chicago, IL 60654).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please check in at the front desk then go up to the third floor&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;part-i-using-r-to-land-the-job-a-resume-building-tutorial&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Part I: Using R to Land the Job: A Resume Building Tutorial&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Wednesday, February 26 at 6pm&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;&lt;a href=&#34;https://www.meetup.com/rladies-chicago/events/268252477/&#34;&gt;RSVP on Meetup&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To kick off our Career Series, our co-organizer Scarlett Winters will lead a tutorial on how to build your resume using the pagedown R package. This tutorial will equip you with the tools to revamp your resume and prove to employers you know how to code in R well before your interview!&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;part-ii-our-best-resource-is-each-other-a-qa-panel-on-developing-your-network-and-learning-from-one-another&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Part II: Our Best Resource is Each Other: A Q&amp;amp;A Panel on Developing Your Network and Learning from One Another&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Wednesday, March 18 at 6pm&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Meetup Link coming soon&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Next in the Career Series line-up, we will host a career Q&amp;amp;A panel featuring three data scientists from academia, industry, and the experimentation side. This will be a great opportunity to develop your network and gain valuable insights from data scientists across industries.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;part-iii-keep-growing-building-and-maintaining-your-online-presence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Part III: Keep Growing: Building and Maintaining Your Online Presence&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Wednesday, April 22 at 6pm&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Meetup Link coming soon&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The final installment of our Career Series will be a talk on how to build and maintain your online presence in the data space. Have you ever read someone’s data science blog or Twitter and wondered how they can juggle it all? Find out how they do it, and how you can, too! We’ll learn what makes a strong online presence and how you can build and maintain yours.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;Please note&lt;/em&gt;: Event details are subject to change! Please check our &lt;a href=&#34;https://www.meetup.com/rladies-chicago&#34;&gt;Meetup Page&lt;/a&gt; for the most up-to-date information on this series.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>January Meetup Recap: What We Learned at rstudio::conf</title>
+      <link>/post/2019-02-04-jan-recap/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-02-04-jan-recap/</guid>
+      <description>&lt;p&gt;For our &lt;a href=&#34;https://www.meetup.com/rladies-chicago/events/257346957/&#34;&gt;January R-Ladies Chicago Meetup&lt;/a&gt;, five Chicago R-Ladies presented lightning talks on topics they learned about at rstudio::conf 2019. Three of our organizers attended workshops on diversity scholarships, so we were especially excited to hear what they learned. Natalie Jorion also volunteered to speak, and we ended up having a total of five speakers! Each person spoke for 10 minutes on a subject they thought was interesting.&lt;/p&gt;
+&lt;p&gt;Topics of the night included deep learning, improving data project organization, tips for Shiny applications, reproducible research, and contributing to open source.&lt;/p&gt;
+&lt;p&gt;First, &lt;a href=&#34;https://twitter.com/ckwill36&#34;&gt;Caroline Williams&lt;/a&gt; told us what she learned at the deep learning in R workshop. Her slides can be found &lt;a href=&#34;https://docs.google.com/presentation/d/1HZBv5TmzP6oQkZthnmw3GfK1fN1TYQjM-F11qvoFQgo/edit#slide=id.p&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;
+&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;
+Our &lt;a href=&#34;https://twitter.com/hashtag/rstudioconf?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstudioconf&lt;/a&gt; lighting talks are starting with &lt;a href=&#34;https://twitter.com/ckwill36?ref_src=twsrc%5Etfw&#34;&gt;&lt;span class=&#34;citation&#34;&gt;@ckwill36&lt;/span&gt;&lt;/a&gt; discussing deep learning &lt;a href=&#34;https://t.co/Z85sg0IT2p&#34;&gt;pic.twitter.com/Z85sg0IT2p&lt;/a&gt;
+&lt;/p&gt;
+— R-Ladies Chicago (&lt;span class=&#34;citation&#34;&gt;@RLadiesChicago&lt;/span&gt;) &lt;a href=&#34;https://twitter.com/RLadiesChicago/status/1090046174252462080?ref_src=twsrc%5Etfw&#34;&gt;January 29, 2019&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;p&gt;Next, &lt;a href=&#34;https://twitter.com/ayanalytics&#34;&gt;Amy Yang&lt;/a&gt; explained how to properly write file paths in R. Her slides can be found &lt;a href=&#34;https://docs.google.com/presentation/d/1c7sNVqVByTia57IhK1Uux6zrVrbpnWJuLT9LAFf2uh4/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;
+&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;
+.&lt;a href=&#34;https://twitter.com/ayanalytics?ref_src=twsrc%5Etfw&#34;&gt;&lt;span class=&#34;citation&#34;&gt;@ayanalytics&lt;/span&gt;&lt;/a&gt; relaying &lt;a href=&#34;https://twitter.com/JennyBryan?ref_src=twsrc%5Etfw&#34;&gt;&lt;span class=&#34;citation&#34;&gt;@JennyBryan&lt;/span&gt;&lt;/a&gt;’s legendary advice about file paths to &lt;a href=&#34;https://twitter.com/hashtag/RLadies?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RLadies&lt;/a&gt; Chicago. &lt;a href=&#34;https://twitter.com/hashtag/rstudioconf?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstudioconf&lt;/a&gt; ⚡️talks &lt;a href=&#34;https://t.co/jh4mJknTCW&#34;&gt;pic.twitter.com/jh4mJknTCW&lt;/a&gt;
+&lt;/p&gt;
+— R-Ladies Chicago (&lt;span class=&#34;citation&#34;&gt;@RLadiesChicago&lt;/span&gt;) &lt;a href=&#34;https://twitter.com/RLadiesChicago/status/1090050001148018689?ref_src=twsrc%5Etfw&#34;&gt;January 29, 2019&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;p&gt;After that, &lt;a href=&#34;https://www.linkedin.com/in/njorion/&#34;&gt;Natalie Jorion&lt;/a&gt; gave us 10 tips for making better Shiny apps. Her slides can be found &lt;a href=&#34;https://docs.google.com/presentation/d/1CD0PMnWAcjau7fzIcXDooiIdjpvDQCCqXr0edkySwxk/edit&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;
+&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;
+Natalie Jorion gives us some protips for Shiny apps! &lt;a href=&#34;https://twitter.com/hashtag/RLadies?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RLadies&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/RStudioConf?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RStudioConf&lt;/a&gt; ⚡️talks &lt;a href=&#34;https://t.co/gKyr3qx6vY&#34;&gt;pic.twitter.com/gKyr3qx6vY&lt;/a&gt;
+&lt;/p&gt;
+— R-Ladies Chicago (&lt;span class=&#34;citation&#34;&gt;@RLadiesChicago&lt;/span&gt;) &lt;a href=&#34;https://twitter.com/RLadiesChicago/status/1090052135536992259?ref_src=twsrc%5Etfw&#34;&gt;January 29, 2019&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;p&gt;Following that, &lt;a href=&#34;https://katherinesimeon.github.io/&#34;&gt;Katherine Simeon&lt;/a&gt; presented on what she learned about conducting reproducible research in R. Her (&lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/xaringan.html&#34;&gt;xaringan!&lt;/a&gt;) slides can be found &lt;a href=&#34;https://katherinesimeon.github.io/20190128-reproducible-research/#1&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;
+&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;
+New packages introduced by &lt;a href=&#34;https://twitter.com/kitkatbar429?ref_src=twsrc%5Etfw&#34;&gt;&lt;span class=&#34;citation&#34;&gt;@kitkatbar429&lt;/span&gt;&lt;/a&gt; in her reproducible research talk following up &lt;a href=&#34;https://twitter.com/hashtag/rstudioconf?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstudioconf&lt;/a&gt; include: usethis, rrtools, containerit, and “Knit with Parameters” in &lt;a href=&#34;https://twitter.com/hashtag/rmarkdown?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rmarkdown&lt;/a&gt; &lt;a href=&#34;https://t.co/rg1PMlXbDi&#34;&gt;pic.twitter.com/rg1PMlXbDi&lt;/a&gt;
+&lt;/p&gt;
+— R-Ladies Chicago (&lt;span class=&#34;citation&#34;&gt;@RLadiesChicago&lt;/span&gt;) &lt;a href=&#34;https://twitter.com/RLadiesChicago/status/1090056012718059520?ref_src=twsrc%5Etfw&#34;&gt;January 29, 2019&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;p&gt;Finally, I talked about my experience contributing to open source at Tidyverse Developer Day. My slides can be found &lt;a href=&#34;https://docs.google.com/presentation/d/1iodn7rsklI1wryld-NN_Dslr7tHM0xyoMx2C3RRFTJc/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;
+&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;
+.&lt;a href=&#34;https://twitter.com/CivicAngela?ref_src=twsrc%5Etfw&#34;&gt;&lt;span class=&#34;citation&#34;&gt;@CivicAngela&lt;/span&gt;&lt;/a&gt; tells us about submitting a pull request during &lt;a href=&#34;https://twitter.com/hashtag/TidyverseDevDay?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#TidyverseDevDay&lt;/a&gt;. 💪🏼 &lt;a href=&#34;https://twitter.com/hashtag/RLadies?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RLadies&lt;/a&gt; &lt;a href=&#34;https://t.co/uttH5w3rlY&#34;&gt;pic.twitter.com/uttH5w3rlY&lt;/a&gt;
+&lt;/p&gt;
+— R-Ladies Chicago (&lt;span class=&#34;citation&#34;&gt;@RLadiesChicago&lt;/span&gt;) &lt;a href=&#34;https://twitter.com/RLadiesChicago/status/1090058635508633602?ref_src=twsrc%5Etfw&#34;&gt;January 29, 2019&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;p&gt;I thought the lightning talk format where each person spoke for 5-10 minutes was a nice way to cover many different topics at once, and I was impressed at how many people braved the sub-zero weather and the snow to come to the Meetup! Thank you &lt;a href=&#34;https://www.wework.com/buildings/20-w-kinzie-st--chicago--IL&#34;&gt;WeWork Kinzie&lt;/a&gt; for hosting us and keeping us warm at the Meetup, and &lt;a href=&#34;https://developer.microsoft.com/en-us/advocates/index.html&#34;&gt;Microsoft&lt;/a&gt; for food as always.&lt;/p&gt;
+&lt;div id=&#34;additional-reading&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Additional Reading&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://twitter.com/manginiflor&#34;&gt;Florencia Mangini&lt;/a&gt; put together a lovely detailed recap of the event with more links to things we mentioned in our presentations, which you can read at &lt;a href=&#34;http://www.thinkingondata.com/r-ladies-chicago-what-we-learned-at-rstudioconf-2019-lightning-talks/&#34;&gt;her blog&lt;/a&gt;!&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Organizer &lt;a href=&#34;http://amazingspecialist.coolcatscoding.com/&#34;&gt;Ola Giwa&lt;/a&gt; wrote a blog post on her experience at rstudio::conf &lt;a href=&#34;https://medium.com/@zaynaibg/rstudio-conf-8768c9b07345&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>R-Ladies Wine Preferences: Sip and Code Recap and Tutorial</title>
       <link>/post/2019_07_01_block/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
@@ -276,65 +370,6 @@ We also tested the coverage for our package. As a final recommendation, we shoul
     </item>
     
     <item>
-      <title>January Meetup Recap: What We Learned at rstudio::conf</title>
-      <link>/post/2019-02-04-jan-recap/</link>
-      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2019-02-04-jan-recap/</guid>
-      <description>&lt;p&gt;For our &lt;a href=&#34;https://www.meetup.com/rladies-chicago/events/257346957/&#34;&gt;January R-Ladies Chicago Meetup&lt;/a&gt;, five Chicago R-Ladies presented lightning talks on topics they learned about at rstudio::conf 2019. Three of our organizers attended workshops on diversity scholarships, so we were especially excited to hear what they learned. Natalie Jorion also volunteered to speak, and we ended up having a total of five speakers! Each person spoke for 10 minutes on a subject they thought was interesting.&lt;/p&gt;
-&lt;p&gt;Topics of the night included deep learning, improving data project organization, tips for Shiny applications, reproducible research, and contributing to open source.&lt;/p&gt;
-&lt;p&gt;First, &lt;a href=&#34;https://twitter.com/ckwill36&#34;&gt;Caroline Williams&lt;/a&gt; told us what she learned at the deep learning in R workshop. Her slides can be found &lt;a href=&#34;https://docs.google.com/presentation/d/1HZBv5TmzP6oQkZthnmw3GfK1fN1TYQjM-F11qvoFQgo/edit#slide=id.p&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;
-&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;
-Our &lt;a href=&#34;https://twitter.com/hashtag/rstudioconf?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstudioconf&lt;/a&gt; lighting talks are starting with &lt;a href=&#34;https://twitter.com/ckwill36?ref_src=twsrc%5Etfw&#34;&gt;&lt;span class=&#34;citation&#34;&gt;@ckwill36&lt;/span&gt;&lt;/a&gt; discussing deep learning &lt;a href=&#34;https://t.co/Z85sg0IT2p&#34;&gt;pic.twitter.com/Z85sg0IT2p&lt;/a&gt;
-&lt;/p&gt;
-— R-Ladies Chicago (&lt;span class=&#34;citation&#34;&gt;@RLadiesChicago&lt;/span&gt;) &lt;a href=&#34;https://twitter.com/RLadiesChicago/status/1090046174252462080?ref_src=twsrc%5Etfw&#34;&gt;January 29, 2019&lt;/a&gt;
-&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;p&gt;Next, &lt;a href=&#34;https://twitter.com/ayanalytics&#34;&gt;Amy Yang&lt;/a&gt; explained how to properly write file paths in R. Her slides can be found &lt;a href=&#34;https://docs.google.com/presentation/d/1c7sNVqVByTia57IhK1Uux6zrVrbpnWJuLT9LAFf2uh4/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;
-&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;
-.&lt;a href=&#34;https://twitter.com/ayanalytics?ref_src=twsrc%5Etfw&#34;&gt;&lt;span class=&#34;citation&#34;&gt;@ayanalytics&lt;/span&gt;&lt;/a&gt; relaying &lt;a href=&#34;https://twitter.com/JennyBryan?ref_src=twsrc%5Etfw&#34;&gt;&lt;span class=&#34;citation&#34;&gt;@JennyBryan&lt;/span&gt;&lt;/a&gt;’s legendary advice about file paths to &lt;a href=&#34;https://twitter.com/hashtag/RLadies?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RLadies&lt;/a&gt; Chicago. &lt;a href=&#34;https://twitter.com/hashtag/rstudioconf?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstudioconf&lt;/a&gt; ⚡️talks &lt;a href=&#34;https://t.co/jh4mJknTCW&#34;&gt;pic.twitter.com/jh4mJknTCW&lt;/a&gt;
-&lt;/p&gt;
-— R-Ladies Chicago (&lt;span class=&#34;citation&#34;&gt;@RLadiesChicago&lt;/span&gt;) &lt;a href=&#34;https://twitter.com/RLadiesChicago/status/1090050001148018689?ref_src=twsrc%5Etfw&#34;&gt;January 29, 2019&lt;/a&gt;
-&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;p&gt;After that, &lt;a href=&#34;https://www.linkedin.com/in/njorion/&#34;&gt;Natalie Jorion&lt;/a&gt; gave us 10 tips for making better Shiny apps. Her slides can be found &lt;a href=&#34;https://docs.google.com/presentation/d/1CD0PMnWAcjau7fzIcXDooiIdjpvDQCCqXr0edkySwxk/edit&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;
-&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;
-Natalie Jorion gives us some protips for Shiny apps! &lt;a href=&#34;https://twitter.com/hashtag/RLadies?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RLadies&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/RStudioConf?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RStudioConf&lt;/a&gt; ⚡️talks &lt;a href=&#34;https://t.co/gKyr3qx6vY&#34;&gt;pic.twitter.com/gKyr3qx6vY&lt;/a&gt;
-&lt;/p&gt;
-— R-Ladies Chicago (&lt;span class=&#34;citation&#34;&gt;@RLadiesChicago&lt;/span&gt;) &lt;a href=&#34;https://twitter.com/RLadiesChicago/status/1090052135536992259?ref_src=twsrc%5Etfw&#34;&gt;January 29, 2019&lt;/a&gt;
-&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;p&gt;Following that, &lt;a href=&#34;https://katherinesimeon.github.io/&#34;&gt;Katherine Simeon&lt;/a&gt; presented on what she learned about conducting reproducible research in R. Her (&lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/xaringan.html&#34;&gt;xaringan!&lt;/a&gt;) slides can be found &lt;a href=&#34;https://katherinesimeon.github.io/20190128-reproducible-research/#1&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;
-&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;
-New packages introduced by &lt;a href=&#34;https://twitter.com/kitkatbar429?ref_src=twsrc%5Etfw&#34;&gt;&lt;span class=&#34;citation&#34;&gt;@kitkatbar429&lt;/span&gt;&lt;/a&gt; in her reproducible research talk following up &lt;a href=&#34;https://twitter.com/hashtag/rstudioconf?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstudioconf&lt;/a&gt; include: usethis, rrtools, containerit, and “Knit with Parameters” in &lt;a href=&#34;https://twitter.com/hashtag/rmarkdown?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rmarkdown&lt;/a&gt; &lt;a href=&#34;https://t.co/rg1PMlXbDi&#34;&gt;pic.twitter.com/rg1PMlXbDi&lt;/a&gt;
-&lt;/p&gt;
-— R-Ladies Chicago (&lt;span class=&#34;citation&#34;&gt;@RLadiesChicago&lt;/span&gt;) &lt;a href=&#34;https://twitter.com/RLadiesChicago/status/1090056012718059520?ref_src=twsrc%5Etfw&#34;&gt;January 29, 2019&lt;/a&gt;
-&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;p&gt;Finally, I talked about my experience contributing to open source at Tidyverse Developer Day. My slides can be found &lt;a href=&#34;https://docs.google.com/presentation/d/1iodn7rsklI1wryld-NN_Dslr7tHM0xyoMx2C3RRFTJc/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;
-&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;
-.&lt;a href=&#34;https://twitter.com/CivicAngela?ref_src=twsrc%5Etfw&#34;&gt;&lt;span class=&#34;citation&#34;&gt;@CivicAngela&lt;/span&gt;&lt;/a&gt; tells us about submitting a pull request during &lt;a href=&#34;https://twitter.com/hashtag/TidyverseDevDay?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#TidyverseDevDay&lt;/a&gt;. 💪🏼 &lt;a href=&#34;https://twitter.com/hashtag/RLadies?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RLadies&lt;/a&gt; &lt;a href=&#34;https://t.co/uttH5w3rlY&#34;&gt;pic.twitter.com/uttH5w3rlY&lt;/a&gt;
-&lt;/p&gt;
-— R-Ladies Chicago (&lt;span class=&#34;citation&#34;&gt;@RLadiesChicago&lt;/span&gt;) &lt;a href=&#34;https://twitter.com/RLadiesChicago/status/1090058635508633602?ref_src=twsrc%5Etfw&#34;&gt;January 29, 2019&lt;/a&gt;
-&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;p&gt;I thought the lightning talk format where each person spoke for 5-10 minutes was a nice way to cover many different topics at once, and I was impressed at how many people braved the sub-zero weather and the snow to come to the Meetup! Thank you &lt;a href=&#34;https://www.wework.com/buildings/20-w-kinzie-st--chicago--IL&#34;&gt;WeWork Kinzie&lt;/a&gt; for hosting us and keeping us warm at the Meetup, and &lt;a href=&#34;https://developer.microsoft.com/en-us/advocates/index.html&#34;&gt;Microsoft&lt;/a&gt; for food as always.&lt;/p&gt;
-&lt;div id=&#34;additional-reading&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Additional Reading&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://twitter.com/manginiflor&#34;&gt;Florencia Mangini&lt;/a&gt; put together a lovely detailed recap of the event with more links to things we mentioned in our presentations, which you can read at &lt;a href=&#34;http://www.thinkingondata.com/r-ladies-chicago-what-we-learned-at-rstudioconf-2019-lightning-talks/&#34;&gt;her blog&lt;/a&gt;!&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Organizer &lt;a href=&#34;http://amazingspecialist.coolcatscoding.com/&#34;&gt;Ola Giwa&lt;/a&gt; wrote a blog post on her experience at rstudio::conf &lt;a href=&#34;https://medium.com/@zaynaibg/rstudio-conf-8768c9b07345&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Introducing Chicago Schools Enrollment Data to R</title>
       <link>/post/2019-01-21-mack/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
@@ -565,43 +600,28 @@ Our primary mission is to encourage more women and non-binary individuals to get
     </item>
     
     <item>
-      <title>Data Visualization with Maps Shiny Workshop</title>
-      <link>/talk/2019-4-18-meetup/</link>
+      <title>Career Series Part I: Using R to Land the Job: A Resume Building Tutorial</title>
+      <link>/talk/2020-02-26-meetup/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
-      <guid>/talk/2019-4-18-meetup/</guid>
-      <description>&lt;p&gt;Learn how to make your first Shiny app with spatial data! We&amp;rsquo;ll build a simple interactive map application and teach you how to use Shiny apps to interpret and visualize your data.&lt;/p&gt;
+      <guid>/talk/2020-02-26-meetup/</guid>
+      <description>
 
-&lt;p&gt;What you&amp;rsquo;ll learn:&lt;/p&gt;
+&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Why build a Shiny app?&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;How a Shiny app is structured&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;How to incorporate interactivity in your Shiny app&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;How to deploy your Shiny app
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Welcome to the kick-off of our three-part career series! Over the next three months, we will host events to further develop your skillset and data science network.&lt;/p&gt;
 
-&lt;p&gt;Prerequisites:&lt;/p&gt;
+&lt;p&gt;Whether or not you&amp;rsquo;re on the job hunt, your resume is an extension of your professional self, so it is important to keep your resume fresh. For our kick-off, Scarlett Winters will lead a tutorial on how to build your resume using &lt;a href=&#34;https://github.com/rstudio/pagedown&#34; target=&#34;_blank&#34;&gt;pagedown&lt;/a&gt;. You will walk away from this tutorial with the skills to prove to employers you know how to code in R well before your interview!&lt;/p&gt;
 
-&lt;p&gt;William Blair has a strict firewall, so please follow the instructions here prior to the Meetup so that you are able to get the most out of this workshop: &lt;a href=&#34;https://github.com/rladies-chicago/2019-04-18-shiny-workshop/blob/master/README.md&#34; target=&#34;_blank&#34;&gt;https://github.com/rladies-chicago/2019-04-18-shiny-workshop/blob/master/README.md&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-to-bring&#34;&gt;What to bring&lt;/h2&gt;
+
+&lt;p&gt;Yourself/friends! And a laptop - this will be an interactive event.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Please note:&lt;/strong&gt;&lt;br /&gt;
 Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. &lt;em&gt;As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor, as spots may be limited. Please contact chicago@rladies.org if you have questions.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Please RSVP through &lt;a href=&#34;https://www.meetup.com/rladies-chicago/events/260316086/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Be sure to RSVP on &lt;a href=&#34;https://www.meetup.com/rladies-chicago/events/268252477/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>DataCamp &amp; DataViz</title>
-      <link>/talk/2018-05-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
-      
-      <guid>/talk/2018-05-meetup/</guid>
-      <description></description>
     </item>
     
   </channel>
