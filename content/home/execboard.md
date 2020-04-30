@@ -29,10 +29,10 @@ weight = 80
   
   
   
-### Anne Corinne Carroll  
-<img src="/img/exec/Anne.jpg" align="left" style="margin: 5px 10px" alt="">  
+### Winnie Cai  
+<img src="/img/exec/Winnie.jpg" align="left" style="margin: 5px 10px" alt="">  
   
-**Anne Corinne Carroll** currently works at Rush Medical Center on the Assessment & Evaluation Team while pursuing a PhD in Occupational Health Psychology at East Carolina University. Previously she worked as a Content Analyst at Hanover Research where she focused on using surveys for program evaluation and school climate assessment.  Anne uses R and her background in psychometrics and structural equation modeling to analyze a variety of survey data. In her free time, she enjoys yoga, kayaking, and exploring Chicago.  
+**Winnie Cai, CFA,** has extensive experience in various fields in the investment industry. She is currently a CMBS Analyst at S&P Global. Previously, she worked as a Modeling Consultant at Thomson Reuters where she used APIs powered by Python and R to assist her clients with their investment research needs. Winnie Cai graduated from University of Illinois at Chicago with a Master’s Degree in Business Administration with a concentration in Financial Markets & Risk Management. Winnie Cai is dedicated to helping corporations improve operating efficiency using advanced technologies.     
    
    
   
@@ -68,6 +68,25 @@ weight = 80
   
   
   
+### Abby Smith  
+<img src="/img/exec/Abby.jpg" align="left" style="margin: 5px 10px" alt="">  
+  
+**Abby Smith** is PhD Candidate in Statistics at Northwestern University. Her research looks at the impact of entity resolution error on social network inferences, with an interest in global health and development. She also is a teaching assistant for the Data Science sequence, which focuses on using R for data cleaning and machine learning pipelines. She is currently a Women in Data Science (WiDS) ambassador for Chicago. When not talking about the beauty of R to anyone who will listen, she enjoys running, hiking, and drinking dangerous amounts of coffee.   
+   
+   
+  
+  
+  
+
+### Aarthi Vemuri  
+<img src="/img/exec/Aarthi.jpg" align="left" style="margin: 5px 10px" alt="">  
+  
+**Aarthi Vemuri** is a Senior Marketing & Modeling Analyst at Swanson Health Products. She uses R to understand the impact of marketing promotions on consumer behavior and to conduct pricing analyses. She graduated from BITS, Pilani with a Information Systems degree and a M.S. in Business Analytics from University of Connecticut. Along with work, Aarthi enjoys painting and photography.   
+  
+  
+  
+    
+  
 ### Scarlett Winters
 <img src="/img/exec/Scarlett.jpg" align="left" style="margin: 5px 10px" alt="">  
   
@@ -77,15 +96,7 @@ weight = 80
   
   
   
-### Amy Yang  
-<img src="/img/exec/Amy.jpg" align="left" style="margin: 5px 10px" alt="">  
-  
-**Amy Yang** is a Sr. Data Scientist at Uptake where she conducts industrial analytics and build prediction models to major industries and help them increase productivity, security, safety and reliability.She began using R for simulation and statistical analysis during her study at the University of Pennsylvania where she received her MS degree in Biostatistics. She also teaches R programming and statistical courses for graduate students. During her free time, Amy enjoys playing board games with friends, skiing, and WERQ dance.  
-  
-  
-  
-    
-  
+
 \  
   
   
@@ -100,6 +111,8 @@ weight = 80
 *We are grateful to former R-Ladies Chicago Board Members:*  
   
   
+**Amy Yang** (2018-2019)  
+**Anne Corinne Carroll** (2018-2019)  
 **Abhinaya Konduru** (2018-2019)  
 **Caroline K. Williams** (2018-2019)  
 **Amanda Dobbyn** (2017-2018)     
