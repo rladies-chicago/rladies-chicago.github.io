@@ -482,7 +482,7 @@
     
     <url>
     
-      <loc>/categories/meetups/</loc>
+      <loc>/tags/meetups/</loc>
       <lastmod>2020-02-07T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -492,7 +492,7 @@
     
     <url>
     
-      <loc>/tags/meetups/</loc>
+      <loc>/categories/meetups/</loc>
       <lastmod>2020-02-07T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
