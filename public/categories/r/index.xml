@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2020 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R-Ladies Book Club</title>
+      <link>/post/2020_05_11_book_club/</link>
+      <pubDate>Sat, 11 Apr 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2020_05_11_book_club/</guid>
+      <description>Come beat those quarentine blues! Outside of the huge number of tools and packages in R, we can continue to expand our knowledge of the statistical engine behind these. We will particularly focus on developing starter questions for data analysis projects.You can sign up here.</description>
+    </item>
     
     <item>
       <title>R-Ladies Wine Preferences: Sip and Code Recap and Tutorial</title>
@@ -30,7 +39,7 @@ We were supposed to taste some beverages (wine tasting was optional, there were 
       <guid>/post/2019-02-28-rworkshop_recap/</guid>
       <description>Last Saturday, February 23, 2019, took place the R Forwards Women’s Package Workshop in Chicago at Center for Spatial Data Science, where Angela Li (CivicAngela) and Stephanie Kirmer (data_stephanie) conducted the workshop. 40 R-Ladies attended from different parts of the Chicago area to increase their abilities with R.
 Image Caption: Women’s Package Development Workshop Attendees
- What do we learn? We learned about packages, which are the fundamental units of reproducible R code.</description>
+What do we learn?We learned about packages, which are the fundamental units of reproducible R code.</description>
     </item>
     
     <item>

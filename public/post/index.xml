@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>R-Ladies Book Club</title>
+      <link>/post/2020_05_11_book_club/</link>
+      <pubDate>Sat, 11 Apr 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2020_05_11_book_club/</guid>
+      <description>Come beat those quarentine blues! Outside of the huge number of tools and packages in R, we can continue to expand our knowledge of the statistical engine behind these. We will particularly focus on developing starter questions for data analysis projects.You can sign up here.</description>
+    </item>
+    
+    <item>
       <title>Introducing our 2020 Career Series!</title>
       <link>/post/2020-02-07-career-series/</link>
       <pubDate>Fri, 07 Feb 2020 21:13:14 -0500</pubDate>
@@ -41,7 +50,7 @@ We were supposed to taste some beverages (wine tasting was optional, there were 
       <guid>/post/2019-02-28-rworkshop_recap/</guid>
       <description>Last Saturday, February 23, 2019, took place the R Forwards Women’s Package Workshop in Chicago at Center for Spatial Data Science, where Angela Li (CivicAngela) and Stephanie Kirmer (data_stephanie) conducted the workshop. 40 R-Ladies attended from different parts of the Chicago area to increase their abilities with R.
 Image Caption: Women’s Package Development Workshop Attendees
- What do we learn? We learned about packages, which are the fundamental units of reproducible R code.</description>
+What do we learn?We learned about packages, which are the fundamental units of reproducible R code.</description>
     </item>
     
     <item>
@@ -82,8 +91,7 @@ The Chicago organizing team works hard to plan our events intentionally where th
       <guid>/post/2018-07-16_blog_info/</guid>
       <description>R-Ladies Chicago is excited to start this blog to showcase the perspectives of different members in the R-Ladies Chicago community!
 We are looking for individuals who are interested in contributing to this blog. Whether you just want to write a single blog post or contribute regularly, we want to hear from you!
-We’re hoping to have two new posts each month on this blog. Blog posts could consist of:
- Event Recaps (either an R-Ladies Meetup or Study Group Meeting or another R-related event)</description>
+We’re hoping to have two new posts each month on this blog. Blog posts could consist of:</description>
     </item>
     
   </channel>

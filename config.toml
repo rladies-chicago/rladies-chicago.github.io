@@ -246,12 +246,13 @@ enableGitInfo = false
   name = "Blog"
   url = "#posts"
   weight = 4
-  
+
 [[menu.main]]
   name = "Leadership Team"
-  url = "#execboard"
+  url = "#execboard2020"
   weight = 5
  
+
 [[menu.main]]
   name = "Contact"
   url = "#contact"

@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chicago on R-Ladies Chicago</title>
+    <title>chicago on R-Ladies Chicago</title>
     <link>/tags/chicago/</link>
-    <description>Recent content in Chicago on R-Ladies Chicago</description>
+    <description>Recent content in chicago on R-Ladies Chicago</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 04 Feb 2019 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2020 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/tags/chicago/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R-Ladies Book Club</title>
+      <link>/post/2020_05_11_book_club/</link>
+      <pubDate>Sat, 11 Apr 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2020_05_11_book_club/</guid>
+      <description>Come beat those quarentine blues! Outside of the huge number of tools and packages in R, we can continue to expand our knowledge of the statistical engine behind these. We will particularly focus on developing starter questions for data analysis projects.You can sign up here.</description>
+    </item>
     
     <item>
       <title>January Meetup Recap: What We Learned at rstudio::conf</title>
