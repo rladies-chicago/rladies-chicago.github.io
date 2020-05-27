@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data on R-Ladies Chicago</title>
+    <link>/tags/data/</link>
+    <description>Recent content in data on R-Ladies Chicago</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing Chicago Schools Enrollment Data to R</title>
+      <link>/post/2019-01-21-mack/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-01-21-mack/</guid>
+      <description>The City of Chicago and Chicago Public Schools (CPS) have made data on annual enrollments, school locations, and other school features available to the public. After a bit of wrangling (frankly maybe more than just a bit) these data can be used in R to get key visualizations.
+My own interest in the schools data began with a desire to understand more about the spread of charter schools in the city, and also more about the sharp enrollment declines that some regular public high schools have experienced since the early ’00s.</description>
+    </item>
+    
+  </channel>
+</rss>

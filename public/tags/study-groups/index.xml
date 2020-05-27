@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>study-groups on R-Ladies Chicago</title>
+    <link>/tags/study-groups/</link>
+    <description>Recent content in study-groups on R-Ladies Chicago</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Jun 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/study-groups/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Study Groups</title>
+      <link>/project/studygroups/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/studygroups/</guid>
+      <description>Astrostatistics
+Astrostatistics is a new emerging field that combines Astrophysics and Statistics. Our Astrostatistics Study Group (ASG) will create opportunities for R people to join the fun in exploring the Universe!
+Visit https://asgchicago.github.io/ for more info
+
+Natural Language Processing
+There are many ways to look at text &amp;amp; language data. The NLP study group explores different aspects of text analysis in the R programming language.
+Visit our github at: https://github.</description>
+    </item>
+    
+  </channel>
+</rss>

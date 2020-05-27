@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rladies on R-Ladies Chicago</title>
+    <link>/tags/rladies/</link>
+    <description>Recent content in rladies on R-Ladies Chicago</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 11 Apr 2020 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/rladies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R-Ladies Book Club</title>
+      <link>/post/2020_05_11_book_club/</link>
+      <pubDate>Sat, 11 Apr 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2020_05_11_book_club/</guid>
+      <description>Come beat those quarentine blues! Outside of the huge number of tools and packages in R, we can continue to expand our knowledge of the statistical engine behind these. We will particularly focus on developing starter questions for data analysis projects.You can sign up here.</description>
+    </item>
+    
+    <item>
+      <title>Introducing our 2020 Career Series!</title>
+      <link>/post/2020-02-07-career-series/</link>
+      <pubDate>Fri, 07 Feb 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2020-02-07-career-series/</guid>
+      <description>R-Ladies Chicago is proud to host our three-part Career Series in February, March, and April. With hiring season on the horizon, our Career Series will empower R-Ladies with the skills necessary to succeed in the data field. Join us for any/all of these events!
+Thank you to Groupon for hosting! All events will take place at Groupon Corporate Headquarters (600 W. Chicago Avenue; Chicago, IL 60654).
+Please check in at the front desk then go up to the third floor</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Wine Preferences: Sip and Code Recap and Tutorial</title>
+      <link>/post/2019_07_01_block/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019_07_01_block/</guid>
+      <description>Last Wednesday, June 26, 2019, the R-Ladies Chicago got together for a Summer Social Meetup over wine and coding. It was a great opportunity to meet people, socialize and, of course, have some drinks!
+We were supposed to taste some beverages (wine tasting was optional, there were non-alcoholic drinks too) and rate them for a collaborative activity afterwards. So, what are the R-Ladies wine preferences? In this post I’ll present the data we produced in a simple tutorial.</description>
+    </item>
+    
+    <item>
+      <title>Join Us!</title>
+      <link>/project/join/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/project/join/</guid>
+      <description>R-Ladies is a worldwide organization that promotes gender diversity in the R community via meetups and mentorship in a friendly and safe environment.
+Join our Slack community at this link: https://rladiesinvite.herokuapp.com/
+Follow our Meetup age and join us at our in-person events: https://www.meetup.com/rladies-chicago/
+We are always looking for fellow R-Ladies who are interested in giving a talk, suggesting a Meetup topic, leading a study group, or writing a blog post.</description>
+    </item>
+    
+    <item>
+      <title>Support Us!</title>
+      <link>/project/support/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/project/support/</guid>
+      <description>We are always looking for organizations to support our monthly Meetups! Specifically, we look for companies or organizations that can host us in their space and/or provide food and drink for Meetup attendees.
+If you are interested in potentially hosting R-Ladies, please fill out this Google Form. Also, please read our Sponsor Space Requirements &amp;amp; Guidelines for details about what a host space needs.</description>
+    </item>
+    
+    <item>
+      <title> R Forwards Package Workshop Recap</title>
+      <link>/post/2019-02-28-rworkshop_recap/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-02-28-rworkshop_recap/</guid>
+      <description>Last Saturday, February 23, 2019, took place the R Forwards Women’s Package Workshop in Chicago at Center for Spatial Data Science, where Angela Li (CivicAngela) and Stephanie Kirmer (data_stephanie) conducted the workshop. 40 R-Ladies attended from different parts of the Chicago area to increase their abilities with R.
+Image Caption: Women’s Package Development Workshop Attendees
+What do we learn?We learned about packages, which are the fundamental units of reproducible R code.</description>
+    </item>
+    
+    <item>
+      <title>January Meetup Recap: What We Learned at rstudio::conf</title>
+      <link>/post/2019-02-04-jan-recap/</link>
+      <pubDate>Mon, 04 Feb 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2019-02-04-jan-recap/</guid>
+      <description>For our January R-Ladies Chicago Meetup, five Chicago R-Ladies presented lightning talks on topics they learned about at rstudio::conf 2019. Three of our organizers attended workshops on diversity scholarships, so we were especially excited to hear what they learned. Natalie Jorion also volunteered to speak, and we ended up having a total of five speakers! Each person spoke for 10 minutes on a subject they thought was interesting.
+Topics of the night included deep learning, improving data project organization, tips for Shiny applications, reproducible research, and contributing to open source.</description>
+    </item>
+    
+    <item>
+      <title>Introducing Chicago Schools Enrollment Data to R</title>
+      <link>/post/2019-01-21-mack/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-01-21-mack/</guid>
+      <description>The City of Chicago and Chicago Public Schools (CPS) have made data on annual enrollments, school locations, and other school features available to the public. After a bit of wrangling (frankly maybe more than just a bit) these data can be used in R to get key visualizations.
+My own interest in the schools data began with a desire to understand more about the spread of charter schools in the city, and also more about the sharp enrollment declines that some regular public high schools have experienced since the early ’00s.</description>
+    </item>
+    
+    <item>
+      <title>Call for Blog Posts</title>
+      <link>/post/2018-07-16_blog_info/</link>
+      <pubDate>Mon, 16 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2018-07-16_blog_info/</guid>
+      <description>R-Ladies Chicago is excited to start this blog to showcase the perspectives of different members in the R-Ladies Chicago community!
+We are looking for individuals who are interested in contributing to this blog. Whether you just want to write a single blog post or contribute regularly, we want to hear from you!
+We’re hoping to have two new posts each month on this blog. Blog posts could consist of:</description>
+    </item>
+    
+  </channel>
+</rss>

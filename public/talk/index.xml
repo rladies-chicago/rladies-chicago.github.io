@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on R-Ladies Chicago</title>
+    <link>/talk/</link>
+    <description>Recent content in Events on R-Ladies Chicago</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Viz Study Group Meeting</title>
+      <link>/talk/2018-09-10_dataviz/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/2018-09-10_dataviz/</guid>
+      <description>Join the Data Viz study group for their first meeting! We&amp;rsquo;ll be exploring the grammar of graphics with R. There will also be an introduction to ggplot2. All are welcome!
+Please email study group coordinator Ola [at] rladies dot org or join our #sg-dataviz slack channel with any questions.
+Please RSVP: https://www.meetup.com/rladies-chicago/events/254251305/</description>
+    </item>
+    
+    <item>
+      <title>&#39;Git&#39; down with Git &#43; R (Workshop &amp; Tutorial)</title>
+      <link>/talk/2018-11-13-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-11-13-meetup/</guid>
+      <description>Learn about using Git &amp;amp; R at our November Meetup! R-Ladies Board Member Ola Giwa will lead a tutorial and workshop to get you up and running with Github and using Git in your workflow. This session will discuss:
+ Version control and why it is important
+ Fundamental git commands
+ Using Github for collaboration!
+  This event is extremely beginner-friendly! We encourage anyone, regardless of R &amp;amp; Git/Github proficiency, to join us!</description>
+    </item>
+    
+    <item>
+      <title>Animation for Effective Data Visualization with R</title>
+      <link>/talk/2019-7-24-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2019-7-24-meetup/</guid>
+      <description>Adding animation to graphs can make visualizations eye-catching and effective for transmitting complex information to audiences. In this talk, attendees will learn about using animation in data visualizations in R using ggplot2 and gganimate. Topics will include: how to choose when an animation might (or might not) be an appropriate option for your use case, ways to make sure your visualization still communicates clearly and succinctly when animated, and a hands-on walk-through of how to turn a not-so-great static visualization into a great animated plot.</description>
+    </item>
+    
+    <item>
+      <title>Astrostatistics in R: Predicting Solar Flares</title>
+      <link>/talk/2018-08-27-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-08-27-meetup/</guid>
+      <description>For our August meetup, the Astrostatistics Study Group (ASG) will talk about their ongoing project in predicting solar flares.
+R-Ladies board member and founder of the ASG, Caroline K. Williams will introduce the Astrostatistics study group and NASA Datanauts program she recently joined. She will also present the basic principles of Deep Learning that will be applied to the project.
+Josh Goldberg, a member of the ASG will present on a topic in data science that is often overlooked or does not get much coverage but is required to move any project forward: data exploration.</description>
+    </item>
+    
+    <item>
+      <title>Career Series Part I: Using R to Land the Job: A Resume Building Tutorial</title>
+      <link>/talk/2020-02-26-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2020-02-26-meetup/</guid>
+      <description>About Welcome to the kick-off of our three-part career series! Over the next three months, we will host events to further develop your skillset and data science network.
+Whether or not you&amp;rsquo;re on the job hunt, your resume is an extension of your professional self, so it is important to keep your resume fresh. For our kick-off, Scarlett Winters will lead a tutorial on how to build your resume using pagedown.</description>
+    </item>
+    
+    <item>
+      <title>Career Series Part II: Our Best Resource is Each Other, A Q&amp;A Panel</title>
+      <link>/talk/2020-03-18-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2020-03-18-meetup/</guid>
+      <description>About R-Ladies Chicago is proud to host the next segment in our three-part Career Series! Join us on Wednesday, March 18 at Groupon for a Q&amp;amp;A panel discussion! We are happy to welcome our own co-organizer Kristi Angel as well as Ging Cee Ng and Christina Maimone to participate in a Q&amp;amp;A discussion on their data science experience in experimentation, industry, and academia respectively. This panel will be moderated by co-organizer Scarlett Winters, and guests will have the opportunity to submit questions in real time.</description>
+    </item>
+    
+    <item>
+      <title>Data Visualization with Maps Shiny Workshop</title>
+      <link>/talk/2019-4-18-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2019-4-18-meetup/</guid>
+      <description>Learn how to make your first Shiny app with spatial data! We&amp;rsquo;ll build a simple interactive map application and teach you how to use Shiny apps to interpret and visualize your data.
+What you&amp;rsquo;ll learn:
+ Why build a Shiny app?
+ How a Shiny app is structured
+ How to incorporate interactivity in your Shiny app
+ How to deploy your Shiny app   Prerequisites:
+William Blair has a strict firewall, so please follow the instructions here prior to the Meetup so that you are able to get the most out of this workshop: https://github.</description>
+    </item>
+    
+    <item>
+      <title>DataCamp &amp; DataViz</title>
+      <link>/talk/2018-05-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-05-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DecembeR Holiday Party &amp; Collaborative Planning</title>
+      <link>/talk/2018-12-05-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-12-05-meetup/</guid>
+      <description>Join R-Ladies Chicago to celebrate the holidays! Socialize with fellow R-Ladies and help us plan for 2019!
+BEFORE THE EVENT: Please fill out our survey to provide feedback on our past and future R-Ladies Chicago programs. We are looking for as many Chicago-area R-Ladies as possible to fill out this survey, even if you cannot attend this Meetup or have not attended one in the past. We would love your input!</description>
+    </item>
+    
+    <item>
+      <title>Game Time! R in Minecraft with the &#39;miner&#39; package</title>
+      <link>/talk/2018-07-19-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-07-19-meetup/</guid>
+      <description>David Smith will talk about the &amp;lsquo;miner&amp;rsquo; package, how to set up your own Minecraft server, and how to use and extend the package. He&amp;rsquo;ll also provide a few examples of the package in action in a live Minecraft session! Fun!
+The miner package is intended mainly for kids, to inspire them to learn R while playing Minecraft. But the development of the package also provides some useful insights into how to build an R package to interface with a persistent API, and how to instruct others on its use.</description>
+    </item>
+    
+    <item>
+      <title>HacktobeRfest at Haymarket Brewery!</title>
+      <link>/talk/2018-10-16-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-10-16-meetup/</guid>
+      <description>R-Ladies Chicago and Chicago R User Group (CRUG) teamed up this month to bring you a joint meetup worth toasting to: HacktobeRfest at Haymarket Brewery! Listen to some beer-related talks and participate in our Beer Data Hack-a-thon!
+Please RSVP on our Meetup page!</description>
+    </item>
+    
+    <item>
+      <title>Hacktoberfest: Hack or Treat!</title>
+      <link>/talk/2019-10-29-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2019-10-29-meetup/</guid>
+      <description>Celebrate Halloween with an R-Ladies Chicago Hacktoberfest!
+What we&amp;rsquo;ll do:
+We&amp;rsquo;ll contribute to open source projects on GitHub while snacking on fall-themed treats! Costumes are encouraged!
+We&amp;rsquo;ll open some issues in our organization repo. Complexity will range from very beginner-friendly to intermediate. We&amp;rsquo;ll then work together to make some pull requests (PRs). We&amp;rsquo;re open to any contributions: from fixing a typo on our website to adding a tutorial to our R-beginners repo!</description>
+    </item>
+    
+    <item>
+      <title>Learning &amp; Community Building in Data Science: Conference Talks!</title>
+      <link>/talk/2020-05-05-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2020-05-05-meetup/</guid>
+      <description>About R-Ladies organizers Angela and Katherine will each present talks on community building and teaching in the context of data science. Please join us!
+These talks are a preview of Angela and Katherine&amp;rsquo;s upcoming presentations at csv,conf,v5. Please join us to discuss these topics and let us know what you are interested in learning more about!
+csv,conf,v5 is a community driven data conference on May 13 &amp;amp; 14. It is an event that&amp;rsquo;s not literally about the CSV file format, but rather about what CSV represents to our wider community ideals (data interoperability, hackability, simplicity, etc.</description>
+    </item>
+    
+    <item>
+      <title>NLP Study Group Kick-Off Meeting</title>
+      <link>/talk/2018-06-26_nlp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-06-26_nlp/</guid>
+      <description>The NLP Study Group is starting their summer book club! Join us as we start discussing the first two chapters of Text Mining with R. All are welcome! Please email study group coordinator Katherine [at] rladies dot org with any questions.</description>
+    </item>
+    
+    <item>
+      <title>NLP Study Group Meeting</title>
+      <link>/talk/2018-07-09_nlp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-07-09_nlp/</guid>
+      <description>Please note this meeting has been rescheduled to 6pm on Tuesday, July 10
+The NLP Study Group is working through their summer book club! Join us as we start discussing the first two chapters of Text Mining with R. We will also have a lightning talk about the tm package. All are welcome! Please email study group coordinator Katherine [at] rladies dot org or join our #sg-nlp slack channel with any questions.</description>
+    </item>
+    
+    <item>
+      <title>NLP Study Group Meeting</title>
+      <link>/talk/2018-08-13_nlp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-08-13_nlp/</guid>
+      <description>The NLP Study Group is working through their summer book club! Join us as we discuss the third chapter of Text Mining with R on tf-idf. We will also have a lightning talk about a package related to working with text data. All are welcome! Please email study group coordinator Katherine [at] rladies dot org or join our #sg-nlp slack channel with any questions.</description>
+    </item>
+    
+    <item>
+      <title>NLP Study Group Meeting</title>
+      <link>/talk/2018-09-17_nlp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-09-17_nlp/</guid>
+      <description>Join us as we discuss the fourth chapter of Text Mining with R on n-grams. We will also have a lightning talk about a package related to working with text data. All are welcome! Please email study group coordinator Katherine [at] rladies dot org or join our #sg-nlp slack channel with any questions.</description>
+    </item>
+    
+    <item>
+      <title>Pre-Package Workshop Happy Hour</title>
+      <link>/talk/2019-2-22-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2019-2-22-meetup/</guid>
+      <description>We&amp;rsquo;ll be welcoming guests to Chicago for our Women&amp;rsquo;s Package Development Workshop. Join us for a happy hour to socialize with fellow female and non-binary R users from Chicago and beyond!
+We&amp;rsquo;ll be meeting up at Motor Row Brewing. This casual get-together is open to any female or non-binary individuals, regardless if you are attending the package workshop.
+RSVP on our Meetup Page.</description>
+    </item>
+    
+    <item>
+      <title>Pro tips: how to start/advance your data science career</title>
+      <link>/talk/2018-09-27-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-09-27-meetup/</guid>
+      <description>We have teamed up with Metis and invited Ashley Purdy (Career Advisor) to talk about everything you need to know about Data science job search!
+Ashley will discuss some strategies for how to put your best foot forward in the data science job search covering topics ranging from networking, interviews, and salary negotiations.
+Following by Monique, who will give a short talk on develop a LinkedIn profile that stands out above the rest.</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Chicago welcomes Mara Averick!</title>
+      <link>/talk/2019-3-26-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2019-3-26-meetup/</guid>
+      <description>Join us in welcoming tidyverse developer advocate and Twitter #rstats star Mara Averick!
+What we&amp;rsquo;ll do:
+We&amp;rsquo;re excited to welcome Mara Averick to speak at R-Ladies Chicago. We&amp;rsquo;ll hear from Mara Averick about a topic of her choosing.
+Tentative Topic: Sustainers of the Tidyverse
+Abstract: If a piece of open-source software is to survive its own success, it must have a healthy community of active contributors. The tidyverse, a collection of R packages for data science with a shared underlying design philosophy, has become popular in no small part because of its usability among those who do not consider themselves to be “programmers.</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Project Night</title>
+      <link>/talk/2020-02-10-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2020-02-10-meetup/</guid>
+      <description>About Hashtag TidyTuesday is a weekly social data project focused on using tidyverse packages to clean, wrangle, tidy, and plot a new dataset every Tuesday.
+We will be using a dataset from the TidyTuedsay Github that has been tamed, but does not always adhere to “tidy” data principles. Our goal is to have you take a look at the raw data, and generate either a copy of the original plot or a novel take on the data!</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Project Night on a Wednesday</title>
+      <link>/talk/2019-11-06-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2019-11-06-meetup/</guid>
+      <description>Hashtag TidyTuesday is a weekly social data project focused on using tidyverse packages to clean, wrangle, tidy, and plot a new dataset every Tuesday.
+We will be using a dataset from the TidyTuedsay Github that has been tamed, but does not always adhere to “tidy” data principles. Our goal is to have you take a look at the raw data, and generate either a copy of the original plot or a novel take on the data!</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Summer Social: Sip &amp; Code</title>
+      <link>/talk/2018-07-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018-07-meetup/</guid>
+      <description>We will taste some wines (and non-alcoholic drinks too!) and rate them based on the winemag.com scoring system. Then, we will work together in small groups to analyze and visualize the wine preferences of R-Ladies in R! Wine is absolutely optional &amp;ndash;we&amp;rsquo;ll have non-alcoholic beverages &amp;amp; food too.
+We&amp;rsquo;ll also be introducing some R-Ladies Chicago outreach initiatives, including our new website: rladieschicago.org and kicking-off our Random Acts of Coffee program!</description>
+    </item>
+    
+    <item>
+      <title>Reproducible Workflows for Interactive Visualizations with htmlwidgets and Shiny</title>
+      <link>/talk/2019-12-4-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2019-12-4-meetup/</guid>
+      <description>Join us in welcoming Martin John Hadley (https://twitter.com/martinjhnhadley,dr pronouns they/them) for an interactive workshop on htmlwidgets, Shiny, and reproducibility!
+Please note:
+Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor, as spots may be limited. Please contact chicago@rladies.org if you have questions.</description>
+    </item>
+    
+    <item>
+      <title>September Double Header: Connecting R/RMarkdown &amp; Microsoft Word using StatTag</title>
+      <link>/talk/2019-09-26-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2019-09-26-meetup/</guid>
+      <description>Note: This is one of two R-Ladies Chicago events happening this month for our Northside-Southside double header, one in Hyde Park on 9&amp;frasl;24, and another in Evanston on 9&amp;frasl;26. Choose one or attend both!
+Dr. Leah Welty will present: &amp;ldquo;Collaborative Reproducibility: Connecting R/R Markdown and Microsoft Word using StatTag&amp;rdquo;
+Although R Markdown can render documents to Microsoft Word, R/R Markdown users must sometimes transcribe statistical content in to separate Microsoft Word documents (e.</description>
+    </item>
+    
+    <item>
+      <title>September Double Header: Make a Personal Website with Blogdown in R</title>
+      <link>/talk/2019-09-24-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2019-09-24-meetup/</guid>
+      <description>Note: This is one of two R-Ladies Chicago events happening this month for our Northside-Southside double header, one in Hyde Park on 9&amp;frasl;24, and another in Evanston on 9&amp;frasl;26. Choose one or attend both!
+R-Ladies Board Member Angela Li will lead a workshop on setting up your first website with the blogdown R package. By the end of this workshop, you will learn to make a template website for your personal or academic pursuits!</description>
+    </item>
+    
+    <item>
+      <title>Sip &amp; Code: R-Ladies Chicago Summer Social (round 2!)</title>
+      <link>/talk/2019-6-26-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2019-6-26-meetup/</guid>
+      <description>Summer is finally here! Join R-Ladies Chicago to celebrate! We are a group of women and non-binary individuals who code with the programming language R and support each other on our learning journey.
+What we&amp;rsquo;ll do:
+We&amp;rsquo;ll be tasting and rating a few wines (and non-alcoholic drinks too!), analyzing the data from our ratings, and learning how to make a data visualization in R. Wine consumption is absolutely optional &amp;ndash;we&amp;rsquo;ll have non-alcoholic beverages &amp;amp; pizza too.</description>
+    </item>
+    
+    <item>
+      <title>Twitter Text Analysis with @WeAreRLadies</title>
+      <link>/talk/2019-8-14-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2019-8-14-meetup/</guid>
+      <description>R-Ladies Board Member Katherine Simeon will give a talk on text analysis in R using a year&amp;rsquo;s worth of @WeAreRLadies tweets!
+@WeAreRLadies is the rotating curation account (RoCur) for R-Ladies Global. Each week, an awesome R-Lady takes over the account to talk about their work and perspectives in R. Katherine is the founder and admin of the @WeAreRLadies Twitter account showcasing R-Ladies in statistics, data science, and more!
+Please note:</description>
+    </item>
+    
+    <item>
+      <title>Women’s Package Development Workshop</title>
+      <link>/talk/2019-2-23-packageworkshop/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2019-2-23-packageworkshop/</guid>
+      <description>Curious about package development, but not sure where to start? This workshop is for you! Run by R-Ladies Chicago, the goal of this workshop is to empower you to start contributing back to the R ecosystem with package development. We’ll be using materials developed by Hadley Wickham, Jenny Bryan, and Di Cook for the Forwards teaching team.
+By the end of this day-long workshop, you should know how to:</description>
+    </item>
+    
+    <item>
+      <title>rstudio::conf 2019 Lightning Talks!</title>
+      <link>/talk/2019-1-28-meetup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2019-1-28-meetup/</guid>
+      <description>Start 2019 the right way! At our January meetup, we&amp;rsquo;ll be recapping rstudio::conf, an annual conference about all things R and RStudio! Organizers will give 10-minute lightning talks on a cool topic or tool they learned about at the conference.
+If you are/have attended rstudio::conf and would like to give a lightning talk, please email us at chicago [at] rladies.org.
+Please RSVP on our Meetup Page!</description>
+    </item>
+    
+  </channel>
+</rss>
