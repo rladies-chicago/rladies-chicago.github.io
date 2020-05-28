@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rforwards on R-Ladies Chicago</title>
+    <title>rforwards on R-Ladies Chicago</title>
     <link>/tags/rforwards/</link>
-    <description>Recent content in Rforwards on R-Ladies Chicago</description>
+    <description>Recent content in rforwards on R-Ladies Chicago</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -20,7 +20,7 @@
       <guid>/post/2019-02-28-rworkshop_recap/</guid>
       <description>Last Saturday, February 23, 2019, took place the R Forwards Women’s Package Workshop in Chicago at Center for Spatial Data Science, where Angela Li (CivicAngela) and Stephanie Kirmer (data_stephanie) conducted the workshop. 40 R-Ladies attended from different parts of the Chicago area to increase their abilities with R.
 Image Caption: Women’s Package Development Workshop Attendees
- What do we learn? We learned about packages, which are the fundamental units of reproducible R code.</description>
+What do we learn?We learned about packages, which are the fundamental units of reproducible R code.</description>
     </item>
     
   </channel>

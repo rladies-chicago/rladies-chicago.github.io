@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/2020_05_11_book_club/</loc>
+      <lastmod>2020-05-11T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/2020-02-07-career-series/</loc>
       <lastmod>2020-02-07T21:13:14-05:00</lastmod>
     </url>
@@ -443,7 +452,7 @@
     <url>
     
       <loc>/tags/chicago/</loc>
-      <lastmod>2019-02-04T21:13:14-05:00</lastmod>
+      <lastmod>2020-05-11T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -482,8 +491,8 @@
     
     <url>
     
-      <loc>/tags/meetups/</loc>
-      <lastmod>2020-02-07T21:13:14-05:00</lastmod>
+      <loc>/tags/learning/</loc>
+      <lastmod>2020-05-11T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -493,6 +502,16 @@
     <url>
     
       <loc>/categories/meetups/</loc>
+      <lastmod>2020-02-07T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/meetups/</loc>
       <lastmod>2020-02-07T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -533,7 +552,7 @@
     <url>
     
       <loc>/categories/r/</loc>
-      <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+      <lastmod>2020-05-11T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -563,7 +582,7 @@
     <url>
     
       <loc>/tags/rladies/</loc>
-      <lastmod>2020-02-07T21:13:14-05:00</lastmod>
+      <lastmod>2020-05-11T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     

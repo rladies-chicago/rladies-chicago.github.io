@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>Astrostatistics</title>
+      <title>astrostatistics</title>
       <link>/tags/astrostatistics/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
       
@@ -31,7 +31,7 @@
     </item>
     
     <item>
-      <title>Beginners</title>
+      <title>beginners</title>
       <link>/tags/beginners/</link>
       <pubDate>Thu, 27 Sep 2018 21:13:14 -0500</pubDate>
       
@@ -40,7 +40,7 @@
     </item>
     
     <item>
-      <title>Career</title>
+      <title>career</title>
       <link>/tags/career/</link>
       <pubDate>Fri, 07 Feb 2020 21:13:14 -0500</pubDate>
       
@@ -49,16 +49,16 @@
     </item>
     
     <item>
-      <title>Chicago</title>
+      <title>chicago</title>
       <link>/tags/chicago/</link>
-      <pubDate>Mon, 04 Feb 2019 21:13:14 -0500</pubDate>
+      <pubDate>Sat, 11 Apr 2020 21:13:14 -0500</pubDate>
       
       <guid>/tags/chicago/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Community</title>
+      <title>community</title>
       <link>/tags/community/</link>
       <pubDate>Fri, 07 Feb 2020 21:13:14 -0500</pubDate>
       
@@ -67,7 +67,7 @@
     </item>
     
     <item>
-      <title>Data</title>
+      <title>data</title>
       <link>/tags/data/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -76,7 +76,7 @@
     </item>
     
     <item>
-      <title>Dataviz</title>
+      <title>dataviz</title>
       <link>/tags/dataviz/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
       
@@ -85,7 +85,16 @@
     </item>
     
     <item>
-      <title>Meetups</title>
+      <title>learning</title>
+      <link>/tags/learning/</link>
+      <pubDate>Sat, 11 Apr 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meetups</title>
       <link>/tags/meetups/</link>
       <pubDate>Fri, 07 Feb 2020 21:13:14 -0500</pubDate>
       
@@ -94,7 +103,7 @@
     </item>
     
     <item>
-      <title>Nlp</title>
+      <title>nlp</title>
       <link>/tags/nlp/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
       
@@ -103,7 +112,7 @@
     </item>
     
     <item>
-      <title>Package-development</title>
+      <title>package-development</title>
       <link>/tags/package-development/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
       
@@ -112,7 +121,7 @@
     </item>
     
     <item>
-      <title>Rforwards</title>
+      <title>rforwards</title>
       <link>/tags/rforwards/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
       
@@ -121,16 +130,16 @@
     </item>
     
     <item>
-      <title>Rladies</title>
+      <title>rladies</title>
       <link>/tags/rladies/</link>
-      <pubDate>Fri, 07 Feb 2020 21:13:14 -0500</pubDate>
+      <pubDate>Sat, 11 Apr 2020 21:13:14 -0500</pubDate>
       
       <guid>/tags/rladies/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Study-groups</title>
+      <title>study-groups</title>
       <link>/tags/study-groups/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
       
@@ -139,7 +148,7 @@
     </item>
     
     <item>
-      <title>Workshop</title>
+      <title>workshop</title>
       <link>/tags/workshop/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
       

@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rladies on R-Ladies Chicago</title>
+    <title>rladies on R-Ladies Chicago</title>
     <link>/tags/rladies/</link>
-    <description>Recent content in Rladies on R-Ladies Chicago</description>
+    <description>Recent content in rladies on R-Ladies Chicago</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 07 Feb 2020 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2020 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/tags/rladies/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R-Ladies Book Club</title>
+      <link>/post/2020_05_11_book_club/</link>
+      <pubDate>Sat, 11 Apr 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2020_05_11_book_club/</guid>
+      <description>Come beat those quarentine blues! Outside of the huge number of tools and packages in R, we can continue to expand our knowledge of the statistical engine behind these. We will particularly focus on developing starter questions for data analysis projects.You can sign up here.</description>
+    </item>
     
     <item>
       <title>Introducing our 2020 Career Series!</title>
@@ -63,7 +72,7 @@ If you are interested in potentially hosting R-Ladies, please fill out this Goog
       <guid>/post/2019-02-28-rworkshop_recap/</guid>
       <description>Last Saturday, February 23, 2019, took place the R Forwards Women’s Package Workshop in Chicago at Center for Spatial Data Science, where Angela Li (CivicAngela) and Stephanie Kirmer (data_stephanie) conducted the workshop. 40 R-Ladies attended from different parts of the Chicago area to increase their abilities with R.
 Image Caption: Women’s Package Development Workshop Attendees
- What do we learn? We learned about packages, which are the fundamental units of reproducible R code.</description>
+What do we learn?We learned about packages, which are the fundamental units of reproducible R code.</description>
     </item>
     
     <item>
@@ -94,8 +103,7 @@ My own interest in the schools data began with a desire to understand more about
       <guid>/post/2018-07-16_blog_info/</guid>
       <description>R-Ladies Chicago is excited to start this blog to showcase the perspectives of different members in the R-Ladies Chicago community!
 We are looking for individuals who are interested in contributing to this blog. Whether you just want to write a single blog post or contribute regularly, we want to hear from you!
-We’re hoping to have two new posts each month on this blog. Blog posts could consist of:
- Event Recaps (either an R-Ladies Meetup or Study Group Meeting or another R-related event)</description>
+We’re hoping to have two new posts each month on this blog. Blog posts could consist of:</description>
     </item>
     
   </channel>
