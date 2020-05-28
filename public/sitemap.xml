@@ -6,7 +6,7 @@
     <url>
     
       <loc>/post/2020_05_11_book_club/</loc>
-      <lastmod>2020-04-11T21:13:14-05:00</lastmod>
+      <lastmod>2020-05-11T21:13:14-05:00</lastmod>
     </url>
     
   
@@ -401,66 +401,6 @@
     
     <url>
     
-      <loc>/categories/blog/</loc>
-      <lastmod>2018-07-16T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <lastmod>2018-07-16T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2019-05-18T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/r/</loc>
-      <lastmod>2020-04-11T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2018-05-09T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/astrostatistics/</loc>
       <lastmod>2018-06-20T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -481,6 +421,16 @@
     
     <url>
     
+      <loc>/categories/blog/</loc>
+      <lastmod>2018-07-16T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/career/</loc>
       <lastmod>2020-02-07T21:13:14-05:00</lastmod>
       <priority>0</priority>
@@ -491,8 +441,18 @@
     
     <url>
     
+      <loc>/categories/</loc>
+      <lastmod>2018-07-16T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/chicago/</loc>
-      <lastmod>2020-04-11T21:13:14-05:00</lastmod>
+      <lastmod>2020-05-11T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -532,7 +492,7 @@
     <url>
     
       <loc>/tags/learning/</loc>
-      <lastmod>2020-04-11T21:13:14-05:00</lastmod>
+      <lastmod>2020-05-11T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -581,6 +541,36 @@
     
     <url>
     
+      <loc>/project/</loc>
+      <lastmod>2019-05-18T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/r/</loc>
+      <lastmod>2020-05-11T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/rforwards/</loc>
       <lastmod>2019-02-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -592,7 +582,7 @@
     <url>
     
       <loc>/tags/rladies/</loc>
-      <lastmod>2020-04-11T21:13:14-05:00</lastmod>
+      <lastmod>2020-05-11T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -603,6 +593,16 @@
     
       <loc>/tags/study-groups/</loc>
       <lastmod>2018-06-20T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     

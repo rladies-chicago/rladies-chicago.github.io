@@ -1,7 +1,7 @@
 ---
 title: "R-Ladies Book Club"
 author: "Abby Smith"
-date: 2020-04-11T21:13:14-05:00
+date: 2020-05-11T21:13:14-05:00
 output: html_document
 categories: ["R"]
 tags: ["rladies","chicago", "learning"]
