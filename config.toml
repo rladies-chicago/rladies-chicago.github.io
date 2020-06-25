@@ -249,7 +249,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Leadership Team"
-  url = "#execboard2020"
+  url = "#execboard"
   weight = 5
  
 
