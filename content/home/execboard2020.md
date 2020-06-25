@@ -1,5 +1,5 @@
 +++
-title = "Leadership Team "
+title = "Leadership Team"
 menu = "main"
 weight = 80
 +++
