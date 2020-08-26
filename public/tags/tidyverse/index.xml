@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tidyverse on R-Ladies Chicago</title>
+    <link>/tags/tidyverse/</link>
+    <description>Recent content in tidyverse on R-Ladies Chicago</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 31 Aug 2020 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/tidyverse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tidyverse..Penguin style!</title>
+      <link>/talk/2020-08-31-meetup/</link>
+      <pubDate>Mon, 31 Aug 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/talk/2020-08-31-meetup/</guid>
+      <description>Learn how to explore and manipulate data in R with packages from the Tidyverse. We’ll introduce the 8 core packages that make up the tidyverse set of packages.</description>
+    </item>
+    
+  </channel>
+</rss>
