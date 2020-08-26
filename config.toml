@@ -247,10 +247,6 @@ enableGitInfo = false
   url = "#posts"
   weight = 4
 
-[[menu.main]]
-  name = "Leadership Team"
-  url = "#execboard"
-  weight = 5
  
 
 [[menu.main]]

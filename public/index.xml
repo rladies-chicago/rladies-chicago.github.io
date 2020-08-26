@@ -11,9 +11,77 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>An Antarctic Tour of the Tidyverse</title>
+      <link>/talk/2020-08-31-meetup/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/2020-08-31-meetup/</guid>
+      <description>
+
+&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+
+&lt;p&gt;&amp;lsquo;
+Learn how to explore and manipulate data in R with packages from the Tidyverse. We&amp;rsquo;ll introduce the 8 core packages (&lt;a href=&#34;https://www.tidyverse.org/packages/&#34; target=&#34;_blank&#34;&gt;https://www.tidyverse.org/packages/&lt;/a&gt;) that make up the Tidyverse and use at least one function from each package while exploring a dataset on the migration of penguins.&lt;/p&gt;
+
+&lt;p&gt;Information about the Speaker:&lt;/p&gt;
+
+&lt;p&gt;Dr. Silvia Canelón is a postdoctoral research scientist in biomedical informatics at the University of Pennsylvania in Philadelphia. She uses data science in the public and population health fields and is particularly interested in leveraging electronic health record data to study reproductive health outcomes. Silvia is formally trained as a biomedical engineer and holds her bachelor’s degree from the University of Minnesota and her doctoral degree from Purdue University. She loves community organizing and is currently pursuing the RStudio Instructor Certification as a way to help build power in her communities. Website: &lt;a href=&#34;https://silvia.rbind.io/&#34; target=&#34;_blank&#34;&gt;https://silvia.rbind.io/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Location:
+Zoom link will be emailed a day before the event.&lt;/p&gt;
+
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h2&gt;
+
+&lt;p&gt;We ask that R-Ladies who are interested in this event please sign up for a free R Studio Cloud account. This will be the easiest route to follow along with the workshop.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rstudio.cloud/&#34; target=&#34;_blank&#34;&gt;https://rstudio.cloud/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can also follow along on your own computer as well. Note that help will be limited if you run into issues.&lt;/p&gt;
+
+&lt;p&gt;Install the following if you would rather follow along on your local computer.:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;R:
+&lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34;&gt;https://www.r-project.org/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;R Studio:
+&lt;a href=&#34;https://rstudio.com/products/rstudio/download/&#34; target=&#34;_blank&#34;&gt;https://rstudio.com/products/rstudio/download/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Skill Level:
+None. All levels are welcomed.&lt;/p&gt;
+
+&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+
+&lt;p&gt;5:30 - 6:00 &amp;ndash; Networking and Technical help
+6:10 - 6:20 &amp;ndash; Announcements and Introduction
+6:30 - 7:35 &amp;ndash; Dr. Silvia Canelón: An Antarctic Tour of the Tidyverse
+7:35 - 7:45 &amp;ndash; QAs and Goodbyes&lt;/p&gt;
+
+&lt;p&gt;##FAQ&lt;/p&gt;
+
+&lt;p&gt;Q: Are men welcome to attend this event?
+A: Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. &lt;strong&gt;&lt;em&gt;As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact [masked] if you have questions.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Additionally, please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-to-bring&#34;&gt;What to bring&lt;/h2&gt;
+
+&lt;p&gt;Yourself/friends! And a laptop - this will be an interactive event.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Please note:&lt;/strong&gt;&lt;br /&gt;
+Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. &lt;em&gt;As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor, as spots may be limited. Please contact chicago@rladies.org if you have questions.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Be sure to RSVP on &lt;a href=&#34;https://www.meetup.com/rladies-chicago/events/269010701/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>R-Ladies Book Club</title>
       <link>/post/2020_05_11_book_club/</link>
-      <pubDate>Sat, 11 Apr 2020 21:13:14 -0500</pubDate>
+      <pubDate>Mon, 11 May 2020 21:13:14 -0500</pubDate>
       
       <guid>/post/2020_05_11_book_club/</guid>
       <description>
@@ -616,24 +684,6 @@ GIS/Spatial Data&lt;/p&gt;
 Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. &lt;em&gt;As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact chicago@rladies.org if you have questions.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Please RSVP through &lt;a href=&#34;https://www.meetup.com/rladies-chicago/events/262406111/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Astrostatistics in R: Predicting Solar Flares</title>
-      <link>/talk/2018-08-27-meetup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
-      
-      <guid>/talk/2018-08-27-meetup/</guid>
-      <description>&lt;p&gt;For our August meetup, the Astrostatistics Study Group (ASG) will talk about their ongoing project in predicting solar flares.&lt;/p&gt;
-
-&lt;p&gt;R-Ladies board member and founder of the ASG, Caroline K. Williams will introduce the Astrostatistics study group and NASA Datanauts program she recently joined. She will also present the basic principles of Deep Learning that will be applied to the project.&lt;/p&gt;
-
-&lt;p&gt;Josh Goldberg, a member of the ASG will present on a topic in data science that is often overlooked or does not get much coverage but is required to move any project forward: data exploration.&lt;/p&gt;
-
-&lt;p&gt;The ASG adviser, Troy Hernandez will discuss how he got involved in the Solar Flare project as a mentor for the Space Weather Team of the 2017 NASA Frontier Development Lab. He will also talk about the progress of the analysis, and what he envisions for the ASG to achieve in this project.&lt;/p&gt;
-
-&lt;p&gt;Be sure to RSVP on our &lt;a href=&#34;https://www.meetup.com/rladies-chicago/events/253881898/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     
