@@ -13,6 +13,17 @@
     
     
     <item>
+      <title>An Antarctic Tour of the Tidyverse</title>
+      <link>/talk/2020-08-31-meetup/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/2020-08-31-meetup/</guid>
+      <description>About &amp;lsquo; Learn how to explore and manipulate data in R with packages from the Tidyverse. We&amp;rsquo;ll introduce the 8 core packages (https://www.tidyverse.org/packages/) that make up the Tidyverse and use at least one function from each package while exploring a dataset on the migration of penguins.
+Information about the Speaker:
+Dr. Silvia Canelón is a postdoctoral research scientist in biomedical informatics at the University of Pennsylvania in Philadelphia. She uses data science in the public and population health fields and is particularly interested in leveraging electronic health record data to study reproductive health outcomes.</description>
+    </item>
+    
+    <item>
       <title>Data Viz Study Group Meeting</title>
       <link>/talk/2018-09-10_dataviz/</link>
       <pubDate>Sun, 26 Aug 2018 00:00:00 -0500</pubDate>
