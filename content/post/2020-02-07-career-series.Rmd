@@ -1,0 +1,50 @@
+---
+title: "Introducing our 2020 Career Series!"
+author: "R-Ladies Chicago"
+date: 2020-02-07T21:13:14-05:00
+categories: ["meetups"]
+tags: ["community", "rladies","meetups","career"]
+---
+
+R-Ladies Chicago is proud to host our three-part Career Series in February, March, and April. With hiring season on the horizon, our Career Series will empower R-Ladies with the skills necessary to succeed in the data field. Join us for any/all of these events!     
+  
+Thank you to Groupon for hosting! All events will take place at [Groupon Corporate Headquarters](https://goo.gl/maps/BoaBY8Gn9fKDgqTBA) (600 W. Chicago Avenue; Chicago, IL 60654).    
+   
+   
+*Please check in at the front desk then go up to the third floor*  
+  
+------  
+  
+## Part I: Using R to Land the Job: A Resume Building Tutorial
+
+**Wednesday, February 26 at 6pm**  
+**[RSVP on Meetup](https://www.meetup.com/rladies-chicago/events/268252477/)**
+  
+To kick off our Career Series, our co-organizer Scarlett Winters will lead a tutorial on how to build your resume using the pagedown R package. This tutorial will equip you with the tools to revamp your resume and prove to employers you know how to code in R well before your interview!        
+  
+------  
+    
+## Part II: Our Best Resource is Each Other: A Q&A Panel on Developing Your Network and Learning from One Another  
+  
+**Wednesday, March 18 at 6pm**  
+**[RSVP on Meetup](https://www.meetup.com/rladies-chicago/events/269010701/)**   
+  
+Next in the Career Series line-up, we will host a career Q&A panel featuring three data scientists from academia, industry, and the experimentation side. This will be a great opportunity to develop your network and gain valuable insights from data scientists across industries.  
+    
+![Career Development Panelists](https://secure.meetupstatic.com/photos/event/b/7/5/8/highres_489346936.jpeg)
+    
+------
+  
+## Part III: Keep Growing: Building and Maintaining Your Online Presence  
+  
+**Wednesday, April 22 at 6pm**  
+*Meetup Link coming soon*  
+  
+The final installment of our Career Series will be a talk on how to build and maintain your online presence in the data space. Have you ever read someone's data science blog or Twitter and wondered how they can juggle it all? Find out how they do it, and how you can, too! We’ll learn what makes a strong online presence and how you can build and maintain yours.    
+  
+     
+------  
+   
+*Please note*: Event details are subject to change! Please check our [Meetup Page](https://www.meetup.com/rladies-chicago) for the most up-to-date information on this series. 
+    
+    

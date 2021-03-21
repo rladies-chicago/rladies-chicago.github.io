@@ -1,0 +1,10 @@
+---
+title: "R-Ladies Book Club"
+author: "Abby Smith"
+date: 2020-05-11T21:13:14-05:00
+categories: ["R"]
+tags: ["rladies","chicago", "learning"]
+---
+
+Come beat those quarentine blues! Outside of the huge number of tools and packages in R, we can continue to expand our knowledge of the statistical engine behind these. We will particularly focus on developing starter questions for data analysis projects.
+ You can sign up [here](https://bit.ly/3b125El).
