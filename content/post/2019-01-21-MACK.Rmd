@@ -1,0 +1,185 @@
+---
+title: "Introducing Chicago Schools Enrollment Data to R"
+author: "Charlotte Mack"
+date: "`r format(Sys.Date())`"
+output: html_document
+categories: ["R"]
+tags: ["community", "rladies","data","chicago"]
+---
+
+The City of Chicago and Chicago Public Schools (CPS) have made data on annual enrollments, school locations, and other school features available to the public. After a bit of wrangling (frankly maybe more than just a bit) these data can be used in R to get key visualizations.
+
+My own interest in the schools data began with a desire to understand more about the spread of charter schools in the city, and also more about the sharp enrollment declines that some regular public high schools have experienced since the early '00s. Putting together the annual enrollment data provided by the CPS into a longitudinal form gave some insights into both questions. In addition, the City provides a shapefile of school locations as of the 2014-2015 school year that has enough information to make a first pass at seeing the expansion of schools of other-than-regular governance. In this post I'll share those illustrations.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+```{r libraries}
+library(tidyverse)
+library(lubridate)
+```
+The [all-high school enrollment data.frame](https://github.com/cymack/CPSenrollment) is available at my github site in [csv](https://github.com/cymack/CPSenrollment/blob/master/enrollment_all_hs.csv) and [Rds](https://github.com/cymack/CPSenrollment/blob/master/enrollment_all_hs.Rds) formats. In the command below we use RCurl::getURL to get the csv version directly from the raw files at github.
+
+```{r data 1}
+# The enrollment data#
+require("RCurl")
+library(RCurl)
+
+enrollment_all_hs <-read.csv(text=getURL("https://raw.githubusercontent.com/cymack/CPSenrollment/master/enrollment_all_hs.csv")) 
+```
+
+For most years, school governance, as I've called it, has only two levels, "regular" and "charter." In 2016 a third level appears for the first time, "contract." As there were only 4 contract high schools in that year, I've collapsed that factor with charter to create "charter etc." Then I extracted a table of annual counts of regular and charter etc schools, and plotted a graph.
+
+```{r data wrangle, echo=TRUE, message=FALSE, warning=FALSE, paged.print=FALSE}
+tbl.allschools_years_gov <- 
+  enrollment_all_hs %>% 
+  dplyr::mutate(govern = forcats::as_factor(govern)) %>% 
+  dplyr::mutate(govern = forcats::fct_collapse(govern, "charter etc" = c("charter", "other"))) %>%
+  dplyr::group_by(year, govern) %>% 
+  dplyr::count()
+
+# tbl.allschools_years_gov %>% print(n=24)
+    
+# So in any table or graph derived from this frame, the "charter etc" factor includes
+# contract or other schools that in the main data frame are factored separately
+# as "other."
+
+```
+
+```{r allschools_years_gov plot, echo=F, fig.height=4.0, fig.width=5.0, message=FALSE, warning=FALSE}
+# Timelines by governance type:
+# Number of schools timelines:
+p <- tbl.allschools_years_gov %>% 
+  ggplot(aes(x = lubridate::ymd(year, truncated = 3), y = n)) + 
+  geom_point(aes(fill = govern,
+                 text = paste(n, " schools")), 
+             shape = 21, 
+             size = 3,
+             color = "black",
+             alpha = .6) +
+  geom_line(aes(linetype = govern), alpha = .10) +
+  annotate("text", 
+           x = lubridate::ymd(2009, truncated = 3), 
+           y = 75, 
+           size = 3, 
+           hjust = 8, 
+           label = "Most striking dynamic element \nin number of schools \nis the growth of charters.") +
+  annotate("text",
+           x = lubridate::ymd(2015, truncated = 3),
+           y = 125,
+           size = 3,
+           hjust = 1,
+           alpha = 0.5,
+           label = "regular") +
+  annotate("text",
+           x = lubridate::ymd(2015, truncated = 3),
+           y = 40,
+           size = 3,
+           hjust = 0,
+           alpha = 0.5,
+           label = "charter etc") +
+  theme(legend.position = "none") +
+    scale_fill_manual(values = c("yellow", "darkblue")) +
+  labs(x = "Year",
+       y = "Number of Schools",
+       title = "CPS High Schools by Year and Type, 2006 -- 2017",
+       caption = "Data from Chicago Public Schools, April 2017. \nIn 2017, contract schools are included among charters. \n(http://www.cps.edu/SchoolData/Pages/SchoolData.aspx#collapseThree)")
+
+plotly::ggplotly(p, tooltip = "y")
+```
+
+So the visual evidence from this graph is that the number of charter and other schools of non-standard governance types has increased over the period, and that this increase has been the main dynamic in the number of high schools under CPS jurisdiction, since the number of regular schools has oscillated in a more steady manner. Though there is some up-and-downness, the share of non-standard schools has increased significantly.
+
+We can get another perspective on the growth of the number of charter institutions by mapping school locations at different time points. The City of Chicago has, among numerous data files at its [data hub site](https://data.cityofchicago.org/), a shapefile of [school locations in the year 2014-2015](https://data.cityofchicago.org/Education/Chicago-Public-Schools-School-Locations-SY1415/3fhj-xtn5). After some manipulations I've come up with spatial data.frames in sf (simple features) format for schools appearing in the enrollment_all_hs frame and the location frame, for the each of the years [2006-2007](https://github.com/cymack/CPSenrollment/blob/master/school_loc_merged.2006.Rds) and [2016-2017](https://github.com/cymack/CPSenrollment/blob/master/school_loc_merged.2016.Rds), available on my github site at the links. Again RCurl::getURL in the code chunk is aimed at the raw github files. It is hoped that in the first pass visualization the noise occasioned by mixing data across three years be overwhelmed by strength of the main effect.
+
+```{r data2, include=FALSE}
+# Data files:
+require("RCurl")
+library(RCurl)
+school_loc_merged.2006 <- read.csv(text = getURL("https://raw.githubusercontent.com/cymack/CPSenrollment/master/school_loc_merged.2006.csv"))
+school_loc_merged.2016 <- read.csv(text = getURL("https://raw.githubusercontent.com/cymack/CPSenrollment/master/school_loc_merged.2016.csv"))
+districts <- tigris::school_districts("Illinois", class = "sf", refresh = TRUE)
+```
+
+```{r cleaning, echo = F, include=FALSE}
+# Low-population factor levels collapsed using a forcats package command:
+school_loc_merged.2006 <- 
+    school_loc_merged.2006 %>% 
+    mutate(sch_type = 
+               fct_collapse(sch_type, 
+                            District = "District", 
+                            Charter = "Charter", 
+                            Other = c("ALOP", "Safe", "Contract")))
+
+school_loc_merged.2016 <- 
+    school_loc_merged.2016 %>% 
+    mutate(sch_type = 
+               fct_collapse(sch_type, 
+                            District = "District", 
+                            Charter = "Charter", 
+                            Other = c("ALOP", "Safe", "Contract")))
+
+school_loc_merged.2006 <- 
+    school_loc_merged.2006 %>% 
+    mutate(sch_type = fct_infreq(sch_type))
+school_loc_merged.2016 <- 
+    school_loc_merged.2016 %>% 
+    mutate(sch_type = fct_infreq(sch_type))
+
+```
+
+```{r lmapper function, echo = F, include=FALSE}
+lmapper <- function(ldf, syear) {ggplot(data = 
+           districts %>% 
+           filter(str_detect(NAME, "Chicago Public"))) +
+    geom_sf(fill = "light green", 
+            alpha = .1) + 
+    geom_point(data = ldf %>% 
+                   filter(grade_cat == "HS"), 
+               shape = 21, 
+               size = 3,
+               color = "black",
+               alpha = .6,
+               position = position_jitter(),
+               aes(x = x, 
+                   y = y, 
+                   fill = sch_type, 
+                   text = paste(school_nm, "<br>", "Enrollment", total_hs)
+                   )
+               ) + 
+    scale_fill_manual(values = c("darkblue", "yellow", "green4")) +
+        annotate("text", x = -87.85, y = 41.67, label = syear)
+}
+
+labs_lmap <- labs(title = "CPS High School Locations", 
+                  subtitle = "Data: City of Chicago, Chicago Public Schools, \n\tand U.S. Census Bureau", 
+                  fill = "Governance type")
+
+theme_lmap <- theme(axis.title = element_blank(), 
+                    axis.text = element_blank(), 
+                    axis.ticks = element_blank(), 
+                    legend.position = "bottom")
+
+
+```
+
+
+```{r maps, echo = F, message=FALSE, warning=FALSE, fig.align = "left"}
+p1 <- lmapper(school_loc_merged.2006, "2006-07") + labs_lmap + theme_lmap
+p2 <- lmapper(school_loc_merged.2016, "2016-17") + theme_lmap # + labs_lmap
+
+# plotly::ggplotly(p1)
+
+ggpubr::ggarrange(p1, p2, ncol = 2, common.legend = TRUE, legend = "bottom")
+```
+
+Another caveat is that the school types in the maps are derived from the locations data provided by the City of Chicago, and appears to be a different categorization from that in the CPS enrollment data set. The difference seems to affect mostly the charter and other options school types. In this case combining the charter and all other types into one factor level might actually have helped. 
+
+Clearly visible in the maps is the increase in number of high schools overall from 2006 to 2016. The increased density of locations is especially noticeable in the central area of the city, roughly to the west of downtown.
+
+
+#### About the Author:
+Charlotte Mack is a former economist who is interested in the use of R and other open source data platforms with public data as part of civic activities. She also enjoys black-and-white movies and television, and has recently added new tango to her numerous musical enthusiasms.  
+  
+`r fontawesome::fa("github")` [cymack](https://github.com/cymack)

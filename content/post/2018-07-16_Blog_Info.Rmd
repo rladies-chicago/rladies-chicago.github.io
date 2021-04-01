@@ -1,0 +1,23 @@
+---
+title: "Call for Blog Posts"
+author: "R-Ladies Chicago"
+date: 2018-07-16T21:13:14-05:00
+categories: ["Blog"]
+tags: ["community", "rladies"]
+---
+
+R-Ladies Chicago is excited to start this blog to showcase the perspectives of different members in the R-Ladies Chicago community!  
+  
+  
+We are looking for individuals who are interested in contributing to this blog. Whether you just want to write a single blog post or contribute regularly, we want to hear from you!  
+  
+  
+We're hoping to have two new posts each month on this blog. Blog posts could consist of:  
+   
+* Event Recaps (either an R-Ladies Meetup or Study Group Meeting or another R-related event)  
+* Learning something new in R (introducing a package or function in R)  
+* Member profiles (we would love to spotlight members of the R-Ladies Chicago Community)  
+  
+For more details about contributing, please visit our [github repo](https://github.com/rladies-chicago/blog). 
+  
+If you have any questions, please email us at [chicago@rladies.org](mailto:chicago@rladies.org).

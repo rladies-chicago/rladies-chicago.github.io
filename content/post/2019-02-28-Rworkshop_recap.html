@@ -1,0 +1,115 @@
+---
+title: " R Forwards Package Workshop Recap"
+author: "Florencia Mangini"
+date: 2019-02-26
+categories: ["R"]
+tags: ["community", "rladies","rforwards","workshop","package-development"]
+---
+
+
+
+<p>Last Saturday, February 23, 2019, took place the R Forwards Women’s Package Workshop in Chicago at Center for Spatial Data Science, where Angela Li (<a href="https://twitter.com/CivicAngela">CivicAngela</a>) and Stephanie Kirmer (<a href="https://twitter.com/data_stephanie">data_stephanie</a>) conducted the workshop. 40 R-Ladies attended from different parts of the Chicago area to increase their abilities with R.</p>
+<div class="figure">
+<img src="https://pbs.twimg.com/media/D0HzZViWkAAv-za.jpg" alt="Image Caption: Women’s Package Development Workshop Attendees" />
+<p class="caption"><em>Image Caption: Women’s Package Development Workshop Attendees</em></p>
+</div>
+<div id="what-do-we-learn" class="section level2">
+<h2>What do we learn?</h2>
+<p>We learned about packages, which are the fundamental units of reproducible R code. Also, we worked on how to create our package, the documentation associated and how to include a unit test to the process.</p>
+<p>We saw a variety of subjects in a friendly and collaborative environment. This course was very hands on, and both instructors solved many questions, or for the person sitting next to you. Both Angela and Stephanie presented each subject, and after that, we learned by doing simple exercises about the matter, and if eventually, you can not have any idea about how to continue you can ask for help about how to solve the problem. Just keep going and keep learning.</p>
+<div id="material-for-this-workshop" class="section level3">
+<h3>Material for this workshop</h3>
+<p>You can find all the material of the course in this link: <a href="https://github.com/forwards/workshops/tree/master/Chicago2019">Chicago 2019 Forwards Workshop</a>.</p>
+<p>Allow me to introduce the 5 decks presented during the workshop:</p>
+</div>
+</div>
+<div id="first-deck-package-development" class="section level2">
+<h2>First Deck: Package Development</h2>
+<p>Check the presentation <a href="https://docs.google.com/presentation/d/1DhOqaIumkwzbdglnyugoe53f63pFkQdQwgIdZpmEOok/edit#slide=id.p4">here</a>:</p>
+<p>This presentation is about R packages, Angela suggested to check how many R packages have already installed on our computer (you can’t believe the numbers :) ), the most common sources for R packages (Cran and Github), and an explanation of the difference (and similarities) between developing a package and developing a script.</p>
+<div id="takeaways" class="section level4">
+<h4>Takeaways:</h4>
+<ul>
+<li>A review for R package from the theory<br />
+</li>
+<li>Use of several commands like: <code>R.home()</code>, <code>list.files(R.home())</code>, <code>R.version</code></li>
+</ul>
+</div>
+</div>
+<div id="second-deck-packages-r-code" class="section level2">
+<h2>Second Deck: Packages &amp; R Code</h2>
+<p>During this second part, Angela revisited the definition of a package. Also, she analyzed the reasons to use RStudio projects. After this introduction, we started with the process of building a simple package.</p>
+<p>Later Stephanie took over explaining what git and GitHub are, and also she spent a moment speaking about version control, ending this second part making a project in RStudio from our repo.</p>
+<p>Check the presentation <a href="https://docs.google.com/presentation/d/1zFSArrDtVKNKvu5ZNZ6E4v64f-P7xy8x4-9c4c_B_cY/edit#slide=id.p1">here</a></p>
+<div id="takeaways-1" class="section level4">
+<h4>Takeaways:</h4>
+<ul>
+<li>We learned more about the package <a href="https://github.com/r-lib/usethis">usethis</a> (for example <code>usethis::create_package(&quot;~/Desktop/mypackage&quot;)</code>)<br />
+</li>
+<li>How to create our first package<br />
+</li>
+<li>How to make a project in RStudio from our repo<br />
+</li>
+<li>Useful resource: <a href="https://happygitwithr.com">Happy Git with R</a><br />
+</li>
+<li>Useful resource II: <a href="https://peerj.com/preprints/3159/">Excuse me, do you have a moment to talk about version control?</a></li>
+</ul>
+</div>
+</div>
+<div id="third-deck-unit-test" class="section level2">
+<h2>Third Deck: Unit Test</h2>
+<p>During this third part, we reviewed the reason-why is a great idea to use unit test: because it is an excellent way to be sure that our functionalities continue working after each change.<br />
+We also tested the coverage for our package. As a final recommendation, we should include checking our work as a regular part of the iterative process to develop a package (or in any development).</p>
+<p>Check the presentation <a href="https://docs.google.com/presentation/d/1-UfFgts0RXOw8VOtEvGv3iMC8rcI7g2QDRhL1MJFk6A/edit#slide=id.p1">here</a>:</p>
+<div id="takeaways-2" class="section level4">
+<h4>Takeaways:</h4>
+<ul>
+<li>Theory and practice about how to include unit test in your code<br />
+</li>
+<li>Useful resource: <a href="http://r-pkgs.had.co.nz/tests.html">Testing</a></li>
+</ul>
+</div>
+</div>
+<div id="fourth-deck-documentation" class="section level2">
+<h2>Fourth Deck: Documentation</h2>
+<p>During this fourth part, Stephanie spoke about documentation and why it is always a good idea to include it in your development process: because documentation is the way to preserve the information about the tools. She reviews Markdown and Roxygen, and also we opened up some function in R to check the Roxygen header and read the documentation, later we included a header in some of the functions created along the workshop. Also, we used Vignettes, Read.me and news to explain how our packages work.</p>
+<p>Check the presentation: <a href="https://docs.google.com/presentation/d/1f_uW09RVRF-Bu0kkVCHtB9OYYWxSjngtxcZ8ZvTquSU/edit#slide=id.p1">here</a></p>
+<div id="takeaways-3" class="section level4">
+<h4>Takeaways:</h4>
+<ul>
+<li>How to document <a href="http://r-pkgs.had.co.nz/data.html#documenting-data">data objects</a><br />
+</li>
+<li>How to document <a href="http://r-pkgs.had.co.nz/man.html#man-classes">classes and methods objects</a><br />
+</li>
+<li>How to document <a href="http://r-pkgs.had.co.nz/man.html#man-packages">packages objects</a><br />
+</li>
+<li>Information about <a href="http://r-pkgs.had.co.nz/vignettes.html">Vignettes</a></li>
+</ul>
+</div>
+</div>
+<div id="fifth-deck-share" class="section level2">
+<h2>Fifth Deck: Share</h2>
+<p>During this fifth part, we revisited the concept of licenses and the three main open source licenses (CC0, MIT, and GPL). We learned how to use helper to set up the type of license. We got about dependencies and the three types of dependencies (imports, suggests, and depends). We also saw how to access functions in imported packages. We spoke about the reasons to use depends instead on imports. Another concept presented was Automated checking to run automated checks for common problems in R packages. Moreover, also we saw something about how to make a submission to CRAN.</p>
+<p>Check the presentation: <a href="https://docs.google.com/presentation/d/17kkDKmcR8BiEo-5aoOkVHcfmOzqp87dR8gy3BwygkD4/edit#slide=id.p1">here</a></p>
+<div id="takeaways-4" class="section level4">
+<h4>Takeaways:</h4>
+<ul>
+<li><a href="http://r-pkgs.had.co.nz/check.html">Automated Checking</a></li>
+</ul>
+</div>
+</div>
+<div id="additional-materials" class="section level2">
+<h2>Additional Materials:</h2>
+<p>There are a lot of resources to continue digging into all the concept presented, some of them are:</p>
+<ul>
+<li><a href="https://adv-r.hadley.nz">Advanced R</a><br />
+</li>
+<li><a href="http://r-pkgs.had.co.nz">R packages</a><br />
+</li>
+<li><a href="https://r4ds.had.co.nz">R for data science</a></li>
+</ul>
+<div id="about-the-author" class="section level3">
+<h3>About the Author:</h3>
+<p><strong>Florencia Mangini</strong> is a software engineer interested in using data to make a positive impact on society. She enjoys learning and using R, with a focus on data visualization and data mining. She loves to write about business analytics, project management and data science in her blog: <a href="http://www.thinkingondata.com/">www.thinkingondata.com</a>.</p>
+</div>
+</div>
