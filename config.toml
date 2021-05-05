@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://rladies-chicago.github.io/"
+baseURL = "https://rladieschicago.org/"
 
 # Title of your site
 title = "R-Ladies Chicago"
@@ -241,13 +241,13 @@ enableGitInfo = false
   name = "Info"
   url = "#projects"
   weight = 3
- 
+
 [[menu.main]]
   name = "Blog"
   url = "#posts"
   weight = 4
 
- 
+
 
 [[menu.main]]
   name = "Contact"
@@ -265,3 +265,8 @@ enableGitInfo = false
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-us"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
